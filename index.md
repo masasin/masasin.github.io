@@ -4,4 +4,4 @@ title: Masasin
 ---
 
 ### Miscellaneous
-* [Presentations](https://masasin.github.io/presentations/)
+* [Presentations](presentations)
