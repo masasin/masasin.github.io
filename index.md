@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Masasin
+title: About me
 ---
 
 ### Miscellaneous
