@@ -9,9 +9,10 @@ Jean Nassar
 Engineer in Training
 
 Contact information:
-  email: jeannassar5@gmail.com
-  github: masasin
-  linkedin: masasin
+
+  - email: jeannassar5@gmail.com
+  - github: masasin
+  - linkedin: masasin
 
 
 Interests:
@@ -23,8 +24,11 @@ Certifications:
 Education
 ---------
 Kyoto University (Kyoto, Japan) - 2014-Present
+
   Candidate, MS Mechanical Engineering Science  
+
   Mechatronics Laboratory
+
   - Researching a third-person view for teleoperated drones using ROS and OpenGL
   - Assisting labmates with programming (including swarm robotics)
   - Was software lead for the lab's teleoperation robot; participated in RoboCup
