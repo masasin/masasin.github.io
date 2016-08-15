@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Presentations
+title: Résumés
 ---
 This is a list of all my résumés which are hosted on Github.
 
