@@ -1,7 +1,10 @@
+---
+layout: default
+title: Résumés
+---
 Jean Nassar
 ===========
-PDF: https://masasin.github.io/resumes/master.pdf
-Last updated: 2016-08-16
+[PDF](https://masasin.github.io/resumes/master.pdf) | Last updated: 2016-08-16
 
 Engineer in Training
 
