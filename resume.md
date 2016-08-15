@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Résumés
+title: Résumé
 ---
 Jean Nassar
 ===========
@@ -29,6 +29,7 @@ Education
     Candidate, MS Mechanical Engineering Science
     
     Mechatronics Laboratory
+    
     - Researching a third-person view for teleoperated drones using ROS and OpenGL
     - Assisting labmates with programming (including swarm robotics)
     - Was software lead for the lab's teleoperation robot; participated in RoboCup
