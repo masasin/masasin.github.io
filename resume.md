@@ -25,14 +25,12 @@ Education
 ---------
 Kyoto University (Kyoto, Japan) - 2014-Present
 
-  Candidate, MS Mechanical Engineering Science  
-
-  Mechatronics Laboratory
-
-  - Researching a third-person view for teleoperated drones using ROS and OpenGL
-  - Assisting labmates with programming (including swarm robotics)
-  - Was software lead for the lab's teleoperation robot; participated in RoboCup
-    Japan
+  - Candidate, MS Mechanical Engineering Science
+  - Mechatronics Laboratory
+    - Researching a third-person view for teleoperated drones using ROS and OpenGL
+    - Assisting labmates with programming (including swarm robotics)
+    - Was software lead for the lab's teleoperation robot; participated in RoboCup
+      Japan
 
 Kyoto University (Kyoto, Japan) - 2013-2014
   Research student  
