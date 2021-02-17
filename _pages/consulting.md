@@ -1,5 +1,5 @@
 ---
-permalink: /consulting
+permalink: /consulting/
 title: JN Consulting
 ---
 

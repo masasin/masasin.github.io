@@ -1,5 +1,5 @@
 ---
-permalink: /year-archive
+permalink: /year-archive/
 title: Posts
 ---
 Hello!

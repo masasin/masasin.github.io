@@ -1,5 +1,5 @@
 ---
-permalink: /page-archive
+permalink: /page-archive/
 title: Pages
 ---
 Hello!

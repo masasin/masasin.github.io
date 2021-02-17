@@ -1,5 +1,5 @@
 ---
-permalink: collection-archive
+permalink: /collection-archive/
 title: Collections
 ---
 Hello!

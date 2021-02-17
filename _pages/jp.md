@@ -1,5 +1,5 @@
 ---
-permalink: /jp
+permalink: /jp/
 locale: jp
 title: まさしんでーす
 ---

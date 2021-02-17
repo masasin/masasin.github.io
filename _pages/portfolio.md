@@ -1,5 +1,5 @@
 ---
-permalink: /portfolio
+permalink: /portfolio/
 title: Jean Nassar's Portfolio
 ---
 

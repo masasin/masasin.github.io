@@ -1,5 +1,5 @@
 ---
-permalink: /categories
+permalink: /categories/
 title: Categories
 ---
 
