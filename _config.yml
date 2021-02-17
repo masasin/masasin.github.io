@@ -98,11 +98,11 @@ author:
   avatar           : "/assets/images/jean.jpg"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Hi!"
   location         : "Earth"
-  email            : "jean@jnassar.com"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:masasin@jnassar.com"
+      url: "mailto:jean@jnassar.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://jnassar.com"
