@@ -1,6 +1,6 @@
 ---
 permalink: /jp/
-locale: jp
+lang: jp
 title: まさしんでーす
 ---
 
