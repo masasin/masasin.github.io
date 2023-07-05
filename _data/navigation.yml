@@ -9,11 +9,11 @@ main:
     url: /resume/
   - title: "Portfolio"
     url: /portfolio/
-  - title: "Posts"
-    url: /year-archive/
-  - title: "Categories"
-    url: /categories/
-  - title: "Collections"
-    url: /collection-archive/
-  - title: "日本語"
-    url: /jp/
+  # - title: "Posts"
+    # url: /year-archive/
+  # - title: "Categories"
+    # url: /categories/
+  # - title: "Collections"
+    # url: /collection-archive/
+  # - title: "日本語"
+    # url: /jp/
