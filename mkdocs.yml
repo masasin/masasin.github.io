@@ -23,11 +23,11 @@ theme:
     - search.share
 plugins:
   - search
+  - awesome-pages
   - i18n:
       default_language: en
       languages:
         en: English
-  - awesome-pages
 extra:
   social:
     - icon: fontawesome/brands/github-alt
