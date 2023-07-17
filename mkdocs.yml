@@ -34,11 +34,6 @@ theme:
 plugins:
   - search
   - awesome-pages
-  - i18n:
-      default_language: en
-      languages:
-        en: English
-        ja: 日本語
 extra:
   social:
     - icon: fontawesome/brands/github-alt
