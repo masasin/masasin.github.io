@@ -1,6 +1,4 @@
 *~
-Gemfile.lock
-Rakefile
-vendor
-_site
-.bundle
+site/
+.idea/
+.venv/

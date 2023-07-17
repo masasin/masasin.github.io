@@ -1,0 +1,41 @@
+site_name: Jean Nassar
+site_url: https://jnassar.com/
+site_author: Jean Nassar
+site_description: A Python and Robotics expert
+theme:
+  name: material
+  favicon: favicon.png
+  palette:
+    primary: dark purple
+    accent: deep orange
+  font:
+    text: Noto Serif
+    code: Roboto Mono
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.top
+    - navigation.path
+    - navigation.tracking
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - search.share
+plugins:
+  - search
+  - i18n:
+      default_language: en
+      languages:
+        en: English
+        ja: 日本語
+  - awesome-pages
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/masasin
+      name: masasin
+    - icon: fontawesome/brands/linkedin-in
+      link: https://www.linkedin.com/in/masasin
+      name: masasin
+  generator: false
+  copyright: Copyright &copy; 2021-2023 Jean Nassar

@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "masasin-github-io"
+version = "0.1.0"
+description = "A Python and Robotics Expert"
+authors = ["Jean Nassar"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "masasin"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+mkdocs-material = "^9.1.18"
+mkdocs-awesome-pages-plugin = "^2.9.1"
+mkdocs-static-i18n = "^0.56"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
