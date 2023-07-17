@@ -1,2 +1,2 @@
 # About
-Jean Nassar
+My name is Jean Nassar.
