@@ -4,10 +4,19 @@ site_author: Jean Nassar
 site_description: A Python and Robotics expert
 theme:
   name: material
-  favicon: favicon.png
   palette:
-    primary: dark purple
-    accent: deep orange
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+      primary: dark purple
+      accent: deep orange
+    - scheme: slate
+      toggle:
+          icon: material/toggle-switch
+          name: Switch to light mode
+      primary: slate
+      accent: deep orange
   font:
     text: Noto Serif
     code: Roboto Mono
@@ -21,6 +30,7 @@ theme:
     - search.suggest
     - search.highlight
     - search.share
+    - content.tabs.link
 plugins:
   - search
   - awesome-pages
@@ -33,4 +43,5 @@ extra:
       link: https://www.linkedin.com/in/masasin
       name: masasin
   generator: false
-  copyright: Copyright &copy; 2021-2023 Jean Nassar
+copyright: |
+  &copy; 2021 &ndash; 2023 <a href="https://github.com/masasin/" target="_blank" rel="noopener">Jean Nassar</a>
