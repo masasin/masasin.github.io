@@ -62,6 +62,11 @@ plugins:
         ja:
           About: 自己紹介
           Portfolio: 職務経歴書
+markdown_extensions:
+  - admonition
+  - attr_list
+  - toc:
+      permalink: true
 extra:
   social:
     - icon: fontawesome/brands/github-alt
