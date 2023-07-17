@@ -27,7 +27,6 @@ plugins:
       default_language: en
       languages:
         en: English
-        ja: 日本語
   - awesome-pages
 extra:
   social:
