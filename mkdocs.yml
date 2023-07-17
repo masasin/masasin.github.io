@@ -4,6 +4,7 @@ site_author: Jean Nassar
 site_description: A Python and Robotics expert
 theme:
   name: material
+  favicon: assets/images/favicon.ico
   palette:
     - scheme: default
       toggle:
