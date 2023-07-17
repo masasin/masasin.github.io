@@ -5,7 +5,6 @@ description = "A Python and Robotics Expert"
 authors = ["Jean Nassar"]
 license = "MIT"
 readme = "README.md"
-packages = [{include = "masasin"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
