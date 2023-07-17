@@ -22,7 +22,6 @@ theme:
     text: Noto Serif
     code: Roboto Mono
   features:
-    - navigation.instant
     - navigation.tabs
     - navigation.top
     - navigation.path
@@ -35,6 +34,34 @@ theme:
 plugins:
   - search
   - awesome-pages
+  - i18n:
+      default_language: en
+      docs_structure: folder
+      languages:
+        en:
+          name: English
+          build: true
+          site_name: "Jean Nassar"
+        fr:
+          name: Français
+          build: false
+          site_name: "Jean Nassar"
+        nl:
+          name: Nederlands
+          build: false
+          site_name: "Jean Nassar"
+        ja:
+          name: 日本語
+          build: false
+          site_name: "勝者神優"
+      nav_translations:
+        fr:
+          About: Qui suis-je
+        nl:
+          About: Over mij
+        ja:
+          About: 自己紹介
+          Portfolio: 職務経歴書
 extra:
   social:
     - icon: fontawesome/brands/github-alt
