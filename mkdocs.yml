@@ -9,14 +9,14 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
-      primary: dark purple
-      accent: deep orange
+      primary: teal
+      accent: lime
     - scheme: slate
       toggle:
           icon: material/toggle-switch
           name: Switch to light mode
-      primary: slate
-      accent: deep orange
+      primary: teal
+      accent: lime
   font:
     text: Noto Serif
     code: Roboto Mono
