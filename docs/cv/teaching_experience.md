@@ -9,3 +9,5 @@ In one case, I started by automating one report of a financial analyst working f
 In another, I enabled a PhD student to analyze his electron-phase micrographs by writing software with them which did the job of commercial software with an expensive license. I was acknowledged by name in [his paper](https://aip.scitation.org/doi/pdf/10.1063/1.5028398?class=pdf).
 
 Since 2019, I have also been teaching Python and Japanese both locally and on [Apprentus](https://apprentus.com), an online lesson platform.
+
+![Analyzed image](../assets/images/micrograph_analyzed.jpg){: style="width:400px"}
