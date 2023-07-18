@@ -1,6 +1,6 @@
 # Skills
 
-This section describes my skills in various areas. For details about the tools and technologies I have experience with,
+This section describes my [technical](#technical-skills) and [soft](#soft-skills) skills in various areas. For details about the tools and technologies I have experience with,
 please see the [tools and technologies](tools) page.
 
 ## Technical skills
@@ -11,6 +11,7 @@ Expert in Python, proficient in multiple programming languages, and experienced 
 - Proficiency in a wide range of programming languages, with a specialization in Python.
 - Experience in data science, including data analysis, modeling, and visualization.
 - Experience in web development, including backend and frontend frameworks and languages.
+- Ability to develop well-tested and well-documented codebases.
 - Ability to create and manage development environments, ensuring consistency and reliability across systems.
 - Extensive knowledge in agile development, version control, continuous integration, and continuous deployment.
 - Capability to develop interactive user interfaces, both terminal-based and graphical.
@@ -43,34 +44,41 @@ Skilled in CAD software, mechanical system simulation, electrical design platfor
 
 ## Soft skills
 ### Adaptability
-- International experience - lived in many countries and worked in many environments
-- Multilingual - proficient in English, Japanese, French, and Lebanese, and conversational in Dutch, Spanish, and more
-- Ability to adapt communication style to audience
 
-### Communication Skills
-- Articulate and effective written and verbal communication skills, including technical writing and presentations
-- Ability to communicate complex technical concepts clearly and simply
+- Experienced in adapting to diverse environments and cultures.
+- Multilingual and proficient in English, Japanese, French, and Lebanese; conversational in Dutch, Spanish, and more.
+- Adapts communication style to match the audience.
 
-### Interpersonal Skills 
-- Strong mentorship, coaching, and teaching skills - experience guiding colleagues to improve skills and onboarding new team members
-- Patient and understanding when explaining concepts or teaching others
-- Collaborative team player who values cross-functional collaboration 
+### Communication skills
 
-### Critical Thinking and Problem Solving
-- Methodical and analytical approach to solving problems
-- Ability to learn and adapt quickly to new environments 
-- Resourceful and persistent in tackling challenges
+- Possesses articulate and effective written and verbal communication skills, including technical writing and presentations.
+- Skilled in communicating complex technical concepts clearly and simply.
+
+### Interpersonal skills
+
+- Proven mentorship, coaching, and teaching skills with experience guiding colleagues to improve and learn.
+- Exhibits patience and understanding when explaining concepts or teaching others.
+- Values and excels in cross-functional collaboration.
+
+### Critical thinking and Problem solving
+
+- Applies methodical and analytical approach to problem-solving.
+- Learns and adapts quickly to new environments.
+- Shows resourcefulness and persistence in tackling challenges.
 
 ### Leadership
-- Takes initiative to identify issues and propose solutions 
-- Led teams and projects effectively through planning and execution 
-- Passionate about continuous improvement processes
 
-### Organizational Skills
-- Attention to detail and commitment to producing high quality work
-- Ability to plan, coordinate, and execute complex projects
-- Experience with project management tools and software development best practices
+- Proactively identifies issues and proposes solutions.
+- Experienced in leading teams and projects effectively from planning to execution.
+- Passionate about continuous improvement processes.
 
-### Lifelong Learning
-- Continuous learner - seeks opportunities to improve skills and learn new technologies
-- Passionate about expanding expertise across multiple technical domains
+### Organizational skills
+
+- Committed to attention to detail and producing high-quality work.
+- Skilled in planning, coordinating, and executing complex projects.
+- Experienced with project management tools and software development best practices.
+
+### Lifelong learning
+
+- Continuously seeks opportunities to improve skills and learn new technologies.
+- Enthusiastic about expanding expertise across multiple technical domains.
