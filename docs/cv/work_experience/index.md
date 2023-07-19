@@ -1,4 +1,4 @@
-# My work experience
+# Work experience
 This page contains the details of my work experience after graduation.
 For my work experience during my studies, please see the [Co-op page](coop).
 
