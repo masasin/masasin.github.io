@@ -38,7 +38,7 @@ This is a list of tools that I have used, or continue to use, broken down by fie
 - **Familiar with:** Matlab (with Simulink), RSLogix
 ### Mechanical engineering
 - **CAD Tools:** Solidworks, Autodesk Inventor, AutoCAD, Sketchup, Pro/E, CATIA, Unigraphics, FreeCAD, OpenSCAD
-- **Analysis and simulation:** Solidworks, ADAMS, ANSYS
+- **Analysis and simulation:** Solidworks, Adams View, ANSYS
 - **Production:** Machine shop practices, metalworking, woodworking
 ### Electrical engineering
 - **Platforms:** Raspberry Pi, ESP8266, Arduino, mbed, PIC, AVR, Altera DE2 FPGA

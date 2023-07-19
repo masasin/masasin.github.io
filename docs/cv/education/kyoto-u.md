@@ -54,14 +54,14 @@ the project succeeded in laying the groundwork for a system that abstracted away
 potentially enabling control via computer vision or other input sources.
 
 ### Course projects
-In the Design and Manufacturing Engineering course, I wrote a routing algorithm for a CNC.
+In the _Design and Manufacturing Engineering_ course, I wrote a routing algorithm for a CNC.
 
-For the Dynamic System Control Theory course,
+For the _Dynamic System Control Theory_ course,
 I modeled the dynamics of a small and large ship with and without rudder control,
 and wrote a Kalman filter to reduce perturbations.
 I also used dynamic programming to solve a waste disposal problem.
 
-For the Engineering Ethics and Management of Technology course,
+For the _Engineering Ethics and Management of Technology_ course,
 we analyzed the cause of an engineering disaster,
 and submitted proposals for a safer system.
 We also developed a new product and submitted a (mock) pitch in order to secure funding.
