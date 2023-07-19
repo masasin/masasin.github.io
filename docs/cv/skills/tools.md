@@ -32,7 +32,7 @@ This is a list of tools that I have used, or continue to use, broken down by fie
 ### Robotics
 - **Languages:** Python, C, C++ (up to '03)
 - **Packages:** ROS, Gazebo, OpenCV
-- **Hardware:** Allen Bradley PLCs, KUKA robotic arms, Dynamixel, Maxon, PhotonFocus
+- **Hardware:** Allen Bradley PLCs, Kinova robotic arms, Dynamixel, Maxon, PhotonFocus
 - **Products:** LEGO Mindstorms, AR.Drone
 - **Motion capture:** Optitrack
 - **Familiar with:** Matlab (with Simulink), RSLogix
