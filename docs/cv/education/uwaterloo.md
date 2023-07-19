@@ -4,7 +4,7 @@ and graduated with a Bachelor of Applied Science in Honours Mechatronics Enginee
 
 The program is a combination of mechanical, electrical, and software engineering,
 and was heavily practical, with [many hands-on projects](#projects) for students to apply concepts learned in the classroom.
-I also completed [six co-operative education (co-op) internships](../work_experience/coop)
+I also completed [six co-operative education (co-op) internships](../work_experience/coop.md)
 in three countries over a total of two years.
 Each co-op is normally a four-month-long remunerated full-time position,
 which allows a student to experience various facets of engineering.
@@ -37,7 +37,7 @@ with the [University of Waterloo Culture and Language Exchange Club (UWCLEC)](ht
 
 ## Highlighted projects
 I had five or six courses per academic term, for 42 courses total. Most of these courses had at least one project.
-A few of them are below, broadly arranged by theme. For more details, please see the [dedicated project page](../projects/uwaterloo).
+A few of them are below, broadly arranged by theme. For more details, please see the [dedicated project page](../projects/undergrad.md).
 
 ### Mechatronics
 - Constructed a line-following robot with LEGO Mindstorms.

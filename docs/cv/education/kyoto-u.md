@@ -5,12 +5,12 @@ I graduated in March 2017 with a Master of Engineering degree from the Departmen
 
 While at Kyoto University, I worked on [many projects](#highlighted-projects).
 My research topics were primarily on the topic of [human-robot interaction](https://en.wikipedia.org/wiki/Human%E2%80%93robot_interaction).
-I started out working on the [gestural control of robots](../projects/myo),
-and switched to [teleoperation of drones](../projects/spirit) in my second year.
+I started out working on the [gestural control of robots](../projects/myo.md),
+and switched to [teleoperation of drones](../projects/spirit.md) in my second year.
 
-At Kyoto University, I also [tutored other students](../teaching_experience) in Python and software development best practices,
+At Kyoto University, I also [tutored other students](../teaching_experience.md) in Python and software development best practices,
 including testing and version control.
-I also participated in the [RoboCup Japan Open Rescue League](yozakura.md) multiple times in the teleoperated division.
+I also participated in the [RoboCup Japan Open Rescue League](../projects/yozakura.md) multiple times in the teleoperated division.
 
 Finally, I also participated in the 2016 edition in [Japan Tent](https://www.japantent.com/english.html)
 (link not accessible from the EU), a program by Ishikawa Prefecture which allows foreign students from across Japan
@@ -20,7 +20,7 @@ I was selected as a Japan Tent ambassador for the year thanks to my Japanese abi
 ## Highlighted projects
 ### Spirit
 As part of a master's thesis at Kyoto University from 2015 to 2017,
-I developed [SPIRIT (Subimposed Past Image Records Implemented for Teleoperation)](../projects/spirit).
+I developed [SPIRIT (Subimposed Past Image Records Implemented for Teleoperation)](../projects/spirit.md).
 
 This system aimed to make teleoperation of drones more reliable in environments such as collapsed structures,
 where connectivity can be compromised.
@@ -32,7 +32,7 @@ Moreover, SPIRIT showcased a flexible, well-documented code structure,
 allowing for modifications and enhancements via its evaluation functions.
 
 ### Yozakura
-During 2014 &nbsp; 2015, [Yozakura](../projects/yozakura), a teleoperated rescue robot, was developed as part of the
+During 2014 &nbsp; 2015, [Yozakura](../projects/yozakura.md), a teleoperated rescue robot, was developed as part of the
 Kyoto University Mechatronics Lab's SHINOBI team.
 
 Yozakura was equipped with star-shaped wheels, flippers, a robotic arm, and various sensors,
@@ -44,7 +44,7 @@ The software was also designed with robustness and adaptability in mind,
 logging critical data, providing useful error messages, and being capable of self-correction when possible.
 
 ### Gestural control of robots
-In 2014-2015 at Kyoto University, I developed a [gesture-based robotic control system](../projects/myo),
+In 2014-2015 at Kyoto University, I developed a [gesture-based robotic control system](../projects/myo.md),
 leveraging the Myo armband from Thalmic labs.
 The main focus of this project was to establish an intuitive, ergonomic method of controlling robots,
 with the main challenge being the determination of the most effective gesture mappings.
@@ -93,4 +93,3 @@ my team and I made a suitcase which follows its owner over various terrains.
 
 ### Engineering ethics and Management
 - Engineering ethics and management of technology
-
