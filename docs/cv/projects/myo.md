@@ -10,7 +10,7 @@ and I changed my thesis to [SPIRIT](spirit).
 The source code is not publically available.
 
 I designed and developed infrastructure which would allow gestural control of robots,
-while abstracting away the interface used using an API.
+while abstracting away the interface used by using an API.
 While I tested with the armband, the system also allowed control using e.g., computer vision from a webcam.
 
 The most difficult part was figuring out good, intuitive mappings to use.
