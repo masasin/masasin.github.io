@@ -69,12 +69,18 @@ markdown_extensions:
       permalink: true
 extra:
   social:
-    - icon: fontawesome/brands/github-alt
-      link: https://github.com/masasin
-      name: masasin
+    - icon: fontawesome/solid/envelope
+      link: mailto:contact@jnassar.com
+      name: contact@jnassar.com
     - icon: fontawesome/brands/linkedin-in
       link: https://www.linkedin.com/in/masasin
       name: masasin
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/masasin
+      name: masasin
+    - icon: fontawesome/solid/code-pull-request
+      link: https://github.com/masasin/masasin.github.io
+      name: masasin.github.io
   generator: false
 copyright: |
   &copy; 2021 &ndash; 2023 <a href="https://github.com/masasin/" target="_blank" rel="noopener">Jean Nassar</a>
