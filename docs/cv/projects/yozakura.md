@@ -1,5 +1,5 @@
 # Yozakura
-2014 &ndash; 2015, [Kyoto University](../education/kyoto-u)
+2014 &ndash; 2015, [Kyoto University](../education/kyoto-u.md)
 
 The Kyoto University [Mechatronics Lab](http://www.mechatronics.me.kyoto-u.ac.jp/index.php?ml_lang=en)’s
 [SHINOBI team](https://github.com/kyoto-u-shinobi) designed a new teleoperated rescue robot

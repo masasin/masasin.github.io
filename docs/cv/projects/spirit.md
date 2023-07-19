@@ -1,5 +1,5 @@
 # SPIRIT (Masters thesis)
-2015 &ndash; 2017, Kyoto University.
+2015 &ndash; 2017, [Kyoto University](../education/kyoto-u.md).
 
 SPIRIT stands for "Subimposed Past Image Records Implemented for Teleoperation".
 
