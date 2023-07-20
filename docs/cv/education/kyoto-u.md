@@ -1,15 +1,16 @@
 # Kyoto University
+2013 &ndash; 2017
+
+??? summary
+
+    - Was a member of the Mechatronics Laboratory from 2013 to 2017, graduated with a Master of Engineering degree from the Department of Mechanical Engineering.
+    - Worked on many projects, primarily in the field of human-robot interaction, including the development of a teleoperation system for drones and gestural control of robots.
+    - Participated in the 2016 Japan Tent program, a cultural exchange program by Ishikawa Prefecture.
+    - Completed several course projects in areas including design and manufacturing engineering, dynamic system control theory, and engineering ethics.
 
 I was a member of the [Mechatronics Laboratory](http://www.mechatronics.me.kyoto-u.ac.jp/index.php?ml_lang=en) at Kyoto University from 2014 to 2017.
 I joined as a research student in 2013, and enrolled in the Masters program starting in April 2014.
 I graduated in March 2017 with a Master of Engineering degree from the Department of Mechanical Engineering.
-
-??? summary
-
-    - Studied at the Mechatronics Laboratory from 2014 to 2017, graduated with a Master of Engineering degree from the Department of Mechanical Engineering.
-    - Worked on many projects, primarily in the field of human-robot interaction, including the development of a teleoperation system for drones and gestural control of robots.
-    - Participated in the 2016 Japan Tent program, a cultural exchange program by Ishikawa Prefecture.
-    - Completed several course projects in areas including design and manufacturing engineering, dynamic system control theory, and engineering ethics.
 
 While at Kyoto University, I worked on [many projects](#highlighted-projects).
 My research topics were primarily on the topic of [human-robot interaction](https://en.wikipedia.org/wiki/Human%E2%80%93robot_interaction).
@@ -40,7 +41,7 @@ Moreover, SPIRIT showcased a flexible, well-documented code structure,
 allowing for modifications and enhancements via its evaluation functions.
 
 ### Yozakura
-During 2014 &nbsp; 2015, [Yozakura](../projects/yozakura.md), a teleoperated rescue robot, was developed as part of the
+During 2014 and 2015, [Yozakura](../projects/yozakura.md), a teleoperated rescue robot, was developed as part of the
 Kyoto University Mechatronics Lab's SHINOBI team.
 
 Yozakura was equipped with star-shaped wheels, flippers, a robotic arm, and various sensors,
@@ -52,7 +53,7 @@ The software was also designed with robustness and adaptability in mind,
 logging critical data, providing useful error messages, and being capable of self-correction when possible.
 
 ### Gestural control of robots
-In 2014-2015 at Kyoto University, I developed a [gesture-based robotic control system](../projects/myo.md),
+Between 2014 and 2015 at Kyoto University, I developed a [gesture-based robotic control system](../projects/myo.md),
 leveraging the Myo armband from Thalmic labs.
 The main focus of this project was to establish an intuitive, ergonomic method of controlling robots,
 with the main challenge being the determination of the most effective gesture mappings.

@@ -1,6 +1,5 @@
 # University of Waterloo
-I studied at the University of Waterloo from 2008 to 2013,
-and graduated with a Bachelor of Applied Science in Honours Mechatronics Engineering.
+2008 &ndash; 2013
 
 ??? summary
 
@@ -10,6 +9,9 @@ and graduated with a Bachelor of Applied Science in Honours Mechatronics Enginee
     - Participated heavily in extracurricular activities, including several clubs and initiatives.
     - Completed numerous projects across a variety of disciplines including mechatronics, mechanical engineering, electrical engineering,
       computer engineering, controls, bioengineering, mathematics, and entrepreneurship.
+
+I studied at the University of Waterloo from 2008 to 2013,
+and graduated with a Bachelor of Applied Science in Honours Mechatronics Engineering.
 
 The program is a combination of mechanical, electrical, and software engineering,
 and was heavily practical, with [many hands-on projects](#projects) for students to apply concepts learned in the classroom.
