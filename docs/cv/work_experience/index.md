@@ -1,9 +1,17 @@
 # Work experience
 This page contains the details of my work experience after graduation.
-For my work experience during my studies, please see the [Co-op page](coop).
+For my work experience during my studies, please see the [Co-op page](coop.md).
 
 ## Senior Python Developer, [Adimian](https://www.adimian.com/)
 _January 2021 to October 2023, Belgium._
+
+??? summary
+
+    - Took end-to-end project responsibility, including initial design, development, deployment, and maintenance.
+    - Developed and maintained a variety of Python applications, including a web-based data management system and a data processing pipeline.
+    - Utilized Python libraries like Pydantic, FastAPI, SqlAlchemy, and Redis for backend development and Vue for frontend tasks.
+    - Efficiently addressed bug reports and managed releases, maintaining high-standard deliverables.
+    - Leveraged tutoring experience to mentor colleagues, helping them improve their skills and on-board new team members, to high praise.
 
 Adimian is a Belgian software consulting firm known for their expertise in custom development, cybersecurity, and big data.
 They have a pronounced presence in the energy sector and with European institutions.
@@ -42,6 +50,13 @@ I was highly praised for my patience and understanding when reviewing, explainin
 ## Senior Python Developer, [Yields.io](https://www.yields.io/)
 _December 2019 to August 2020, Brussels, Belgium._
 
+??? summary
+
+    - Served as the primary Python developer, working on the core of the platform.
+    - Refactored and stabilized the codebase, added tests, fixed bugs, and developed new features.
+    - Worked on automatically migrating and testing client code and artifacts with version increases, and deprecated old features.
+    - Moved integration tests away from depending on mocks into tests that worked with a deployed Docker environment.
+
 Yields.io is the first company to develop an AI-based automated model risk management system on an enterprise-wide scale
 with a platform designed to support the full model life cycle.
 They mostly offer their services to the financial sector, with smaller, regional banks automating the model validation effort,
@@ -68,6 +83,13 @@ into tests that could work with a deployed Docker environment.
 ## Industrial Automation Engineer, [Kapernikov](https://www.kapernikov.com/)
 _March to October 2019, Brussels, Belgium._
 
+??? summary
+
+    - Developed a monitoring system for a conveyor belt using Python 3 and ROS.
+    - Used a laser profiler and camera for object identification and created a 3D representation of the conveyor belt.
+    - Detected potentially disruptive objects in real time and produced visualizations for the client’s video management system.
+    - Fixed bugs in C++ code and created a standalone ROS node for camera communication.
+
 Kapernikov is a consulting company specializing in industrial automation and Industry 4.0.
 The client had irregularly shaped objects on a long conveyor belt, some of which blocked the belt and caused long delays.
 
@@ -85,6 +107,14 @@ All other ROS nodes, transformations, and analyses were written in Python.
 
 ## Data Scientist, [Sentiance](https://www.sentiance.com/)
 _February to December 2018, Antwerp, Belgium._
+
+??? summary
+
+    - Moved the company’s codebase from Python 2 to Python 3.
+    - Refactored core functionality into more modular components, verified and built machine learning models in numpy and scikit-learn.
+    - Used pyspark to increase code efficiency by parallelizing, or to add new functionality.
+    - Created several docker containers and docker-compose files to automate environment setup and teardown.
+    - Worked on standardizing DevPI index contents using Pipenv.
 
 Sentiance turns IOT sensor data from e.g., mobile phones into insightful data,
 such as the segment of the population that a user belongs to, as well as their current actions and predicted future actions.

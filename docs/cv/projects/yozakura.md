@@ -1,6 +1,14 @@
 # Yozakura
 2014 &ndash; 2015, [Kyoto University](../education/kyoto-u.md)
 
+??? summary
+
+    - Served as software development lead for the Yozakura teleoperated rescue robot at Kyoto University's Mechatronics Lab.
+    - Developed a client-server system for robot control and wrote code for onboard Raspberry Pi and mbed chips,
+      including drivers for various controllers and sensors.
+    - The code was robust against failure and well-documented, providing useful error messages for hardware, software,
+      and operator errors of various types, and correcting them where necessary.
+
 The Kyoto University [Mechatronics Lab](http://www.mechatronics.me.kyoto-u.ac.jp/index.php?ml_lang=en)’s
 [SHINOBI team](https://github.com/kyoto-u-shinobi) designed a new teleoperated rescue robot
 called Yozakura to participate in the 2015 [RoboCup Japan Open](http://robocup.or.jp/)

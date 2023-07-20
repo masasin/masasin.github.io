@@ -6,6 +6,13 @@ I was fortunate enough to be part of this program, and I did six work terms in t
 ## Design Engineer, [Starquip Integrated Systems](https://www.starquip.com/)
 _May to August 2012. Toronto, ON, Canada._
 
+??? summary
+
+    - Assisted in the mechanical design of pneumatic lift-assist devices using Solidworks.
+    - Converted existing 2D drawings to 3D assemblies, reducing the creation time for most new devices significantly.
+    - Produced ASME-compliant drawings.
+    - Developed a new system which modularized the pneumatic diagram and interactively generated a bill of materials.
+
 Starquip is an engineering company in Toronto, which offers design and manufacturing for custom-made ergonomic lift assist devices,
 as well as crane and track systems to various industries.
 The machines that the company develops use pneumatic circuits for their control logic and mechanical actuation.
@@ -24,6 +31,13 @@ That reduced the creation time of 80% of new drawings from hours to around 10 mi
 ## Junior Project Engineer, [Kevin Quan Studios](https://kqbikes.com)
 _September to December 2011.  Toronto, ON, Canada_
 
+??? summary
+
+    - Completed basic and intermediate Solidworks training, including surface modeling.
+    - Created parts, assemblies, and drawings for mountain and racing bicycles.
+    - Wrote an airfoil generator and exporter using LibreOffice and Python.
+    - Performed 2D and 3D CFD analysis in Solidworks, determined the optimum configuration for several racing bicycles, and designed tooling molds and parts.
+
 Kevin Quan Studios is a bicycle design studio in Toronto which has designed several award-winning bicycles.
 At the time, the company was three years old, and had only three employees, including me.
 
@@ -36,6 +50,12 @@ I determined the optimum configuration for several racing bicycles, and designed
 ## Hardware Associate, [IMS](https://www.ims.tech/)
 _January to April 2011. Waterloo, ON, Canada._
 
+??? summary
+
+    - Involved in selecting and coding new hardware, prototyped hardware solutions using Altium Designer, and programmed microcontrollers using C and C++.
+    - Provided general assistance to lead design engineers.
+    - Investigated self-resonance in inductors to enhance the accuracy of test results.
+
 IMS (then Intelligent Mechatronics Systems, now Insurance & Mobility Solutions) is a technology company in Waterloo, Ontario, Canada.
 At the time, it developed automotive safety products, including telematics which would enhance driver behaviour,
 and mobile media which allows drivers to acquire and manage critical information in the vehicle.
@@ -47,6 +67,12 @@ and investigated self-resonance in inductors in order to enhance the accuracy of
 
 ## Research Assistant, [Multiscale Additive Manufacturing Lab](https://msam.uwaterloo.ca)
 _May to September 2010. University of Waterloo. Waterloo, ON, Canada._
+
+??? summary
+
+    - Designed, procured, and assembled parts for an enclosure for a solid freeform fabrication (SFF) workstation.
+    - Manufactured or coordinated the manufacture of several parts.
+    - Performed image processing on scanning electron micrographs using Octave.
 
 The Multiscale Additive Manufacturing (MSAM) lab focuses on next generation additive manufacturing processes.
 To this end, the lab explores novel techniques to develop advanced materials, innovative products,
@@ -63,6 +89,12 @@ I also performed image processing on scanning electron micrographs using Octave.
 ## Research Assistant, [Computer Vision and Mobile Robotics Lab](https://sites.aub.edu.lb/vrlab/)
 _September to December 2009. American University of Beirut. Beirut, Lebanon._
 
+??? summary
+
+    - Developed a positional navigation system for the localization of robots.
+    - Wrote code to estimate the current position using a 6-axis IMU, researched the state of the art of IMU-vision integration.
+    - Used an Extended Kalman Filter to incorporate information from encoders, IMU estimates, and visual odometry estimates.
+
 I worked under Dr. Daniel Asmar at the Computer Vision and Mobile Robotics lab at the American University of Beirut.
 
 I researched and developed a positional navigation system for the localization of robots.
@@ -76,6 +108,13 @@ I also programmed a PIC-16 in C and assembly, and used an external debugger.
 
 ## Engineer in Training, [Sierra Construction Systems](https://www.sierraconstructionsystems.com/)
 _January to April 2009. Freetown, Sierra Leone._
+
+??? summary
+
+    - Created and verified as-built structural and electrical diagrams for buildings.
+    - Performed arc welding, cutting, woodworking, and aluminium working, repaired internal combustion engines and hydraulic systems.
+    - Prepared estimates for building construction with Primavera and Microsoft Project.
+    - Used VBA, Excel, and Word to computerize the company’s payroll system, resulting in a significant increase in productivity.
 
 Sierra Construction Systems is one of the largest construction companies in Sierra Leone, with hundreds of employees.
 

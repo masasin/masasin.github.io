@@ -1,6 +1,13 @@
 # SPIRIT (Masters thesis)
 2015 &ndash; 2017, [Kyoto University](../education/kyoto-u.md).
 
+??? summary
+
+    - Masters thesis project at Kyoto University, developing a third-person view interface for controlling a monocular drone.
+    - Created a system that superimposed a CGI version of the drone on top of an actual image taken by the FPV camera earlier.
+    - Designed, conducted, and analyzed user studies which were performed to test the efficacy of the system,
+      which showed a large improvement in many metrics, even with a 2 Hz transmission rate.
+
 SPIRIT stands for "Subimposed Past Image Records Implemented for Teleoperation".
 
 Japan is prone to natural disasters.

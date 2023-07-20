@@ -1,6 +1,12 @@
 # Gestural Control of Robots
 2014 &ndash; 2015, [Kyoto University](../education/kyoto-u.md)
 
+??? summary
+
+    - Initial research project at Kyoto University aimed at developing infrastructure to allow ergonomic control of robots using gestures.
+    - Designed and developed infrastructure that abstracted away the interface used by using an API,
+      with a proof of concept using the Myo armband from Thalmic Labs to control robots.
+
 My initial research topic was developing infrastructure which would allow the ergonomic control of robots using gestures.
 
 My proof of concept was going to be using the Myo armband from Thalmic labs to control robots,

@@ -1,4 +1,13 @@
 # Open Source Project Sampling
+2008 &ndash; Present
+
+??? summary
+
+    - Contributed to numerous open source projects, from creating Python libraries to contributing to larger projects.
+    - Projects on PyPI include "latexipy," which easily generates great plots in multiple formats, and "pyrosbag,"
+      which allows programmatic playback of ROS Bag files.
+    - Highlighted projects include "resume," a CV and cover letter generator,
+      and "spirit," a repository containing masters research code, data analysis, and thesis.
 
 Most of my code is fully documented.
 PyPI projects are on a continuous integration server and have full test coverage as well.
