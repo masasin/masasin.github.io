@@ -47,7 +47,7 @@ Kyoto University Mechatronics Lab's SHINOBI team.
 Yozakura was equipped with star-shaped wheels, flippers, a robotic arm, and various sensors,
 aimed at competing in the 2015 RoboCup Japan Open Rescue League.
 
-I was the software development lead for YOZAKURA, and focused on creating a client-server system for controlling the robot
+I was the software development lead for Yozakura, and focused on creating a client-server system for controlling the robot
 and developing drivers for its various components.
 The software was also designed with robustness and adaptability in mind,
 logging critical data, providing useful error messages, and being capable of self-correction when possible.
