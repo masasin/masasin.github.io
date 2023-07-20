@@ -1,5 +1,5 @@
 # University of Waterloo
-I studied at the University of Waterloo from 2018 to 2013,
+I studied at the University of Waterloo from 2008 to 2013,
 and graduated with a Bachelor of Applied Science in Honours Mechatronics Engineering.
 
 The program is a combination of mechanical, electrical, and software engineering,
