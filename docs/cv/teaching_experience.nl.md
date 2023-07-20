@@ -1,7 +1,7 @@
 # Onderwijservaring
 2003 – Heden
 
-??? summary "Samenvatting"
+??? summary "Overzicht"
 
     - Meer dan 20 jaar ervaring als privéleraar, met het onderwijzen van vakken variërend van wiskunde en natuurkunde tot Engels en Japans,
       evenals Python voor projectwerk.

@@ -1,7 +1,7 @@
 # Opleiding
 Mijn educatieve achtergrond bestrijkt twee hoog aangeschreven instellingen over verschillende continenten, en biedt me een diverse, uitgebreide basis in mechatronica, robotica, en meer. Hier is een overzicht van mijn academische reis:
 
-??? summary "Samenvatting"
+??? summary "Overzicht"
 
     - 2014 tot 2017: Master of Engineering, Werktuigbouwkunde, Universiteit van Kyoto (Mechatronica Laboratorium), Kyoto, Japan.
     - 2008 tot 2013: Bachelor of Applied Science, Honours Mechatronica Engineering, Universiteit van Waterloo, Waterloo, ON, Canada.

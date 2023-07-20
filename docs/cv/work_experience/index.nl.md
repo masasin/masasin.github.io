@@ -5,7 +5,7 @@ Voor mijn werkervaring tijdens mijn studie, zie de [Co-op pagina](coop.md).
 ## Senior Python Ontwikkelaar, [Adimian](https://www.adimian.com/)
 _Januari 2021 tot oktober 2023, België._
 
-??? summary "Samenvatting"
+??? summary "Overzicht"
 
     - Nam de end-to-end projectverantwoordelijkheid op zich, inclusief initieel ontwerp, ontwikkeling, implementatie en onderhoud.
     - Ontwikkelde en onderhield diverse Python applicaties, waaronder een web-gebaseerd datamanagementsysteem en een dataprocessing pipeline.
@@ -50,7 +50,7 @@ Ik werd zeer geprezen om mijn geduld en begrip bij het reviewen, uitleggen of on
 ## Senior Python Ontwikkelaar, [Yields.io](https://www.yields.io/)
 _December 2019 tot augustus 2020, Brussel, België._
 
-??? summary "Samenvatting"
+??? summary "Overzicht"
 
     - Diende als de primaire Python ontwikkelaar, werkend aan de kern van het platform.
     - Refactorde en stabiliseerde de codebase, voegde tests toe, loste bugs op en ontwikkelde nieuwe functies.
@@ -83,7 +83,7 @@ naar tests die konden werken met een uitgerolde Docker omgeving.
 ## Industriële Automatisatie Ingenieur, [Kapernikov](https://www.kapernikov.com/)
 _Maart tot oktober 2019, Brussel, België._
 
-??? summary "Samenvatting"
+??? summary "Overzicht"
 
     - Ontwikkelde een bewakingssysteem voor een transportband met behulp van Python 3 en ROS.
     - Gebruikte een laserprofiler en camera voor objectidentificatie en creëerde een 3D representatie van de transportband.
@@ -108,7 +108,7 @@ Alle andere ROS nodes, transformaties, en analyses waren geschreven in Python.
 ## Data Scientist, [Sentiance](https://www.sentiance.com/)
 _Februari tot december 2018, Antwerpen, België._
 
-??? summary "Samenvatting"
+??? summary "Overzicht"
 
     - Verplaatste de codebase van het bedrijf van Python 2 naar Python 3.
     - Refactorde kernfunctionaliteit naar meer modulaire componenten, verifieerde en bouwde machine learning modellen in numpy en scikit-learn.

@@ -1,7 +1,7 @@
 # Universiteit van Waterloo
 2008 – 2013
 
-??? summary "Samenvatting"
+??? summary "Overzicht"
 
     - Bachelor of Applied Science behaald in Mechatronica Engineering met onderscheiding van 2008 tot 2013.
     - Studie van een combinatie van mechanica, elektriciteit en software engineering gericht op praktische toepassing.
@@ -58,7 +58,7 @@ Enkele daarvan staan hieronder, grotendeels gerangschikt op thema. Voor meer det
 - Uitvoering van een eindproject om een draagbaar waterzuiverings- en transportsysteem te ontwerpen op een fietskar,
   met energieopwekking door de beweging van de kar.
 
-### [Mechanical Engineering](../projects/undergrad.md#mechanical-engineering)
+### [Werktuigbouwkunde](../projects/undergrad.md#werktuigbouwkunde)
 - Bouw van een kleine brug binnen budgetbeperkingen.
 - Bouw van een kraanbalk uit balsahout gericht op maximale gewichtscapaciteit.
 - Simulatie en analyse van een kiepmechanisme in Adams View om de fysieke verbindingen te optimaliseren.
@@ -66,7 +66,7 @@ Enkele daarvan staan hieronder, grotendeels gerangschikt op thema. Voor meer det
 ### [Elektrotechniek](../projects/undergrad.md#elektrotechniek)
 - Gebruik van Karnaugh-kaarten en Booleaanse algebra om gecompliceerde staten te vereenvoudigen en digitale logische circuits te ontwerpen, waaronder een PLC-verkeerslichtregelaar.
 
-### [Computer Engineering](../projects/undergrad.md#computer-engineering)
+### [Informatica](../projects/undergrad.md#informatica)
 - Maken van een MP3-speler met een Altera DE2 FPGA, met functies zoals snelheid en richting, nummerselectie en afspelen van wav-bestanden.
 - Ontwikkelen van een realtime besturingssysteem in C voor een cursus over computerstructuren en realtime systemen.
 

@@ -6,7 +6,7 @@ Ik had het geluk om deel uit te maken van dit programma, en ik heb zes werkperio
 ## Ontwerpingenieur, [Starquip Integrated Systems](https://www.starquip.com/)
 _Mei tot augustus 2012. Toronto, ON, Canada._
 
-??? summary "Samenvatting"
+??? summary "Overzicht"
 
     - Bijgedragen aan het mechanisch ontwerp van pneumatische lift-hulpapparaten met behulp van Solidworks.
     - Bestaande 2D-tekeningen omgezet in 3D-assemblages, waardoor de creatietijd voor de meeste nieuwe apparaten aanzienlijk werd verkort.
@@ -31,7 +31,7 @@ Dit heeft de creatietijd van 80% van de nieuwe tekeningen verminderd van uren to
 ## Junior Project Engineer, [Kevin Quan Studios](https://kqbikes.com)
 _September tot december 2011.  Toronto, ON, Canada_
 
-??? summary "Samenvatting"
+??? summary "Overzicht"
 
     - Voltooide basis- en intermediate Solidworks-training, inclusief oppervlaktemodellering.
     - Onderdelen, assemblages en tekeningen gemaakt voor mountainbikes en racefietsen.
@@ -50,7 +50,7 @@ Ik heb de optimale configuratie voor verschillende racefietsen bepaald en matrij
 ## Hardware Associate, [IMS](https://www.ims.tech/)
 _Januari tot april 2011. Waterloo, ON, Canada._
 
-??? summary "Samenvatting"
+??? summary "Overzicht"
 
     - Betrokken bij het selecteren en coderen van nieuwe hardware, geprototyperde hardware-oplossingen met Altium Designer en geprogrammeerde microcontrollers met C en C++.
     - Algemene assistentie geboden aan hoofdontwerp-ingenieurs.
@@ -68,7 +68,7 @@ en zelfresonantie in inductoren onderzocht om de nauwkeurigheid van testresultat
 ## Onderzoeksassistent, [Multiscale Additive Manufacturing Lab](https://msam.uwaterloo.ca)
 _Mei tot september 2010. University of Waterloo. Waterloo, ON, Canada._
 
-??? summary "Samenvatting"
+??? summary "Overzicht"
 
     - Ontworpen, aangeschaft en geassembleerd onderdelen voor een behuizing voor een solid freeform fabricage (SFF) werkstation.
     - Vervaardigde of coördineerde de vervaardiging van verschillende onderdelen.
@@ -89,7 +89,7 @@ Ik heb ook beeldverwerking uitgevoerd op scanning-elektronenmicrografieën met b
 ## Onderzoeksassistent, [Computer Vision and Mobile Robotics Lab](https://sites.aub.edu.lb/vrlab/)
 _September tot december 2009. American University of Beirut. Beirut, Lebanon._
 
-??? summary "Samenvatting"
+??? summary "Overzicht"
 
     - Een positioneel navigatiesysteem ontwikkeld voor de lokalisatie van robots.
     - Code geschreven om de huidige positie te schatten met behulp van een 6-assige IMU, onderzocht de stand van de techniek van IMU-visie-integratie.
@@ -109,7 +109,7 @@ Ik heb ook een PIC-16 geprogrammeerd in C en assembly, en een externe debugger g
 ## Ingenieur in opleiding, [Sierra Construction Systems](https://www.sierraconstructionsystems.com/)
 _Januari tot april 2009. Freetown, Sierra Leone._
 
-??? summary "Samenvatting"
+??? summary "Overzicht"
 
     - Gecreëerd en geverifieerd as-built structurele en elektrische schema's voor gebouwen.
     - Uitgevoerd booglassen, snijden, houtbewerking en aluminiumbewerking, gerepareerd interne verbrandingsmotoren en hydraulische systemen.

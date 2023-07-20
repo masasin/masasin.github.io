@@ -50,7 +50,7 @@ avec le [University of Waterloo Culture and Language Exchange Club (UWCLEC)](htt
 J'avais cinq ou six cours par semestre universitaire, pour un total de 42 cours. La plupart de ces cours avaient au moins un projet.
 Quelques-uns sont ci-dessous, largement arrangés par thème. Pour plus de détails, veuillez consulter la [page de projet dédiée](../projects/undergrad.md).
 
-### [Mécatronique](../projects/undergrad.md#mécatronique)
+### [Mécatronique](../projects/undergrad.md#mecatronique)
 - Construction d'un robot suiveur de ligne avec LEGO Mindstorms.
 - Construction d'un robot suiveur de ligne avec des capteurs analogiques, conception des circuits avec des amplificateurs opérationnels, peuplement des PCB nous-mêmes, et programmation du microcontrôleur.
 - Développement d'un catamaran autonome capable de traverser le périmètre d'une piscine, utilisant Arduino pour le contrôle et des capteurs sonar pour le retour d'information.
@@ -58,19 +58,19 @@ Quelques-uns sont ci-dessous, largement arrangés par thème. Pour plus de déta
 - Réalisation d'un projet final pour concevoir un système de purification et de transport d'eau portable sur une remorque de vélo,
   générant de l'énergie grâce au mouvement de la remorque.
 
-### [Ingénierie mécanique](../projects/undergrad.md#ingénierie-mécanique)
+### [Ingénierie mécanique](../projects/undergrad.md#ingenierie-mecanique)
 - Construction d'un petit pont en respectant les contraintes budgétaires.
 - Construction d'une poutre de grue à partir de bois de balsa visant une capacité de poids maximale.
 - Simulation et analyse d'un mécanisme de camion à benne dans Adams View pour optimiser les connexions physiques.
 
-### [Ingénierie électrique](../projects/undergrad.md#ingénierie-électrique)
+### [Ingénierie électrique](../projects/undergrad.md#ingenierie-electrique)
 - Utilisation des tables de Karnaugh et de l'algèbre de Boole pour simplifier des états compliqués et concevoir des circuits logiques numériques, y compris un contrôleur de feu de circulation PLC.
 
-### [Ingénierie informatique](../projects/undergrad.md#ingénierie-informatique)
+### [Ingénierie informatique](../projects/undergrad.md#ingenierie-informatique)
 - Création d'un lecteur MP3 avec Altera DE2 FPGA, implémentant des fonctionnalités telles que le contrôle de la vitesse et de la direction, la sélection des chansons, et la lecture des fichiers wav.
 - Développement d'un système d'exploitation en temps réel en C pour un cours sur les structures informatiques et les systèmes en temps réel.
 
-### [Contrôles](../projects/undergrad.md#contrôles)
+### [Contrôles](../projects/undergrad.md#controles)
 - Commande de position d'un entraînement flexible en utilisant Matlab et Simulink dans un cours de systèmes de contrôle automatique.
 - Commande de la position d'une balle sur une rampe en inclinant le faisceau à l'aide d'un moteur DC,
   calibrage du système et mise en œuvre de compensateurs et de saturateurs.
@@ -78,10 +78,10 @@ Quelques-uns sont ci-dessous, largement arrangés par thème. Pour plus de déta
 - Conception et construction d'un dispositif électro-mécanique pour observer le comportement du système dynamique lorsqu'il passe d'un domaine à un autre,
   en utilisant un graphique de liaison pour la modélisation et Matlab pour la simulation.
 
-### [Bioingénierie](../projects/undergrad.md#bioingénierie)
+### [Bioingénierie](../projects/undergrad.md#bioingenierie)
 - Capture, amplification et traitement des signaux myoélectriques pour contrôler un bras robotique dans le cours de traitement des signaux humains.
 
-### [Mathématiques](../projects/undergrad.md#mathématiques)
+### [Mathématiques](../projects/undergrad.md#mathematiques)
 - Travail sur le contrôle des processus, les modèles de régression, et la conception d'expériences factorielles pour un cours de statistiques.
 - Simulation des systèmes de ressort-masse et de ressort-masse-amortisseur pour un cours d'ODE.
 - Analyse des systèmes de suspension de véhicules en utilisant des méthodes numériques mises en œuvre dans un cours de méthodes numériques.

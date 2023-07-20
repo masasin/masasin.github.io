@@ -1,7 +1,7 @@
 # Kyoto Universiteit
 2013 &ndash; 2017
 
-??? summary "Samenvatting"
+??? summary "Overzicht"
 
     - Was lid van het Mechatronica Laboratorium van 2013 tot 2017, afgestudeerd met een Master of Engineering diploma van de afdeling Werktuigbouwkunde.
     - Werkte aan vele projecten, voornamelijk op het gebied van mens-robot interactie, waaronder de ontwikkeling van een telebedieningssysteem voor drones en gebarenbesturing van robots.

@@ -17,7 +17,7 @@ We also participated in the RoboCup Japan Rescue Camp, a practice competition he
 
 Yozakura had star-shaped wheels, flippers, a robotic arm, and various sensors.
 
-![YOZAKURA](../../assets/images/yozakura.jpg){: style="width:400px"}
+![Yozakura](../../assets/images/yozakura.jpg){: style="width:400px"}
 
 I was the software development lead for YOZAKURA.
 I wrote a client-server system to control the robot from the operating station,

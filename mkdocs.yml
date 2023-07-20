@@ -19,7 +19,7 @@ nav:
     - Teaching experience: "cv/teaching_experience.md"
     - Projects:
         - "cv/projects/index.md"
-        - Open Source Project Sampling: "cv/projects/open_source.md"
+        - Open Source Projects: "cv/projects/open_source.md"
         - SPIRIT (Masters thesis): "cv/projects/spirit.md"
         - Yozakura: "cv/projects/yozakura.md"
         - Gestural Control of Robots: "cv/projects/myo.md"
@@ -116,8 +116,8 @@ plugins:
           Co-operative education experience: Coöperatieve onderwijservaring
           Teaching experience: Onderwijservaring
           Projects: Projecten
-          Open Source Project Sampling: Open source projecten
-          SPIRIT (Masters thesis): SPIRIT (Master thesis)
+          Open Source Projects: Open source projecten
+          SPIRIT (Masters thesis): SPIRIT (Masterthesis)
           Yozakura: Yozakura
           Gestural Control of Robots: Gebaarbesturing van robots
           Undergraduate projects: Bachelorprojecten
