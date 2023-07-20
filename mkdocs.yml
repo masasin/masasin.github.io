@@ -84,7 +84,7 @@ plugins:
           site_description: Expert in Python en robotica
         ja:
           name: 日本語
-          build: true
+          build: false
           site_name: "勝者神優"
           site_description: Pythonとロボットの専門家
       nav_translations:
