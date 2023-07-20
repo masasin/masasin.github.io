@@ -5,6 +5,30 @@ site_description: Python and Robotics expert
 repo_url: https://github.com/masasin/masasin.github.io/
 edit_uri: edit/main/docs/
 
+nav:
+  - About me: "index.md"
+  - Curriculum Vitae:
+    - "cv/index.md"
+    - Education:
+      - "cv/education/index.md"
+      - University of Waterloo: "cv/education/uwaterloo.md"
+      - Kyoto University: "cv/education/kyoto-u.md"
+    - Work experience:
+      - "cv/work_experience/index.md"
+      - Co-operative education experience: "cv/work_experience/coop.md"
+    - Teaching experience: "cv/teaching_experience.md"
+    - Projects:
+        - "cv/projects/index.md"
+        - Open Source Project Sampling: "cv/projects/open_source.md"
+        - SPIRIT (Masters thesis): "cv/projects/spirit.md"
+        - Yozakura: "cv/projects/yozakura.md"
+        - Gestural Control of Robots: "cv/projects/myo.md"
+        - Undergraduate projects: "cv/projects/undergrad.md"
+    - Skills:
+      - "cv/skills/index.md"
+      - Tools and Technologies: "cv/skills/tools.md"
+    - Languages: "cv/languages.md"
+
 theme:
   name: material
   favicon: assets/images/favicon.ico
@@ -39,10 +63,10 @@ theme:
 #    - content.action.view
 plugins:
   - search
-  - awesome-pages
+#  - awesome-pages
   - i18n:
       default_language: en
-      material_alternate: false
+      material_alternate: true
       languages:
         en:
           name: English
@@ -50,24 +74,75 @@ plugins:
           site_name: "Jean Nassar"
         fr:
           name: Français
-          build: false
+          build: true
           site_name: "Jean Nassar"
+          site_description: Expert en Python et en robotique
         nl:
           name: Nederlands
-          build: false
+          build: true
           site_name: "Jean Nassar"
+          site_description: Expert in Python en robotica
         ja:
           name: 日本語
-          build: false
+          build: true
           site_name: "勝者神優"
+          site_description: Pythonとロボットの専門家
       nav_translations:
         fr:
-          About: Qui suis-je
+          About me: À propos de moi
+          Curriculum Vitae: Curriculum Vitae
+          Education: Éducation
+          University of Waterloo: Université de Waterloo
+          Kyoto University: Université de Kyoto
+          Work experience: Expérience professionnelle
+          Co-operative education experience: Expérience d'éducation coopérative
+          Teaching experience: Expérience d'enseignement
+          Projects: Projets
+          Open Source Project Sampling: Projets open source
+          SPIRIT (Masters thesis): SPIRIT (thèse de Master)
+          Yozakura: Yozakura
+          Gestural Control of Robots: Contrôle gestuel des robots
+          Undergraduate projects: Projets de premier cycle
+          Skills: Compétences
+          Tools and Technologies: Outils et technologies
+          Languages: Langues
         nl:
-          About: Over mij
+          About me: Over mij
+          Curriculum Vitae: Curriculum Vitae
+          Education: Opleiding
+          University of Waterloo: Universiteit van Waterloo
+          Kyoto University: Universiteit van Kyoto
+          Work experience: Werkervaring
+          Co-operative education experience: Coöperatieve onderwijservaring
+          Teaching experience: Onderwijservaring
+          Projects: Projecten
+          Open Source Project Sampling: Open source project sampling
+          SPIRIT (Masters thesis): SPIRIT (Master thesis)
+          Yozakura: Yozakura
+          Gestural Control of Robots: Gebaarbesturing van robots
+          Undergraduate projects: Bachelorprojecten
+          Skills: Vaardigheden
+          Tools and Technologies: Gereedschap en technologieën
+          Languages: Talen
         ja:
-          About: 自己紹介
-          Portfolio: 職務経歴書
+          About me: 自己紹介
+          Curriculum Vitae: 履歴書
+          Education: 学歴
+          University of Waterloo: ウォータールー大学
+          Kyoto University: 京都大学
+          Work experience: 職歴
+          Co-operative education experience: 協同教育の経験
+          Teaching experience: 教授経験
+          Projects: プロジェクト一覧
+          Open Source Project Sampling: オープンソースプロジェクト
+          SPIRIT (Masters thesis): SPIRIT（修士論文）
+          Yozakura: Yozakura
+          Gestural Control of Robots: ジェスチャーによるロボット操作
+          Undergraduate projects: 学部のプロジェクト
+          Skills: スキル
+          Tools and Technologies: ツールや技術
+          Languages: 言語力
+
 markdown_extensions:
   - admonition
   - attr_list
