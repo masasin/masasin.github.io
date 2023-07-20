@@ -1,10 +1,15 @@
 # Skills
+Throughout my academic and professional journey, I have developed a broad and deep set of skills,
+ranging from [technical skills](#technical-skills) to [soft skills](#soft-skills) and [language proficiencies](../languages.md).
+Each skill has been put into practice in various projects, academic studies, and professional roles.
 
-This section describes my [technical](#technical-skills) and [soft](#soft-skills) skills in various areas. For details about the tools and technologies I have experience with,
-please see the [tools and technologies](tools) page.
+For details about the tools and technologies I have experience with, please see the [tools and technologies](tools.md) page.
+
+For more detailed examples of how many of these skills have been applied,
+you can check out the [project pages](../projects/index.md) and [work experience](../work_experience/index.md) sections,
+please search for specific skills using the search bar at the top of the page.
 
 ## Technical skills
-
 ### Software engineering
 Expert in Python, proficient in multiple programming languages, and experienced in data science and web development.
 

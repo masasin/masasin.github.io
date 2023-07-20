@@ -20,4 +20,4 @@ Details of my projects during my time at the University of Waterloo can be found
 You may also be interested in my work experience, both during [co-op internships](../work_experience/coop.md) and
 [full-time employment](../work_experience).
 
-For more details on these and other projects, feel free to explore each project's page or [contact me](mailto:contact@jnassar.com).
+For more details on these and other projects, feel free to explore each project's page, or [contact me](mailto:contact@jnassar.com) directly.

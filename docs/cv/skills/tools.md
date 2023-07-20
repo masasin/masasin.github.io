@@ -1,5 +1,10 @@
 # Tools and Technologies
-This is a list of tools that I have used, or continue to use, broken down by field and category.
+In the course of my work, I've had the opportunity to use a wide array of tools and technologies that support efficient and effective software development, project management, and team collaboration.
+While the extent of my experience with each tool varies, they have all played a role in my projects and professional tasks.
+
+For specifics on how and where many of these tools were used,
+you can check out the [project pages](../projects/index.md) and [work experience](../work_experience/index.md) sections,
+or search for specific skills using the search bar at the top of the page.
 
 ## Software engineering
 ### Python
@@ -31,7 +36,7 @@ This is a list of tools that I have used, or continue to use, broken down by fie
 ## Physical interfacing
 ### Robotics
 - **Languages:** Python, C, C++ (up to '03)
-- **Packages:** ROS, Gazebo, OpenCV
+- **Packages:** ROS, Gazebo, rviz, OpenCV
 - **Hardware:** Allen Bradley PLCs, Kinova robotic arms, Dynamixel, Maxon, PhotonFocus
 - **Products:** LEGO Mindstorms, AR.Drone
 - **Motion capture:** Optitrack
