@@ -47,7 +47,7 @@ or search for specific skills using the search bar at the top of the page.
 - **Production:** Machine shop practices, metalworking, woodworking
 ### Electrical engineering
 - **Platforms:** Raspberry Pi, ESP8266, Arduino, mbed, PIC, AVR, Altera DE2 FPGA
-- **Programming:** MicroPython, CircuitPython, VHDL
+- **Programming:** MicroPython, CircuitPython, C++, C, VHDL
 - **PCB Design:** Altium, PSpice, Eagle, KiCAD, Wonderware
 - **Production:** Soldering, wiring, crimping, cable management
 ### Other
