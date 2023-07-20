@@ -1,25 +1,38 @@
 # About me
 
-Welcome to my site, and thanks for the visit!
+Hello! I'm Jean Nassar, and I'm a seasoned Python and robotics expert with a passion for tackling challenging problems
+and exploring new frontiers in technology.
 
 ![Jean Nassar (Obligatory photo)](assets/images/jean.png){: style="width:200px;border-radius: 50%;"}
 
 
-My name is Jean Nassar, and I'm a seasoned Python and robotics expert.
 
 I bring to the table seven enriching years of industry experience that spans across continents and disciplines.
-My professional journey started with a [Bachelors degree in Honours Mechatronics Engineering](cv/education/uwaterloo) at the University of Waterloo.
+My professional journey started with a [Bachelors degree in Honours Mechatronics Engineering](cv/education/uwaterloo)
+at the University of Waterloo.
 As a student there, I also did [six co-op terms](cv/work_experience/coop) at various companies around the world.
-I then further honed my expertise by completing a [Masters program](cv/education/kyoto-u) with the [Mechatronics lab](http://www.mechatronics.me.kyoto-u.ac.jp/index.php?ml_lang=en) at Kyoto University.
-Since graduating, I have been mainly living in Belgium. I [worked](cv/work_experience) primarily as a software engineer, with a bit of mechatronics mixed in.
+I then further honed my expertise by completing a [Masters program](cv/education/kyoto-u) with the
+[Mechatronics lab](http://www.mechatronics.me.kyoto-u.ac.jp/index.php?ml_lang=en) at Kyoto University.
+Since graduating, I have been mainly living in Belgium. I [worked](cv/work_experience) primarily as a software engineer,
+though I did do some mechatronics work as well.
 
 I am also a [private tutor](cv/teaching_experience) for many subjects, including Python, robotics, prompt engineering, and Japanese.
 
 I enjoy working on challenging problems that require me to think outside the box.
 This is also reflected in my hobbies, which include
 [learning languages](cv/languages), automating things around me, hiking, exploration, and learning many new [skills](cv/skills).
-I love space, and even applied to become an astronaut in 2016.
+
+My fascination with space extends beyond the realm of a hobby.
+In 2016, driven by this passion, I stepped out of my comfort zone and applied to become an astronaut.
+Though my path led me back to Python and robotics,
+this experience illustrates my readiness to take on unconventional challenges
+and my constant pursuit of knowledge in the broad spectrum of science.
 
 I am currently looking for a new challenge.
 As a holder of the EU Blue Card, I'm equipped to embark on new professional endeavours
 immediately upon fulfillment of employment and visa prerequisites.
+
+## Contact
+If my experience aligns with your needs, or if you're interested in exploring how we might work together to solve complex problems,
+please don't hesitate to [contact me](mailto:contact@jnassar.com).
+I'm always open to new challenges and collaborations.

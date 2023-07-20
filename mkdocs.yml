@@ -1,7 +1,10 @@
 site_name: Jean Nassar
-site_url: https://jnassar.com/
+site_url: https://jnassar.com
 site_author: Jean Nassar
-site_description: A Python and Robotics expert
+site_description: Python and Robotics expert
+repo_url: https://github.com/masasin/masasin.github.io/
+edit_uri: edit/main/docs/
+
 theme:
   name: material
   favicon: assets/images/favicon.ico
@@ -31,6 +34,9 @@ theme:
     - search.highlight
     - search.share
     - content.tabs.link
+    - content.code.annotate
+#    - content.action.edit
+#    - content.action.view
 plugins:
   - search
   - awesome-pages
@@ -78,9 +84,6 @@ extra:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/masasin
       name: masasin
-    - icon: fontawesome/solid/code-pull-request
-      link: https://github.com/masasin/masasin.github.io
-      name: masasin.github.io
   generator: false
 copyright: |
   &copy; 2021 &ndash; 2023 <a href="https://github.com/masasin/" target="_blank" rel="noopener">Jean Nassar</a>
