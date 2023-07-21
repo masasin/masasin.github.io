@@ -19,7 +19,7 @@ Yozakura had stervormige wielen, flippers, een robotarm en verschillende sensore
 
 ![Yozakura](../../assets/images/yozakura.jpg){: style="width:400px"}
 
-Ik was de software ontwikkelingsleider voor YOZAKURA.
+Ik was de software ontwikkelingsleider voor Yozakura.
 Ik schreef een client-server systeem om de robot te besturen vanaf het bedieningsstation,
 evenals drivers voor verschillende controllers.
 (Dit werd uiteindelijk vervangen door een rviz interface die dezelfde controller driver gebruikte.)

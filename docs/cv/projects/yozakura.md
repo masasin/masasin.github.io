@@ -19,7 +19,7 @@ We also participated in the RoboCup Japan Rescue Camp, a practice competition he
 
 Yozakura had star-shaped wheels, flippers, a robotic arm, and various sensors.
 
-I was the software development lead for YOZAKURA.
+I was the software development lead for Yozakura.
 I wrote a client-server system to control the robot from the operating station,
 as well as drivers for various controllers.
 (This was eventually superseded by an rviz interface which used the same controller driver.)

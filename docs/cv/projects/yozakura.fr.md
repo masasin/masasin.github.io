@@ -18,7 +18,7 @@ Yozakura avait des roues en forme d'étoile, des flippers, un bras robotique, et
 
 ![Yozakura](../../assets/images/yozakura.jpg){: style="width:400px"}
 
-J'étais le responsable du développement informatique pour YOZAKURA.
+J'étais le responsable du développement informatique pour Yozakura.
 J'ai écrit un système client-serveur pour contrôler le robot depuis la station d'opération,
 ainsi que des pilotes pour divers contrôleurs.
 (Cela a finalement été remplacé par une interface rviz qui utilisait le même pilote de contrôleur.)
