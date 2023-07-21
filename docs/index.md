@@ -20,12 +20,6 @@ I enjoy working on challenging problems that require me to think outside the box
 This is also reflected in my hobbies, which include
 [learning languages](cv/languages), automating things around me, hiking, exploration, and learning many new [skills](cv/skills).
 
-My fascination with space extends beyond the realm of a hobby.
-In 2016, driven by this passion, I stepped out of my comfort zone and applied to become an astronaut.
-Though my path led me back to Python and robotics,
-this experience illustrates my readiness to take on unconventional challenges
-and my constant pursuit of knowledge in the broad spectrum of science.
-
 I am currently looking for a new challenge.
 As a holder of the EU Blue Card, I'm equipped to embark on new professional endeavours
 immediately upon fulfillment of employment and visa prerequisites.
