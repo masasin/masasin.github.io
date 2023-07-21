@@ -46,7 +46,7 @@ De plus, j'ai aidé beaucoup de gens avec des problèmes personnels allant des r
 En 2012 et 2013, j'ai été suivi par deux étudiants en échange international, et je les ai aidés à s'intégrer au Canada et à l'université.
 J'ai également enseigné des cours de japonais pour débutants et intermédiaires en tant que bénévole avec le [University of Waterloo Culture and Language Exchange Club](https://uwclec.webs.com/).
 
-Alors qu'à l'[Université de Kyoto](education/kyoto-u), j'ai donné des cours particuliers à d'autres étudiants en Python et les meilleures pratiques de développement de logiciels,
+Alors qu'à l'[Université de Kyoto](education/kyoto-u), j'ai donné des cours particuliers à d'autres étudiants en Python et les meilleures pratiques de développement informatique,
 y compris les tests et le contrôle de version.
 
 Depuis l'obtention de mon diplôme, j'ai aidé des collègues à [tous mes emplois](work_experience/index),

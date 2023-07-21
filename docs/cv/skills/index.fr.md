@@ -10,7 +10,7 @@ vous pouvez consulter les [pages de projets](../projects/index.md) et les sectio
 veuillez rechercher des compétences spécifiques en utilisant la barre de recherche en haut de la page.
 
 ## Compétences techniques
-### Ingénierie logicielle
+### Développement informatique
 Expert en Python, compétent en plusieurs langages de programmation, et expérimenté en data science et développement web.
 
 - Compétence dans un large éventail de langages de programmation, avec une spécialisation en Python.
@@ -81,7 +81,7 @@ Compétent en logiciel de CAO, simulation de systèmes mécaniques, plateformes 
 
 - Engagé à prêter attention aux détails et à produire un travail de haute qualité.
 - Compétent en planification, coordination et exécution de projets complexes.
-- Expérience avec les outils de gestion de projet et les meilleures pratiques de développement de logiciels.
+- Expérience avec les outils de gestion de projet et les meilleures pratiques de développement informatique.
 
 ### Apprenant à vie
 

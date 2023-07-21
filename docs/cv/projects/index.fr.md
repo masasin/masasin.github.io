@@ -12,7 +12,7 @@ Depuis l'obtention de mon diplôme, la plupart de mes projets publics ont été 
 Les projets en vedette de l'Université de Kyoto comprennent :
 
 - [SPIRIT](spirit.md) : Développé une nouvelle interface de contrôle de drone à vue de la troisième personne dans des environnements dégradés dans le cadre de ma thèse de master.
-- [Yozakura](yozakura.md) : J'ai été le développeur logiciel principal pour le robot de secours téléopéré Yozakura, conçu pour être utilisé dans des scénarios de catastrophe.
+- [Yozakura](yozakura.md) : J'ai été le développeur principal pour le robot de secours téléopéré Yozakura, conçu pour être utilisé dans des scénarios de catastrophe.
 - [Contrôle gestuel des robots](myo.md) : J'ai lancé un projet à l'Université de Kyoto pour développer des commandes ergonomiques pour les robots
   en utilisant des interfaces basées sur les gestes.
 

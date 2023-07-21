@@ -17,7 +17,7 @@ Mes sujets de recherche étaient principalement sur le thème de [l'interaction 
 J'ai commencé à travailler sur le [contrôle gestuel des robots](../projects/myo.md),
 et suis passé à la [téléopération de drones](../projects/spirit.md) lors de ma deuxième année.
 
-À l'Université de Kyoto, j'ai également [donné des cours particuliers à d'autres étudiants](../teaching_experience.md) en Python et les meilleures pratiques de développement de logiciels,
+À l'Université de Kyoto, j'ai également [donné des cours particuliers à d'autres étudiants](../teaching_experience.md) en Python et les meilleures pratiques de développement informatique,
 y compris les tests et le contrôle de version.
 J'ai également participé à plusieurs reprises à la [RoboCup Japan Open Rescue League](../projects/yozakura.md) dans la division téléopérée.
 
@@ -46,7 +46,7 @@ Pendant 2014 et 2015, [Yozakura](../projects/yozakura.md), un robot de secours t
 Yozakura était équipé de roues en forme d'étoile, de flippers, d'un bras robotique, et de divers capteurs,
 destinés à concourir dans la RoboCup Japan Open Rescue League 2015.
 
-J'étais le responsable du développement logiciel pour Yozakura, et me suis concentré sur la création d'un système client-serveur pour contrôler le robot
+J'étais le responsable du développement informatique pour Yozakura, et me suis concentré sur la création d'un système client-serveur pour contrôler le robot
 et développer des pilotes pour ses divers composants.
 Le logiciel a également été conçu avec robustesse et adaptabilité à l'esprit,
 enregistrant des données critiques, fournissant des messages d'erreur utiles, et étant capable de se corriger lorsque c'est possible.

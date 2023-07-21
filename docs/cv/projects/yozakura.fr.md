@@ -3,7 +3,7 @@
 
 ??? summary "Résumé"
 
-    - A servi de responsable du développement logiciel pour le robot de secours téléopéré Yozakura au laboratoire de mécatronique de l'Université de Kyoto.
+    - A servi de responsable du développement informatique pour le robot de secours téléopéré Yozakura au laboratoire de mécatronique de l'Université de Kyoto.
     - A développé un système client-serveur pour le contrôle du robot et a écrit le code pour les puces Raspberry Pi et mbed embarquées,
       y compris les pilotes pour divers contrôleurs et capteurs.
     - Le code était robuste face aux défaillances et bien documenté, fournissant des messages d'erreur utiles pour les erreurs matérielles, logicielles,
@@ -18,7 +18,7 @@ Yozakura avait des roues en forme d'étoile, des flippers, un bras robotique, et
 
 ![Yozakura](../../assets/images/yozakura.jpg){: style="width:400px"}
 
-J'étais le responsable du développement logiciel pour YOZAKURA.
+J'étais le responsable du développement informatique pour YOZAKURA.
 J'ai écrit un système client-serveur pour contrôler le robot depuis la station d'opération,
 ainsi que des pilotes pour divers contrôleurs.
 (Cela a finalement été remplacé par une interface rviz qui utilisait le même pilote de contrôleur.)
