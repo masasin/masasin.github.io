@@ -4,7 +4,7 @@
     - Fluent in English and French, intermediate in Dutch
     - Hold an EU Blue Card; eligible to work immediately
     - Contact me at [contact@jnassar.com](mailto:contact@jnassar.com)
-    - Curriculum Vitae [here](cv)
+    - Please see my [Curriculum Vitae](cv) for more details.
 
 # About me
 
