@@ -7,7 +7,7 @@ _2008 &ndash; Present_
     - [Projects on PyPI](#projects-on-pypi) include "latexipy," which easily generates great plots in multiple formats, and "pyrosbag,"
       which allows programmatic playback of ROS Bag files.
     - [Highlighted projects](#highlighted-projects) include "spirit," a repository containing masters research code, data analysis, and thesis.
-    - Find me on [Github.com/masasin](https://github.com/masasin).
+    - Find me on [GitHub.com/masasin](https://github.com/masasin).
 
 Most of my code is fully documented.
 PyPI projects are on a continuous integration server and have full test coverage as well.

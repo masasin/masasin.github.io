@@ -36,3 +36,5 @@ immediately upon fulfillment of employment and visa prerequisites.
 If my experience aligns with your needs, or if you're interested in exploring how we might work together to solve complex problems,
 please don't hesitate to [contact me](mailto:contact@jnassar.com).
 I'm always open to new challenges and collaborations.
+
+You can also find me on [GitHub](https://github.com/masasin) and [LinkedIn](https://www.linkedin.com/in/masasin/).
