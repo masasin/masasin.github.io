@@ -28,7 +28,7 @@ hiked and biked through mountains and valleys, took part in the [Kyoto Associati
 obtained a scholarship from Kiyomizudera Temple, and more.
 
 ![Japan Tent 2016](../../assets/images/japan_tent.jpg){: style="width:400px", align=right}
-I also participated in the 2016 edition in [Japan Tent](https://www.japantent.com/english.html)
+I also participated in the 2016 edition of [Japan Tent](https://www.japantent.com/english.html)
 (link not accessible from the EU), a program by Ishikawa Prefecture which allows foreign students from across Japan
 to stay with two families in the region.
 I was selected as a Japan Tent ambassador for the year thanks to my Japanese ability.
