@@ -46,7 +46,7 @@ theme:
       primary: teal
       accent: lime
   font:
-    text: Noto Serif
+    text: Noto Sans
     code: Roboto Mono
   features:
     - navigation.tabs
