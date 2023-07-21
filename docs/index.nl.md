@@ -4,9 +4,9 @@
 
 Hallo! Ik ben Jean Nassar, een ervaren Python- en robotica-expert met een passie voor het aanpakken van uitdagende problemen en het verkennen van nieuwe grenzen in technologie.
 
-Ik breng zeven verrijkende jaren van industrie-ervaring met me mee die zich uitstrekt over continenten en disciplines. Mijn professionele reis begon met een [bachelorgraad in Honours Mechatronica Engineering](cv/education/uwaterloo) aan de Universiteit van Waterloo. Als student daar, deed ik ook [zes co-op termen](cv/work_experience/coop) bij verschillende bedrijven over de hele wereld. Ik heb vervolgens mijn expertise verder aangescherpt door een [masterprogramma](cv/education/kyoto-u) te voltooien bij het [Mechatronics lab](http://www.mechatronics.me.kyoto-u.ac.jp/index.php?ml_lang=en) aan de Universiteit van Kyoto. Sinds mijn afstuderen, heb ik voornamelijk in België gewoond. Ik heb [gewerkt](cv/work_experience) voornamelijk als software engineer, hoewel ik ook wat mechatronica werk heb gedaan.
+Ik breng zeven verrijkende jaren van industrie-ervaring met me mee die zich uitstrekt over continenten en disciplines. Mijn professionele reis begon met een [bachelorgraad in Honours Mechatronica Engineering](cv/education/waterloo) aan de Universiteit van Waterloo. Als student daar, deed ik ook [zes co-op termen](cv/work/coop) bij verschillende bedrijven over de hele wereld. Ik heb vervolgens mijn expertise verder aangescherpt door een [masterprogramma](cv/education/kyoto) te voltooien bij het [Mechatronics lab](http://www.mechatronics.me.kyoto-u.ac.jp/index.php?ml_lang=en) aan de Universiteit van Kyoto. Sinds mijn afstuderen, heb ik voornamelijk in België gewoond. Ik heb [gewerkt](cv/work) voornamelijk als software engineer, hoewel ik ook wat mechatronica werk heb gedaan.
 
-Ik ben ook een [privéleraar](cv/teaching_experience) voor vele onderwerpen, waaronder Python, robotica, prompt engineering en Japans.
+Ik ben ook een [privéleraar](cv/teaching) voor vele onderwerpen, waaronder Python, robotica, prompt engineering en Japans.
 
 Ik hou van het werken aan uitdagende problemen die me dwingen om buiten de gebaande paden te denken. Dit komt ook tot uiting in mijn hobby's, die onder meer [het leren van talen](cv/languages), het automatiseren van dingen om me heen, wandelen, verkennen en het leren van vele nieuwe [vaardigheden](cv/skills) omvatten.
 

@@ -1,5 +1,5 @@
 # Gebaarbesturing van Robots
-2014 &ndash; 2015, [Universiteit van Kyoto](../education/kyoto-u.md)
+2014 &ndash; 2015, [Universiteit van Kyoto](../education/kyoto.md)
 
 ??? summary "Overzicht"
 

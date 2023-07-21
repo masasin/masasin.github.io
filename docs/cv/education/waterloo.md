@@ -17,7 +17,7 @@ and graduated with a Bachelor of Applied Science in Honours Mechatronics Enginee
 
 The program is a combination of mechanical, electrical, and software engineering,
 and was heavily practical, with [many hands-on projects](#projects) for students to apply concepts learned in the classroom.
-I also completed [six co-operative education (co-op) internships](../work_experience/coop.md)
+I also completed [six co-operative education (co-op) internships](../work/coop.md)
 in three countries over a total of two years.
 Each co-op is normally a four-month-long remunerated full-time position,
 which allows a student to experience various facets of engineering.

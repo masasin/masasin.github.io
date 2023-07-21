@@ -1,5 +1,5 @@
 # SPIRIT (Thèse de Master)
-2015 &ndash; 2017, [Université de Kyoto](../education/kyoto-u.md).
+2015 &ndash; 2017, [Université de Kyoto](../education/kyoto.md).
 
 ??? summary "Résumé"
 

@@ -6,7 +6,7 @@ Elke vaardigheid is in de praktijk gebracht in verschillende projecten, academis
 Voor details over de tools en technologieën waarmee ik ervaring heb, zie de pagina [tools en technologieën](tools.md).
 
 Voor meer gedetailleerde voorbeelden van hoe veel van deze vaardigheden zijn toegepast,
-kunt u de [projectpagina's](../projects/index.md) en de secties [werkervaring](../work_experience/index.md) bekijken,
+kunt u de [projectpagina's](../projects/index.md) en de secties [werkervaring](../work/index.md) bekijken,
 u kunt specifieke vaardigheden zoeken met behulp van de zoekbalk bovenaan de pagina.
 
 ## Technische vaardigheden

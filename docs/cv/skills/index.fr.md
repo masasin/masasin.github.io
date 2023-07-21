@@ -6,7 +6,7 @@ Chaque compétence a été mise en pratique dans divers projets, études académ
 Pour plus de détails sur les outils et technologies avec lesquels j'ai de l'expérience, veuillez consulter la page [outils et technologies](tools.md).
 
 Pour des exemples plus détaillés de comment nombre de ces compétences ont été appliquées,
-vous pouvez consulter les [pages de projets](../projects/index.md) et les sections [expérience professionnelle](../work_experience/index.md),
+vous pouvez consulter les [pages de projets](../projects/index.md) et les sections [expérience professionnelle](../work/index.md),
 veuillez rechercher des compétences spécifiques en utilisant la barre de recherche en haut de la page.
 
 ## Compétences techniques

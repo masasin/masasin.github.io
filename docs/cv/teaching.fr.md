@@ -37,7 +37,7 @@ une plateforme de leçons en ligne.
 ![Image analysée](../assets/images/micrograph_analyzed.jpg){: style="width:400px"}
 
 ## Aider les collègues
-À l'[Université de Waterloo](education/uwaterloo), j'ai passé de nombreuses heures à aider mes camarades de classe avec des projets et des devoirs,
+À l'[Université de Waterloo](education/waterloo), j'ai passé de nombreuses heures à aider mes camarades de classe avec des projets et des devoirs,
 et à leur donner des cours particuliers dans des matières où ils étaient faibles.
 Je suis également devenu mentor pour les étudiants plus jeunes. Je les ai aidés avec leurs cours,
 et les ai aidés à naviguer dans le système universitaire, y compris le choix des cours, le processus de co-op, l'obtention d'aménagements, et plus encore.
@@ -46,8 +46,8 @@ De plus, j'ai aidé beaucoup de gens avec des problèmes personnels allant des r
 En 2012 et 2013, j'ai été suivi par deux étudiants en échange international, et je les ai aidés à s'intégrer au Canada et à l'université.
 J'ai également enseigné des cours de japonais pour débutants et intermédiaires en tant que bénévole avec le [University of Waterloo Culture and Language Exchange Club](https://uwclec.webs.com/).
 
-Alors qu'à l'[Université de Kyoto](education/kyoto-u), j'ai donné des cours particuliers à d'autres étudiants en Python et les meilleures pratiques de développement informatique,
+Alors qu'à l'[Université de Kyoto](education/kyoto), j'ai donné des cours particuliers à d'autres étudiants en Python et les meilleures pratiques de développement informatique,
 y compris les tests et le contrôle de version.
 
-Depuis l'obtention de mon diplôme, j'ai aidé des collègues à [tous mes emplois](work_experience/index),
+Depuis l'obtention de mon diplôme, j'ai aidé des collègues à [tous mes emplois](work/index),
 et j'ai reçu des éloges pour ma patience et ma capacité à expliquer des concepts complexes en termes simples.

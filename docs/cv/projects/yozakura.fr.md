@@ -1,5 +1,5 @@
 # Yozakura
-2014 &ndash; 2015, [Université de Kyoto](../education/kyoto-u.md)
+2014 &ndash; 2015, [Université de Kyoto](../education/kyoto.md)
 
 ??? summary "Résumé"
 

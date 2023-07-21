@@ -3,7 +3,7 @@ In the course of my work, I've had the opportunity to use a wide array of tools 
 While the extent of my experience with each tool varies, they have all played a role in my projects and professional tasks.
 
 For specifics on how and where many of these tools were used,
-you can check out the [project pages](../projects/index.md) and [work experience](../work_experience/index.md) sections,
+you can check out the [project pages](../projects/index.md) and [work experience](../work/index.md) sections,
 or search for specific skills using the search bar at the top of the page.
 
 ## Software engineering

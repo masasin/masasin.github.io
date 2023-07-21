@@ -1,5 +1,5 @@
 # Bachelorprojecten
-2008 &ndash; 2013, [Universiteit van Waterloo](../education/uwaterloo.md)
+2008 &ndash; 2013, [Universiteit van Waterloo](../education/waterloo.md)
 
 ??? summary "Overzicht"
 
@@ -8,7 +8,7 @@
     - De projecten omvatten het spectrum van mechatronica, werktuigbouwkunde, elektrotechniek,
       informatica, besturingssystemen, bio-engineering, wiskunde en ondernemerschap.
 
-Ik studeerde aan de [Universiteit van Waterloo](../education/uwaterloo.md) van 2008 tot 2013,
+Ik studeerde aan de [Universiteit van Waterloo](../education/waterloo.md) van 2008 tot 2013,
 en behaalde een Bachelor of Applied Science in Mechatronische Techniek met onderscheiding.
 
 Het programma is een combinatie van werktuigbouwkunde, elektrotechniek en software engineering,

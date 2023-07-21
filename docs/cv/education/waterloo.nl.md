@@ -15,7 +15,7 @@ en behaalde een Bachelor of Applied Science in Mechatronica Engineering met onde
 
 Het programma is een combinatie van mechanica, elektriciteit en software engineering,
 en was sterk gericht op praktische toepassingen, met [veel hands-on projecten](#projecten) om studenten de geleerde concepten te laten toepassen.
-Ik heb ook [zes coöperatieve stages](../work_experience/coop.md)
+Ik heb ook [zes coöperatieve stages](../work/coop.md)
 uitgevoerd in drie landen over een totale periode van twee jaar.
 Elke stage is normaal gesproken een fulltime betaalde positie van vier maanden,
 waardoor een student verschillende aspecten van engineering kan ontdekken.

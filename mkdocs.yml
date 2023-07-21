@@ -11,12 +11,12 @@ nav:
     - "cv/index.md"
     - Education:
       - "cv/education/index.md"
-      - University of Waterloo: "cv/education/uwaterloo.md"
-      - Kyoto University: "cv/education/kyoto-u.md"
+      - University of Waterloo: "cv/education/waterloo.md"
+      - Kyoto University: "cv/education/kyoto.md"
     - Work experience:
-      - "cv/work_experience/index.md"
-      - Co-operative education experience: "cv/work_experience/coop.md"
-    - Teaching experience: "cv/teaching_experience.md"
+      - "cv/work/index.md"
+      - Co-operative education experience: "cv/work/coop.md"
+    - Teaching experience: "cv/teaching.md"
     - Projects:
         - "cv/projects/index.md"
         - Open Source Projects: "cv/projects/open_source.md"

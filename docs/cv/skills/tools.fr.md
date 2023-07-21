@@ -3,7 +3,7 @@ Au cours de mon travail, j'ai eu l'occasion d'utiliser un large éventail d'outi
 Bien que l'étendue de mon expérience avec chaque outil varie, ils ont tous joué un rôle dans mes projets et tâches professionnelles.
 
 Pour des spécificités sur comment et où beaucoup de ces outils ont été utilisés,
-vous pouvez consulter les [pages de projets](../projects/index.md) et les sections [expérience professionnelle](../work_experience/index.md),
+vous pouvez consulter les [pages de projets](../projects/index.md) et les sections [expérience professionnelle](../work/index.md),
 ou rechercher des compétences spécifiques en utilisant la barre de recherche en haut de la page.
 
 ## Développement informatique

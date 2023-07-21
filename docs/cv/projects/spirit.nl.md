@@ -1,5 +1,5 @@
 # SPIRIT (Masterthesis)
-2015 &ndash; 2017, [Universiteit van Kyoto](../education/kyoto-u.md).
+2015 &ndash; 2017, [Universiteit van Kyoto](../education/kyoto.md).
 
 ??? summary "Overzicht"
 

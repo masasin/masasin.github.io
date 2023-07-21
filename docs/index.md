@@ -6,15 +6,15 @@ Hello! I'm Jean Nassar, and I'm a seasoned Python and robotics expert with a pas
 and exploring new frontiers in technology.
 
 I bring to the table seven enriching years of industry experience that spans across continents and disciplines.
-My professional journey started with a [Bachelors degree in Honours Mechatronics Engineering](cv/education/uwaterloo)
+My professional journey started with a [Bachelors degree in Honours Mechatronics Engineering](cv/education/waterloo)
 at the University of Waterloo.
-As a student there, I also did [six co-op terms](cv/work_experience/coop) at various companies around the world.
-I then further honed my expertise by completing a [Masters program](cv/education/kyoto-u) with the
+As a student there, I also did [six co-op terms](cv/work/coop) at various companies around the world.
+I then further honed my expertise by completing a [Masters program](cv/education/kyoto) with the
 [Mechatronics lab](http://www.mechatronics.me.kyoto-u.ac.jp/index.php?ml_lang=en) at Kyoto University.
-Since graduating, I have been mainly living in Belgium. I [worked](cv/work_experience) primarily as a software engineer,
+Since graduating, I have been mainly living in Belgium. I [worked](cv/work) primarily as a software engineer,
 though I did do some mechatronics work as well.
 
-I am also a [private tutor](cv/teaching_experience) for many subjects, including Python, robotics, prompt engineering, and Japanese.
+I am also a [private tutor](cv/teaching) for many subjects, including Python, robotics, prompt engineering, and Japanese.
 
 I enjoy working on challenging problems that require me to think outside the box.
 This is also reflected in my hobbies, which include

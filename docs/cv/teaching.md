@@ -37,7 +37,7 @@ an online lesson platform.
 ![Analyzed image](../assets/images/micrograph_analyzed.jpg){: style="width:400px"}
 
 ## Helping colleagues
-At the [University of Waterloo](education/uwaterloo), I spent many long hours helping my classmates with projects and assignments,
+At the [University of Waterloo](education/waterloo), I spent many long hours helping my classmates with projects and assignments,
 and tutoring them in subjects that they were weak in.
 I also became a mentor to younger students.
 I participated in orientation week, tutored them with their courses,
@@ -47,8 +47,8 @@ In addition, I helped many people with personal problems ranging from relationsh
 In 2012 and 2013, I was shadowed by two international exchange students, and helped them integrate into Canada and the university.
 I also taught beginner and intermediate Japanese courses as a volunteer with the [University of Waterloo Culture and Language Exchange Club](https://uwclec.webs.com/).
 
-While at [Kyoto University](education/kyoto-u), I tutored other students in Python and software development best practices,
+While at [Kyoto University](education/kyoto), I tutored other students in Python and software development best practices,
 including testing and version control.
 
-Since graduating, I have helped coworkers at [all of my jobs](work_experience/index),
+Since graduating, I have helped coworkers at [all of my jobs](work/index),
 and have received praise for my patience and ability to explain complex concepts in simple terms.

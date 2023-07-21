@@ -1,5 +1,5 @@
 # Projets de licence
-2008 &ndash; 2013, [Université de Waterloo](../education/uwaterloo.md)
+2008 &ndash; 2013, [Université de Waterloo](../education/waterloo.md)
 
 ??? summary "Résumé"
 
@@ -8,7 +8,7 @@
     - Les projets couvraient le spectre de la mécatronique, du génie mécanique, du génie électrique,
       du génie informatique, des contrôles, du bio-ingénierie, des mathématiques et de l'entrepreneuriat.
 
-J'ai étudié à l'[Université de Waterloo](../education/uwaterloo.md) de 2008 à 2013,
+J'ai étudié à l'[Université de Waterloo](../education/waterloo.md) de 2008 à 2013,
 et j'ai obtenu un baccalauréat en sciences appliquées en ingénierie mécatronique avec mention.
 
 Le programme est une combinaison d'ingénierie mécanique, électrique et logicielle,

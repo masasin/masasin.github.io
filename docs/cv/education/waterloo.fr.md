@@ -15,7 +15,7 @@ et obtenu un Bachelor of Applied Science en Mechatronics Engineering avec distin
 
 Le programme est une combinaison de mécanique, d'électricité et d'ingénierie logicielle,
 et était fortement pratique, avec [de nombreux projets pratiques](#projets) pour que les étudiants appliquent les concepts appris en classe.
-J'ai également réalisé [six stages coopératifs](../work_experience/coop.md)
+J'ai également réalisé [six stages coopératifs](../work/coop.md)
 dans trois pays sur une durée totale de deux ans.
 Chaque stage est normalement une position rémunérée à plein temps de quatre mois,
 qui permet à un étudiant de découvrir divers aspects de l'ingénierie.

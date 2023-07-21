@@ -18,7 +18,7 @@ My research topics were primarily on the topic of [human-robot interaction](http
 I started out working on the [gestural control of robots](../projects/myo.md),
 and switched to [teleoperation of drones](../projects/spirit.md) in my second year.
 
-At Kyoto University, I also [tutored other students](../teaching_experience.md) in Python and software development best practices,
+At Kyoto University, I also [tutored other students](../teaching.md) in Python and software development best practices,
 including testing and version control.
 I also participated in the [RoboCup Japan Open Rescue League](../projects/yozakura.md) multiple times in the teleoperated division.
 

@@ -1,5 +1,5 @@
 # Undergraduate projects
-2008 &ndash; 2013, [University of Waterloo](../education/uwaterloo.md)
+2008 &ndash; 2013, [University of Waterloo](../education/waterloo.md)
 
 ??? summary
 
@@ -8,7 +8,7 @@
     - Projects ranged across the spectrum of mechatronics, mechanical engineering, electrical engineering,
       computer engineering, controls, bioengineering, mathematics, and entrepreneurship.
 
-I studied at the [University of Waterloo](../education/uwaterloo.md) from 2008 to 2013,
+I studied at the [University of Waterloo](../education/waterloo.md) from 2008 to 2013,
 and graduated with a Bachelor of Applied Science in Honours Mechatronics Engineering.
 
 The program is a combination of mechanical, electrical, and software engineering,

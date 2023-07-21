@@ -6,7 +6,7 @@ Each skill has been put into practice in various projects, academic studies, and
 For details about the tools and technologies I have experience with, please see the [tools and technologies](tools.md) page.
 
 For more detailed examples of how many of these skills have been applied,
-you can check out the [project pages](../projects/index.md) and [work experience](../work_experience/index.md) sections,
+you can check out the [project pages](../projects/index.md) and [work experience](../work/index.md) sections,
 please search for specific skills using the search bar at the top of the page.
 
 ## Technical skills

@@ -37,7 +37,7 @@ een online lesplatform.
 ![Geanalyseerde afbeelding](../assets/images/micrograph_analyzed.jpg){: style="width:400px"}
 
 ## Collega's helpen
-Aan de [Universiteit van Waterloo](education/uwaterloo), bracht ik vele uren door met het helpen van mijn klasgenoten met projecten en opdrachten,
+Aan de [Universiteit van Waterloo](education/waterloo), bracht ik vele uren door met het helpen van mijn klasgenoten met projecten en opdrachten,
 en gaf ik hen bijles in vakken waar ze zwak in waren.
 Ik werd ook mentor voor jongere studenten. Ik gaf hen bijles in hun vakken,
 en hielp hen navigeren in het universitaire systeem, inclusief vakkenkeuze, het co-op proces, het verkrijgen van accommodaties, en meer.
@@ -46,8 +46,8 @@ Daarnaast heb ik veel mensen geholpen met persoonlijke problemen variërend van 
 In 2012 en 2013 werd ik gevolgd door twee internationale uitwisselingsstudenten, en hielp ik hen integreren in Canada en de universiteit.
 Ik gaf ook vrijwillig beginnende en intermediate Japanse cursussen bij de [University of Waterloo Culture and Language Exchange Club](https://uwclec.webs.com/).
 
-Terwijl ik aan de [Universiteit van Kyoto](education/kyoto-u) was, gaf ik andere studenten bijles in Python en softwareontwikkeling best practices,
+Terwijl ik aan de [Universiteit van Kyoto](education/kyoto) was, gaf ik andere studenten bijles in Python en softwareontwikkeling best practices,
 inclusief testen en versiebeheer.
 
-Sinds het afstuderen heb ik collega's geholpen bij [al mijn banen](work_experience/index),
+Sinds het afstuderen heb ik collega's geholpen bij [al mijn banen](work/index),
 en heb ik lof ontvangen voor mijn geduld en mijn vermogen om complexe concepten in eenvoudige termen uit te leggen.
