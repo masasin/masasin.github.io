@@ -67,7 +67,7 @@ plugins:
 #  - awesome-pages
   - i18n:
       default_language: en
-      material_alternate: true
+      material_alternate: false
       languages:
         en:
           name: English
@@ -75,12 +75,12 @@ plugins:
           site_name: "Jean Nassar"
         fr:
           name: Français
-          build: true
+          build: false
           site_name: "Jean Nassar"
           site_description: Expert en Python et en robotique
         nl:
           name: Nederlands
-          build: true
+          build: false
           site_name: "Jean Nassar"
           site_description: Expert in Python en robotica
         ja:
