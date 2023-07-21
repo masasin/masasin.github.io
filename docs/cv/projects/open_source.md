@@ -1,7 +1,7 @@
 # Open Source Project Sampling
 2008 &ndash; Present
 
-??? summary
+???+ summary
 
     - Contributed to numerous open source projects, from creating Python libraries to contributing to larger projects.
     - Projects on PyPI include "latexipy," which easily generates great plots in multiple formats, and "pyrosbag,"

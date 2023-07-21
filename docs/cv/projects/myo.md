@@ -1,7 +1,7 @@
 # Gestural Control of Robots
 2014 &ndash; 2015, [Kyoto University](../education/kyoto.md)
 
-??? summary
+???+ summary
 
     - Initial research project at Kyoto University aimed at developing infrastructure to allow ergonomic control of robots using gestures.
     - Designed and developed infrastructure that abstracted away the interface used by using an API,

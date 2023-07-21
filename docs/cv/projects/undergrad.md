@@ -1,7 +1,7 @@
 # Undergraduate projects
 2008 &ndash; 2013, [University of Waterloo](../education/waterloo.md)
 
-??? summary
+???+ summary
 
     - Completed various projects during undergraduate studies at the University of Waterloo, with a focus on practical,
       hands-on application of concepts learned in the classroom.

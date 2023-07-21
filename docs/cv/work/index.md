@@ -5,7 +5,7 @@ For my work experience during my studies, please see the [Co-op page](coop.md).
 ## Senior Software Engineer, [Adimian](https://www.adimian.com/)
 _January 2021 to October 2023, Belgium._
 
-??? summary
+???+ summary
 
     - Took end-to-end project responsibility, including initial design, development, deployment, and maintenance.
     - Developed and maintained a variety of Python applications, including a web-based data management system and a data processing pipeline.
@@ -52,7 +52,7 @@ I was highly praised for my patience and understanding when reviewing, explainin
 ## Senior Python Developer, [Yields.io](https://www.yields.io/)
 _December 2019 to August 2020, Brussels, Belgium._
 
-??? summary
+???+ summary
 
     - Served as the primary Python developer, working on the core of the platform.
     - Refactored and stabilized the codebase, added tests, fixed bugs, and developed new features.
@@ -85,7 +85,7 @@ into tests that could work with a deployed Docker environment.
 ## Industrial Automation Engineer, [Kapernikov](https://www.kapernikov.com/)
 _March to October 2019, Brussels, Belgium._
 
-??? summary
+???+ summary
 
     - Developed a monitoring system for a conveyor belt using Python 3 and ROS.
     - Used a laser profiler and camera for object identification and created a 3D representation of the conveyor belt.
@@ -110,7 +110,7 @@ All other ROS nodes, transformations, and analyses were written in Python.
 ## Data Scientist, [Sentiance](https://www.sentiance.com/)
 _February to December 2018, Antwerp, Belgium._
 
-??? summary
+???+ summary
 
     - Moved the company’s codebase from Python 2 to Python 3.
     - Refactored core functionality into more modular components, verified and built machine learning models in numpy and scikit-learn.

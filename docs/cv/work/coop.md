@@ -6,7 +6,7 @@ I was fortunate enough to be part of this program, and I did six work terms in t
 ## Design Engineer, [Starquip Integrated Systems](https://www.starquip.com/)
 _May to August 2012. Toronto, ON, Canada._
 
-??? summary
+???+ summary
 
     - Assisted in the mechanical design of pneumatic lift-assist devices using Solidworks.
     - Converted existing 2D drawings to 3D assemblies, reducing the creation time for most new devices significantly.
@@ -31,7 +31,7 @@ That reduced the creation time of 80% of new drawings from hours to around 10 mi
 ## Junior Project Engineer, [Kevin Quan Studios](https://kqbikes.com)
 _September to December 2011.  Toronto, ON, Canada_
 
-??? summary
+???+ summary
 
     - Completed basic and intermediate Solidworks training, including surface modeling.
     - Created parts, assemblies, and drawings for mountain and racing bicycles.
@@ -50,7 +50,7 @@ I determined the optimum configuration for several racing bicycles, and designed
 ## Hardware Associate, [IMS](https://www.ims.tech/)
 _January to April 2011. Waterloo, ON, Canada._
 
-??? summary
+???+ summary
 
     - Involved in selecting and coding new hardware, prototyped hardware solutions using Altium Designer, and programmed microcontrollers using C and C++.
     - Provided general assistance to lead design engineers.
@@ -68,7 +68,7 @@ and investigated self-resonance in inductors in order to enhance the accuracy of
 ## Research Assistant, [Multiscale Additive Manufacturing Lab](https://msam.uwaterloo.ca)
 _May to September 2010. University of Waterloo. Waterloo, ON, Canada._
 
-??? summary
+???+ summary
 
     - Designed, procured, and assembled parts for an enclosure for a solid freeform fabrication (SFF) workstation.
     - Manufactured or coordinated the manufacture of several parts.
@@ -89,7 +89,7 @@ I also performed image processing on scanning electron micrographs using Octave.
 ## Research Assistant, [Computer Vision and Mobile Robotics Lab](https://sites.aub.edu.lb/vrlab/)
 _September to December 2009. American University of Beirut. Beirut, Lebanon._
 
-??? summary
+???+ summary
 
     - Developed a positional navigation system for the localization of robots.
     - Wrote code to estimate the current position using a 6-axis IMU, researched the state of the art of IMU-vision integration.
@@ -109,7 +109,7 @@ I also programmed a PIC-16 in C and assembly, and used an external debugger.
 ## Engineer in Training, [Sierra Construction Systems](https://www.sierraconstructionsystems.com/)
 _January to April 2009. Freetown, Sierra Leone._
 
-??? summary
+???+ summary
 
     - Created and verified as-built structural and electrical diagrams for buildings.
     - Performed arc welding, cutting, woodworking, and aluminium working, repaired internal combustion engines and hydraulic systems.

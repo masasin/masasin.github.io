@@ -1,7 +1,7 @@
 # Teaching experience
 2003 &ndash; Present
 
-??? summary
+???+ summary
 
     - Over 20 years of experience as a private tutor, teaching subjects ranging from math and physics to English and Japanese,
       as well as Python for project work.

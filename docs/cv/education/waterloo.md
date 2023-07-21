@@ -1,7 +1,7 @@
 # University of Waterloo
 2008 &ndash; 2013
 
-??? summary
+???+ summary
 
     - Completed Bachelor of Applied Science in Honours Mechatronics Engineering from 2008 to 2013.
     - Studied a combination of mechanical, electrical, and software engineering with a focus on practical application.

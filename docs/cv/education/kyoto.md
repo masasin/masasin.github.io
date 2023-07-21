@@ -1,7 +1,7 @@
 # Kyoto University
 2013 &ndash; 2017
 
-??? summary
+???+ summary
 
     - Was a member of the Mechatronics Laboratory from 2013 to 2017, graduated with a Master of Engineering degree from the Department of Mechanical Engineering.
     - Worked on many projects, primarily in the field of human-robot interaction, including the development of a teleoperation system for drones and gestural control of robots.

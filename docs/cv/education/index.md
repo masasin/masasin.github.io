@@ -3,7 +3,7 @@ My educational background spans two highly reputed institutions across different
 providing me with a diverse, comprehensive foundation in mechatronics, robotics, and more.
 Here's an overview of my academic journey:
 
-??? summary
+???+ summary
 
     - 2014 to 2017: Master of Engineering, Mechanical Engineering, Kyoto University (Mechatronics Laboratory), Kyoto, Japan.
     - 2008 to 2013: Bachelor of Applied Science, Honours Mechatronics Engineering, University of Waterloo, Waterloo, ON, Canada.
