@@ -2,7 +2,7 @@
 This page contains the details of my work experience after graduation.
 For my work experience during my studies, please see the [Co-op page](coop.md).
 
-## Senior Python Developer, [Adimian](https://www.adimian.com/)
+## Senior Software Engineer, [Adimian](https://www.adimian.com/)
 _January 2021 to October 2023, Belgium._
 
 ??? summary
