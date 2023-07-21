@@ -1,17 +1,15 @@
-# Teaching experience
-2003 &ndash; Present
+# Teaching Experience
+_2003 &ndash; Present_
 
 ???+ summary
 
     - Over 20 years of experience as a private tutor, teaching subjects ranging from math and physics to English and Japanese,
       as well as Python for project work.
-    - Notable successes include helping a financial analyst automate his tasks, leading to a promotion and a sponsored masters degree,
-      and assisting a PhD student with his research, resulting in a named acknowledgement in his published paper.
-    - Since 2019, have been teaching both locally and online.
-    - Have a long history of helping colleagues and classmates, tutoring them in various subjects,
-      mentoring younger students, and helping them with problems in general.
+    - I have a long history of helping colleagues and classmates, tutoring them in various subjects,
+      mentoring peers, and helping people with problems in general.
     - Recognized for the ability to explain complex concepts in simple terms and have received praise
       for patience and effective teaching methods.
+    - I teach both locally and remotely.
 
 ## Private tutor
 I started tutoring in middle school, when I helped a neighbour pass his national exam.
@@ -31,8 +29,8 @@ I still provide support as necessary.
 In another, I enabled a PhD student to analyze his electron-phase micrographs by writing code which did the same job of a commercial software package with an expensive license.
 I was acknowledged by name in [his paper](https://aip.scitation.org/doi/pdf/10.1063/1.5028398?class=pdf).
 
-Since 2019, I have also been teaching Python and Japanese both locally and on [Apprentus](https://www.apprentus.com/in/jn.masasin),
-an online lesson platform.
+Since 2019, I have also been teaching Python and Japanese using [Apprentus](https://www.apprentus.com/in/jn.masasin),
+an online and local lesson platform.
 
 ![Analyzed image](../assets/images/micrograph_analyzed.jpg){: style="width:400px"}
 

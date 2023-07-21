@@ -1,5 +1,5 @@
 # Gestural Control of Robots
-2014 &ndash; 2015, [Kyoto University](../education/kyoto.md)
+_2014 &ndash; 2015, [Kyoto University](../education/kyoto.md)_
 
 ???+ summary
 

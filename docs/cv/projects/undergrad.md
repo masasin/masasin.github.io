@@ -1,5 +1,5 @@
 # Undergraduate projects
-2008 &ndash; 2013, [University of Waterloo](../education/waterloo.md)
+_2008 &ndash; 2013, [University of Waterloo](../education/waterloo.md)_
 
 ???+ summary
 

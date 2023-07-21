@@ -1,13 +1,13 @@
 # Open Source Project Sampling
-2008 &ndash; Present
+_2008 &ndash; Present_
 
 ???+ summary
 
-    - Contributed to numerous open source projects, from creating Python libraries to contributing to larger projects.
-    - Projects on PyPI include "latexipy," which easily generates great plots in multiple formats, and "pyrosbag,"
+    - Contributed to numerous open source projects, from creating Python libraries to [contributing to projects](#highlighted-pull-requests) large and small.
+    - [Projects on PyPI](#projects-on-pypi) include "latexipy," which easily generates great plots in multiple formats, and "pyrosbag,"
       which allows programmatic playback of ROS Bag files.
-    - Highlighted projects include "resume," a CV and cover letter generator,
-      and "spirit," a repository containing masters research code, data analysis, and thesis.
+    - [Highlighted projects](#highlighted-projects) include "spirit," a repository containing masters research code, data analysis, and thesis.
+    - Find me on [Github.com/masasin](https://github.com/masasin).
 
 Most of my code is fully documented.
 PyPI projects are on a continuous integration server and have full test coverage as well.
@@ -17,11 +17,11 @@ The documentation for some projects is available on [readthedocs.org](https://re
 - [latexipy](https://github.com/masasin/latexipy): Easily generate great plots in multiple format, including for LaTeX
 - [pyrosbag](https://github.com/masasin/pyrosbag): ROS Bag integration, allowing programmatic playback
     
-## Highlighted Projects
-- [resume](https://github.com/masasin/resume): A CV and cover letter generator, used for the CV I submitted
+## Highlighted projects
 - [spirit](https://github.com/masasin/spirit): Masters research code, data analysis, and thesis
 - [yozakura](https://github.com/kyoto-u-shinobi/yozakura_raspi): Code for YOZAKURA teleoperated robot
 - [dynamixel](https://github.com/masasin/dynamixel): A pythonic library for working with Dynamixel servos
+- [resume](https://github.com/masasin/resume): A CV and cover letter generator, used for the CV I submitted
 - [naca_airfoil_generator](https://github.com/masasin/naca_airfoil_generator): An interactive 4-digit NACA airfoil generated, based on the one I wrote for Kevin Quan Studios.
 - [keep_talking_solver](https://github.com/masasin/keep_talking_solver): A solver for the game “Keep Talking and Nobody Explodes”
 - [himawaripy](https://github.com/masasin/himawaripy): Wallpaper of a near-realtime geostationary satellite feed

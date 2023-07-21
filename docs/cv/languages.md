@@ -1,4 +1,11 @@
 # Languages
+???+ summary
+
+    - Native English and French
+    - Intermediate Dutch
+    - Advanced Japanese
+    - Many other languages
+
 Learning languages is a hobby of mine,
 so I'm always learning new ones.
 I have accumulated quite a few over the years.

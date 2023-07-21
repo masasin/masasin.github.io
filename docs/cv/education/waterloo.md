@@ -1,14 +1,21 @@
 # University of Waterloo
-2008 &ndash; 2013
+_2008 &ndash; 2013_
 
 ???+ summary
 
     - Completed Bachelor of Applied Science in Honours Mechatronics Engineering from 2008 to 2013.
     - Studied a combination of mechanical, electrical, and software engineering with a focus on practical application.
-    - Completed six co-operative education internships in three countries over a total of two years.
-    - Participated heavily in extracurricular activities, including several clubs and initiatives.
-    - Completed numerous projects across a variety of disciplines including mechatronics, mechanical engineering, electrical engineering,
-      computer engineering, controls, bioengineering, mathematics, and entrepreneurship.
+    - Completed [six co-operative education internships](../work/coop.md) in three countries over a total of two years.
+    - Participated heavily in [extracurricular activities](#extracurricular-activities), including several clubs and initiatives.
+    - Completed [numerous projects](#highlighted-projects) across a variety of disciplines including
+      [mechatronics](../projects/undergrad.md#mechatronics),
+      [mechanical engineering](../projects/undergrad.md#mechanical-engineering),
+      [electrical engineering](../projects/undergrad.md#electrical-engineering),
+      [computer engineering](../projects/undergrad.md#computer-engineering),
+      [controls](../projects/undergrad.md#controls),
+      [bioengineering](../projects/undergrad.md#bioengineering),
+      [mathematics](../projects/undergrad.md#mathematics),
+      and [entrepreneurship](../projects/undergrad.md#entrepreneurship).
 
 I studied at the University of Waterloo from 2008 to 2013,
 and graduated with a Bachelor of Applied Science in Honours Mechatronics Engineering.

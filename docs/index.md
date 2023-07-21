@@ -1,3 +1,11 @@
+???+ summary
+    - Expert in Python and robotics
+    - Looking for new opportunities in Belgium
+    - Fluent in English and French, intermediate in Dutch
+    - Hold an EU Blue Card; eligible to work immediately
+    - Contact me at [contact@jnassar.com](mailto:contact@jnassar.com)
+    - Curriculum Vitae [here](cv)
+
 # About me
 
 ![Jean Nassar (Obligatory photo)](assets/images/jean.png){: style="width:200px;border-radius: 50%", align="left"}

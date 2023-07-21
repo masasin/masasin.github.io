@@ -1,16 +1,17 @@
 # Kyoto University
-2013 &ndash; 2017
+_2013 &ndash; 2017_
 
 ???+ summary
 
-    - Was a member of the Mechatronics Laboratory from 2013 to 2017, graduated with a Master of Engineering degree from the Department of Mechanical Engineering.
-    - Worked on many projects, primarily in the field of human-robot interaction, including the development of a teleoperation system for drones and gestural control of robots.
-    - Participated in the 2016 Japan Tent program, a cultural exchange program by Ishikawa Prefecture.
-    - Completed several course projects in areas including design and manufacturing engineering, dynamic system control theory, and engineering ethics.
+    - Graduated with a Master of Engineering degree from the Department of Mechanical Engineering.
+    - Was a member of the [Mechatronics Laboratory](http://www.mechatronics.me.kyoto-u.ac.jp/index.php?ml_lang=en) from 2013 to 2017.
+    - Worked on many [projects](#highlighted-projects), primarily in the field of human-robot interaction,
+      including the development of a [teleoperation system for drones](../projects/spirit.md) and [gestural control of robots](../projects/myo.md).
+    - Participated in the [RoboCup Japan Open Rescue League](../projects/yozakura.md) multiple times in the teleoperated division.
 
 ![Kyoto University 2013 members](../../assets/images/2013_matsunoken_members.jpg){: style="width:400px", align=right}
 I was a member of the [Mechatronics Laboratory](http://www.mechatronics.me.kyoto-u.ac.jp/index.php?ml_lang=en) at Kyoto University from 2013 to 2017.
-I joined as a research student in 2013, and enrolled in the Masters program starting in April 2014.
+I joined as a research student in 2013 while waiting for the academic term to begin, and enrolled in the Masters program starting in April 2014.
 I graduated in March 2017 with a Master of Engineering degree from the Department of Mechanical Engineering.
 
 While at Kyoto University, I worked on [many projects](#highlighted-projects).

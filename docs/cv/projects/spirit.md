@@ -1,5 +1,5 @@
 # SPIRIT (Masters thesis)
-2015 &ndash; 2017, [Kyoto University](../education/kyoto.md).
+_2015 &ndash; 2017, [Kyoto University](../education/kyoto.md)_
 
 ???+ summary
 

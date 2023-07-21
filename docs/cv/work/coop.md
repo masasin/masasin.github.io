@@ -1,4 +1,13 @@
 # Co-operative education experience
+???+ summary
+
+    - Spring 2012: Design Engineer, [Starquip Integrated Systems](#design-engineer-starquip-integrated-systems)
+    - Fall 2011: Junior Project Engineer, [Kevin Quan Studios](#junior-project-engineer-kevin-quan-studios)
+    - Winter 2011: Hardware Associate, [IMS](#hardware-associate-ims)
+    - Spring 2010: Research Assistant, [Multiscale Additive Manufacturing Lab](#research-assistant-multiscale-additive-manufacturing-lab)
+    - Fall 2009: Research Assistant, [Computer Vision and Mobile Robotics Lab](#research-assistant-computer-vision-and-mobile-robotics-lab)
+    - Winter 2009: Engineer in Training, [Sierra Construction Systems](#engineer-in-training-sierra-construction-systems)
+
 The University of Waterloo has a unique co-operative education program that allows students to alternate between study and work terms.
 Each co-op is normally a four-month-long remunerated full-time position, which allows students to gain valuable industry experience.
 I was fortunate enough to be part of this program, and I did six work terms in three countries over a total of two years.
