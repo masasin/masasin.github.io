@@ -39,7 +39,8 @@ an online lesson platform.
 ## Helping colleagues
 At the [University of Waterloo](education/uwaterloo), I spent many long hours helping my classmates with projects and assignments,
 and tutoring them in subjects that they were weak in.
-I also became a mentor to younger students. I tutored them with their courses,
+I also became a mentor to younger students.
+I participated in orientation week, tutored them with their courses,
 and helped navigate the university system, including course selection, the co-op process, getting accommodations, and more.
 In addition, I helped many people with personal problems ranging from relationships to academics, from mental health to work and finances.
 
