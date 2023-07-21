@@ -9,6 +9,8 @@
 
 My initial research topic was developing infrastructure which would allow the ergonomic control of robots using gestures.
 
+![The Myo armband, worn](../../assets/images/myo_worn.jpg){: style="width:300px", align=right}
+
 My proof of concept was going to be using the Myo armband from Thalmic labs to control robots,
 either a Kinova robotic arm, or one of the lab’s other robots.
 Eventually, my professor determined that it was too much development, and not enough research,
@@ -24,5 +26,3 @@ I looked at ergonomics, as well as manually modifying the configurations,
 but the project was cancelled before a fully functional version could be made.
 
 Most of the code was written in Python, including wrappers for [C++ code](https://github.com/thalmiclabs) which I wrote to talk to the armband and the robotic arm.
-
-![The Myo armband](../../assets/images/myo.png){: style="width:400px"}

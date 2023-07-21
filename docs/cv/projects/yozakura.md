@@ -9,6 +9,8 @@
     - The code was robust against failure and well-documented, providing useful error messages for hardware, software,
       and operator errors of various types, and correcting them where necessary.
 
+![Yozakura](../../assets/images/yozakura.jpg){: style="width:400px", align=right}
+
 The Kyoto University [Mechatronics Lab](http://www.mechatronics.me.kyoto-u.ac.jp/index.php?ml_lang=en)’s
 [SHINOBI team](https://github.com/kyoto-u-shinobi) designed a new teleoperated rescue robot
 called Yozakura to participate in the 2015 [RoboCup Japan Open](http://robocup.or.jp/)
@@ -17,12 +19,13 @@ We also participated in the RoboCup Japan Rescue Camp, a practice competition he
 
 Yozakura had star-shaped wheels, flippers, a robotic arm, and various sensors.
 
-![Yozakura](../../assets/images/yozakura.jpg){: style="width:400px"}
-
 I was the software development lead for YOZAKURA.
 I wrote a client-server system to control the robot from the operating station,
 as well as drivers for various controllers.
 (This was eventually superseded by an rviz interface which used the same controller driver.)
+
+![Yozakura](../../assets/images/yozakura_clean.jpg){: style="width:300px", align=left}
+
 
 I also wrote most of the code for the onboard Raspberry Pi and mbed chips,
 as well as I2C drivers for current sensors and a 10-DOF IMU,

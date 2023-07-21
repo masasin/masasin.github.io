@@ -1,11 +1,9 @@
 # About me
 
+![Jean Nassar (Obligatory photo)](assets/images/jean.png){: style="width:200px;border-radius: 50%", align="left"}
+
 Hello! I'm Jean Nassar, and I'm a seasoned Python and robotics expert with a passion for tackling challenging problems
 and exploring new frontiers in technology.
-
-![Jean Nassar (Obligatory photo)](assets/images/jean.png){: style="width:200px;border-radius: 50%;"}
-
-
 
 I bring to the table seven enriching years of industry experience that spans across continents and disciplines.
 My professional journey started with a [Bachelors degree in Honours Mechatronics Engineering](cv/education/uwaterloo)

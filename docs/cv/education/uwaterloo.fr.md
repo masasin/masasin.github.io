@@ -35,7 +35,7 @@ En 2012, j'ai dirigé la direction de la santé mentale de la University of Wate
 En tant que directeur, j'ai introduit une initiative réussie pour amener des animaux de service sur le campus pendant les examens pour aider à réduire le stress des étudiants.
 Cela a été éventuellement émulé au-delà de la faculté d'ingénierie.
 
-![Chiots dans le salon de la Engineering Society](../../assets/images/puppies_in_poets.png)
+![Chiots dans le salon de la Engineering Society](../../assets/images/puppies_in_poets_invite.png)
 
 Aussi en 2012, j'ai co-fondé le [Engineering Student Ambassador program](https://uwaterloo.ca/engineering-student-ambassadors/),
 qui encourage les étudiants actuels en ingénierie à aider les étudiants potentiels à obtenir un lien personnel et informatif avec la faculté d'ingénierie.

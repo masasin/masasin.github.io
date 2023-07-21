@@ -18,6 +18,7 @@ They have a pronounced presence in the energy sector and with European instituti
 Their services are tailored to fit both small and large-scale projects across different environments,
 particularly excelling in data engineering and software deployment, underpinned by an unwavering commitment to security and compliance.
 
+![Adimian weekend](../../assets/images/adimian_weekend.jpg){: style="width:400px", align=right}
 Working on both internal Adimian products and external projects, I was involved in the complete iterative process,
 going from the initial analysis and design, to development and finally deployment and evolutive maintenance.
 All Python code was developed using TDD with pytest.
@@ -30,9 +31,10 @@ I also worked on a governance voting tool used by various energy transmission sy
 The tool had been developed by Adimian using FastAPI, Vue, and VueX,
 and I provided critical support by solving bugs and developing new features at the request of the client.
 
+![Client petanque](../../assets/images/client_petanque.jpg){: style="width:400px", align=left}
 I was dispatched to a Regional Coordination Centre for European TSOs in April 2022.
 My role entailed end-to-end project responsibility, ranging from initial design to final completion,
-followed by proactive and responsive maintenance. 
+followed by proactive and responsive maintenance.
 
 Our workflow consisted of biweekly sprints, where I did code development and documentation, as well as reviewing and testing code written by my coworkers.
 The technology stack primarily included Python, where I utilized libraries such as
@@ -116,6 +118,7 @@ _February to December 2018, Antwerp, Belgium._
     - Created several docker containers and docker-compose files to automate environment setup and teardown.
     - Worked on standardizing DevPI index contents using Pipenv.
 
+![Teambuilding at Sentaince](../../assets/images/sentiance_event.jpg){: style="width:300px", align=right}
 Sentiance turns IOT sensor data from e.g., mobile phones into insightful data,
 such as the segment of the population that a user belongs to, as well as their current actions and predicted future actions.
 The core of the codebase was written in Python 2, which reached end of life on January 1, 2020.

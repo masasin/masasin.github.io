@@ -35,7 +35,7 @@ In 2012 leidde ik de geestelijke gezondheidsdirectie van de University of Waterl
 Als directeur introduceerde ik een succesvol initiatief om hulpdieren op de campus te brengen tijdens examens om de stress van studenten te verminderen.
 Dit werd uiteindelijk nagevolgd buiten de faculteit van engineering.
 
-![Puppy's in de lounge van de Engineering Society](../../assets/images/puppies_in_poets.png)
+![Puppy's in de lounge van de Engineering Society](../../assets/images/puppies_in_poets_invite.png)
 
 Ook in 2012 co-oprichtte ik het [Engineering Student Ambassador program](https://uwaterloo.ca/engineering-student-ambassadors/),
 dat huidige engineeringstudenten aanmoedigt om potentiële studenten een persoonlijke en informatieve link te bieden met de faculteit van engineering.
