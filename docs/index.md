@@ -26,7 +26,7 @@ I am also a [private tutor](cv/teaching) for many subjects, including Python, ro
 
 I enjoy working on challenging problems that require me to think outside the box.
 This is also reflected in my hobbies, which include
-[learning languages](cv/languages), automating things around me, hiking, exploration, and learning many new [skills](cv/skills).
+[learning languages](cv/skills.md#languages), automating things around me, hiking, exploration, and learning many new [skills](cv/skills).
 
 I am currently looking for a new challenge.
 As a holder of the EU Blue Card, I'm equipped to embark on new professional endeavours

@@ -3,7 +3,7 @@ In de loop van mijn werk heb ik de gelegenheid gehad om een breed scala aan hulp
 Hoewel de mate van mijn ervaring met elk hulpmiddel varieert, hebben ze allemaal een rol gespeeld in mijn projecten en professionele taken.
 
 Voor specificaties over hoe en waar veel van deze hulpmiddelen zijn gebruikt,
-kunt u de [projectpagina's](../projects/index.md) en de secties [werkervaring](../work/index.md) bekijken,
+kunt u de [projectpagina's](projects/index.md) en de secties [werkervaring](work/index.md) bekijken,
 of specifieke vaardigheden zoeken met behulp van de zoekbalk bovenaan de pagina.
 
 ## Software engineering

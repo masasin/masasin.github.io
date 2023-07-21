@@ -1,12 +1,12 @@
 # Vaardigheden
 Gedurende mijn academische en professionele reis heb ik een breed en diep scala aan vaardigheden ontwikkeld,
-variërend van [technische vaardigheden](#technische-vaardigheden) tot [soft skills](#soft-skills) en [taalvaardigheden](../languages.md).
+variërend van [technische vaardigheden](#technische-vaardigheden) tot [soft skills](#soft-skills) en [taalvaardigheden](languages.nl.md).
 Elke vaardigheid is in de praktijk gebracht in verschillende projecten, academische studies en professionele rollen.
 
 Voor details over de tools en technologieën waarmee ik ervaring heb, zie de pagina [tools en technologieën](tools.md).
 
 Voor meer gedetailleerde voorbeelden van hoe veel van deze vaardigheden zijn toegepast,
-kunt u de [projectpagina's](../projects/index.md) en de secties [werkervaring](../work/index.md) bekijken,
+kunt u de [projectpagina's](projects/index.md) en de secties [werkervaring](work/index.md) bekijken,
 u kunt specifieke vaardigheden zoeken met behulp van de zoekbalk bovenaan de pagina.
 
 ## Technische vaardigheden

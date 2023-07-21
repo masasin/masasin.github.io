@@ -8,7 +8,7 @@ Ik breng zeven verrijkende jaren van industrie-ervaring met me mee die zich uits
 
 Ik ben ook een [privéleraar](cv/teaching) voor vele onderwerpen, waaronder Python, robotica, prompt engineering en Japans.
 
-Ik hou van het werken aan uitdagende problemen die me dwingen om buiten de gebaande paden te denken. Dit komt ook tot uiting in mijn hobby's, die onder meer [het leren van talen](cv/languages), het automatiseren van dingen om me heen, wandelen, verkennen en het leren van vele nieuwe [vaardigheden](cv/skills) omvatten.
+Ik hou van het werken aan uitdagende problemen die me dwingen om buiten de gebaande paden te denken. Dit komt ook tot uiting in mijn hobby's, die onder meer [het leren van talen](cv/languages.nl.md), het automatiseren van dingen om me heen, wandelen, verkennen en het leren van vele nieuwe [vaardigheden](cv/skills) omvatten.
 
 Mijn fascinatie voor de ruimte gaat verder dan het rijk van een hobby. In 2016, gedreven door deze passie, stapte ik uit mijn comfortzone en solliciteerde ik om astronaut te worden. Hoewel mijn pad me terugleidde naar Python en robotica, illustreert deze ervaring mijn bereidheid om onconventionele uitdagingen aan te gaan en mijn constante streven naar kennis in het brede spectrum van de wetenschap.
 

@@ -1,10 +1,19 @@
 # Tools and Technologies
-In the course of my work, I've had the opportunity to use a wide array of tools and technologies that support efficient and effective software development, project management, and team collaboration.
-While the extent of my experience with each tool varies, they have all played a role in my projects and professional tasks.
+???+ summary
 
-For specifics on how and where many of these tools were used,
-you can check out the [project pages](../projects/index.md) and [work experience](../work/index.md) sections,
-or search for specific skills using the search bar at the top of the page.
+    - [Programming languages](#software-engineering): Python, Javascript, C++, bash
+    - [Development](#software-engineering): Git, CI/CD, Docker, documentation (Sphinx, mkdocs), testing (pytest)
+    - [Data science](#data-science): Jupyter, SciPy stack, pandas, scikit-learn, SymPy, Matplotlib, Seaborn, Plotly, Streamlit
+    - [Web development](#web-development): Python (FastAPI, Pydantic), Javascript (Vue), HTML, CSS, SQLAlchemy
+    - [Robotics](#robotics): ROS stack; various microcontrollers, boards, sensors, and actuators
+    - [Hardware](#electrical-engienering): Raspberry Pi, ESP8266, Arduino, mbed; MicroPython, CircuitPython, C++, C
+    - [Mechanical](#mechanical-engineering): Solidworks, Autodesk Inventor, OpenSCAD; design, analysis, simulation, and manufacturing
+    - [Electrical](#electrical-engineering): PCB design and manufacturing, soldering, wiring, crimping, cable management
+    - [Other](#other-tools): ChatGPT and other LLMs; Gimp, Inkscape; Linux, macOS, Windows; various office suites
+
+In the course of my work, I've had the opportunity to use a wide array of tools and technologies that support
+efficient and effective software development, project management, and team collaboration.
+While the extent of my experience with each tool varies, they have all played a role in my projects and professional tasks.
 
 ## Software engineering
 ### Python
@@ -23,7 +32,7 @@ or search for specific skills using the search bar at the top of the page.
 - **Packages:** Pydantic, Jinja2, Bootstrap, Axios
 - **Databases:** SQLAlchemy, SQLite, redis
 - **Distributed systems:** Docker, Kafka, Kubernetes, AWS
-### Development
+### General development
 - **Version control:** Git, Github, Gitlab
 - **CI/CD:** Github Actions, Gitlab CI, Travis, Jenkins
 - **Collaboration tools:** Jira, Confluence, Trello
@@ -53,12 +62,10 @@ or search for specific skills using the search bar at the top of the page.
 ### Other
 - **Digital logic:** Digital logic, Pneumatic, and Hydraulic circuit design
 
-## Operating systems and Development environment
-- **Operating systems:** Linux (including Arch, Fedora, and Ubuntu), macOS, Windows
-- **IDEs and text editors:** PyCharm, VSCode, Vim, Spacemacs
-
 ## Other tools
 - **AI Tools:** ChatGPT, Claude, Bard, Stable Diffusion, some Langchain and HuggingFace
 - **Graphic design:** Gimp, Inkscape, diagrams.net (draw.io), Visio
 - **Office suites:** LibreOffice, Microsoft Office, Google Suite
 - **Project management:** Microsoft Project, Primavera
+- **Operating systems:** Linux (including Arch, Fedora, and Ubuntu), macOS, Windows
+- **IDEs and text editors:** PyCharm, VSCode, Vim, Spacemacs

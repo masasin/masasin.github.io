@@ -8,7 +8,7 @@ J'apporte sept années enrichissantes d'expérience dans l'industrie qui s'éten
 
 Je suis aussi un [tuteur privé](cv/teaching) pour de nombreux sujets, y compris Python, la robotique, l'ingénierie rapide et le japonais.
 
-J'aime travailler sur des problèmes difficiles qui nécessitent de penser hors des sentiers battus. Ceci se reflète également dans mes hobbies, qui incluent [l'apprentissage des langues](cv/languages), l'automatisation des choses autour de moi, la randonnée, l'exploration et l'apprentissage de nombreuses nouvelles [compétences](cv/skills).
+J'aime travailler sur des problèmes difficiles qui nécessitent de penser hors des sentiers battus. Ceci se reflète également dans mes hobbies, qui incluent [l'apprentissage des langues](cv/languages.fr.md), l'automatisation des choses autour de moi, la randonnée, l'exploration et l'apprentissage de nombreuses nouvelles [compétences](cv/skills).
 
 Ma fascination pour l'espace va au-delà du domaine d'un hobby. En 2016, poussé par cette passion, je suis sorti de ma zone de confort et ai postulé pour devenir astronaute. Bien que mon chemin m'ait ramené à Python et à la robotique, cette expérience illustre ma volonté de relever des défis non conventionnels et ma recherche constante de connaissances dans le large spectre de la science.
 

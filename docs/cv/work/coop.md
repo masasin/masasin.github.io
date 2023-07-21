@@ -1,6 +1,8 @@
 # Co-operative education experience
 ???+ summary
 
+    Six 4-month co-op terms in 3 countries over 2 years.
+
     - Spring 2012: Design Engineer, [Starquip Integrated Systems](#design-engineer-starquip-integrated-systems)
     - Fall 2011: Junior Project Engineer, [Kevin Quan Studios](#junior-project-engineer-kevin-quan-studios)
     - Winter 2011: Hardware Associate, [IMS](#hardware-associate-ims)
@@ -38,7 +40,7 @@ The system also interactively generated a bill of materials.
 That reduced the creation time of 80% of new drawings from hours to around 10 minutes.
 
 ## Junior Project Engineer, [Kevin Quan Studios](https://kqbikes.com)
-_September to December 2011.  Toronto, ON, Canada_
+_September to December 2011.  Toronto, ON, Canada._
 
 ???+ summary
 
