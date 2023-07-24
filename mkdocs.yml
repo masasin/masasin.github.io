@@ -2,11 +2,14 @@ site_name: Jean Nassar
 site_url: https://jnassar.com
 site_author: Jean Nassar
 site_description: Python and Robotics expert
-repo_url: https://github.com/masasin/masasin.github.io/
-edit_uri: edit/main/docs/
+#repo_url: https://github.com/masasin/masasin.github.io/
+#edit_uri: edit/main/docs/
 
 nav:
-  - About me: "index.md"
+  - About me:
+    - "index.md"
+    - Curriculum Vitae: "cv/index.md"
+    - Contact: "contact.md"
   - Curriculum Vitae:
     - "cv/index.md"
     - Work Experience:
@@ -30,6 +33,7 @@ nav:
     - Skills: "cv/skills.md"
     - Teaching Experience: "cv/teaching.md"
     - Tools and Technologies: "cv/tools.md"
+  - Contact: "contact.md"
 
 theme:
   name: material
@@ -37,21 +41,22 @@ theme:
   palette:
     - scheme: default
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/weather-night
         name: Switch to dark mode
-      primary: teal
-      accent: lime
+      primary: indigo
+      accent: teal
     - scheme: slate
       toggle:
-          icon: material/toggle-switch
+          icon: material/weather-sunny
           name: Switch to light mode
-      primary: teal
-      accent: lime
+      primary: indigo
+      accent: teal
   font:
     text: Noto Sans
     code: Roboto Mono
   features:
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.top
     - navigation.path
     - navigation.tracking
@@ -164,6 +169,9 @@ extra:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/masasin
       name: masasin
+    - icon: fontawesome/solid/code-pull-request
+      link: https://gitlab.com/masasin/masasin.github.io
+      name: Contribute to this site
   generator: false
 copyright: |
   &copy; 2021 &ndash; 2023 <a href="https://github.com/masasin/" target="_blank" rel="noopener">Jean Nassar</a>

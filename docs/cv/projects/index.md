@@ -3,7 +3,7 @@ _2008 &ndash; Present_
 
 ???+ summary
     
-    - [Open Source Projects](open_source) 
+    - [Open Source projects](open_source) 
     - [Kyoto University projects](#kyoto-university-projects)
         - [SPIRIT](spirit), a novel third-person view interface for drone control in degraded environments
         - [Yozakura](yozakura), a teleoperated rescue robot
