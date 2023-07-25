@@ -1,15 +1,32 @@
-# Teaching Experience
+# Mentoring Experience
 _2003 &ndash; Present_
 
 ???+ summary
 
-    - Over 20 years of experience as a private tutor, teaching subjects ranging from math and physics to English and Japanese,
-      as well as Python for project work.
-    - I have a long history of helping colleagues and classmates, tutoring them in various subjects,
-      mentoring peers, and helping people with problems in general.
-    - Recognized for the ability to explain complex concepts in simple terms and have received praise
-      for patience and effective teaching methods.
-    - I teach both locally and remotely.
+    - 20+ years experience mentoring colleagues, classmates and students, including 4 years as a senior developer
+    - Recognized for my ability to break down and explain complex concepts at all levels
+    - Have received praise for my patience and effective teaching methods
+    - Taught subjects ranging from math and physics to English and Japanese, as well as Python
+
+## Mentoring colleagues and students
+I have mentored coworkers in [all of my jobs](work/index), and while at [Kyoto University],
+in Python and software development best practices.
+This includes 4 years as a senior developer, where I took part in onboarding new hires.
+
+I have received praise for my patience and ability to explain complex concepts effectively.
+I have also participated in outreach events, such as the [CodeBar at Adimian](work/adimian.md).
+
+At the [University of Waterloo](education/waterloo), I spent many long hours helping my classmates with projects and assignments,
+and tutoring them in subjects that they were weak in.
+
+I also became a mentor to younger students.
+I participated in orientation week, tutored them with their courses,
+and helped navigate the university system, including course selection, the co-op process, getting accommodations, and more.
+In addition, I helped many people with personal problems ranging from relationships to academics, from mental health to work and finances.
+
+In 2012 and 2013, I was shadowed by two international exchange students, and helped them integrate into Canada and the university.
+I also taught beginner and intermediate Japanese courses as a volunteer with the [University of Waterloo Culture and Language Exchange Club](https://uwclec.webs.com/).
+
 
 ## Private tutor
 I started tutoring in middle school, when I helped a neighbour pass his national exam.
@@ -29,24 +46,6 @@ I still provide support as necessary.
 In another, I enabled a PhD student to analyze his electron-phase micrographs by writing code which did the same job of a commercial software package with an expensive license.
 I was acknowledged by name in [his paper](https://aip.scitation.org/doi/pdf/10.1063/1.5028398?class=pdf).
 
-Since 2019, I have also been teaching Python and Japanese using [Apprentus]{{ urls.social.apprentus }}
-an online and local lesson platform.
+Since 2019, I have also been teaching Python and Japanese both online and in person.
 
 ![Analyzed image](../assets/images/micrograph_analyzed.jpg){: style="width:400px"}
-
-## Helping colleagues
-At the [University of Waterloo](education/waterloo), I spent many long hours helping my classmates with projects and assignments,
-and tutoring them in subjects that they were weak in.
-I also became a mentor to younger students.
-I participated in orientation week, tutored them with their courses,
-and helped navigate the university system, including course selection, the co-op process, getting accommodations, and more.
-In addition, I helped many people with personal problems ranging from relationships to academics, from mental health to work and finances.
-
-In 2012 and 2013, I was shadowed by two international exchange students, and helped them integrate into Canada and the university.
-I also taught beginner and intermediate Japanese courses as a volunteer with the [University of Waterloo Culture and Language Exchange Club](https://uwclec.webs.com/).
-
-While at [Kyoto University](education/kyoto), I tutored other students in Python and software development best practices,
-including testing and version control.
-
-Since graduating, I have helped coworkers at [all of my jobs](work/index),
-and have received praise for my patience and ability to explain complex concepts effectively.
