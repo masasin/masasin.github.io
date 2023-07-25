@@ -5,7 +5,7 @@ _January 2021 &ndash; October 2023, Belgium (remote)_
 
     - Took end-to-end project responsibility, including initial design, development, deployment, and maintenance.
     - Developed and maintained a variety of Python applications, including a web-based data management system and a data processing pipeline.
-    - Utilized Python libraries like Pydantic, FastAPI, SqlAlchemy, and Redis for backend development and Vue for frontend tasks.
+    - Utilized Python libraries like Pydantic, FastAPI, SQLAlchemy, and Redis for backend development and Vue for frontend tasks.
     - Efficiently addressed bug reports and managed releases, maintaining high-standard deliverables.
     - Leveraged tutoring experience to mentor colleagues, helping them improve their skills and on-board new team members, to high praise.
 
@@ -34,7 +34,7 @@ followed by proactive and responsive maintenance.
 
 Our workflow consisted of biweekly sprints, where I did code development and documentation, as well as reviewing and testing code written by my coworkers.
 The technology stack primarily included Python, where I utilized libraries such as
-Pydantic, FastAPI, SqlAlchemy, and Redis for backend development; and Vue for frontend tasks.
+Pydantic, FastAPI, SQLAlchemy, and Redis for backend development; and Vue for frontend tasks.
 In some cases, I designed and implemented ad-hoc scripts, managed releases, and efficiently addressed bug reports,
 maintaining the high standard of our deliverables.
 

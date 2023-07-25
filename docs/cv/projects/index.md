@@ -6,7 +6,7 @@ _2008 &ndash; Present_
     - [Yozakura](#yozakura): Software lead for a teleoperated rescue robot
     - [Gestural control of robots](#gestural-control-of-robots): Infrastructure for controlling robots with gestures
     - [Open source projects](#open-source-projects)
-        - Two packages on PyPI, including [latexipy](https://github.com/masasin/latexipy) (129 stars) for exporting Matplotlib based plots into native LaTeX
+        - Two packages on PyPI, including [latexipy](https://github.com/masasin/latexipy) (129 stars) for exporting Matplotlib-based plots into native LaTeX
         - Many repositories on GitHub, including [resume](https://github.com/masasin/resume) (118 stars) and AoC [2021](https://github.com/masasin/aoc2021), [2022](https://github.com/masasin/advent-of-code-2022)
         - Contributions to major and minor open source projects, including numpy, ROS, and more
     - [Course projects](#university-of-waterloo-projects) from the University of Waterloo
@@ -46,7 +46,7 @@ _2014 &ndash; 2015_
 ## [Open source projects](open_source)
 _2008 &ndash; Present_
 
-- Two packages on PyPI, including [latexipy](https://github.com/masasin/latexipy) (129 stars) for exporting Matplotlib based plots into native LaTeX.
+- Two packages on PyPI, including [latexipy](https://github.com/masasin/latexipy) (129 stars) for exporting Matplotlib-based plots into native LaTeX.
 - Many repositories on GitHub, including [my resume generator](https://github.com/masasin/resume) (118 stars),
   as well as the [2021](https://github.com/masasin/aoc2021) and [2022](https://github.com/masasin/advent-of-code-2022) Advent of Code repositories.
 - Contributions to major and minor open source projects, including numpy, ROS, and more.

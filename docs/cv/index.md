@@ -13,7 +13,7 @@
         - [Yozakura](#yozakura): Software lead for a teleoperated rescue robot
         - [Gestural control of robots](#gestural-control-of-robots): Infrastructure for controlling robots with gestures
         - [Open source projects](#open-source-projects)
-            - Two packages on PyPI, including [latexipy](https://github.com/masasin/latexipy) (129 stars) for exporting Matplotlib based plots into native LaTeX
+            - Two packages on PyPI, including [latexipy](https://github.com/masasin/latexipy) (129 stars) for exporting Matplotlib-based plots into native LaTeX
             - Many repositories on GitHub, including [my resume generator](https://github.com/masasin/resume) (118 stars) and AoC [2021](https://github.com/masasin/aoc2021), [2022](https://github.com/masasin/advent-of-code-2022)
             - Contributions to major and minor open source projects, including numpy, ROS, and more
     - 20+ years of [mentoring experience](#mentoring-experience)
@@ -51,7 +51,7 @@ _January 2021 &ndash; October 2023, Belgium (remote)._
 
 - Took end-to-end project responsibility, including initial design, development, deployment, and maintenance.
 - Developed and maintained a variety of Python applications, including a web-based data management system and a data processing pipeline.
-- Utilized Python libraries like Pydantic, FastAPI, SqlAlchemy, and Redis for backend development and Vue for frontend tasks.
+- Utilized Python libraries like Pydantic, FastAPI, SQLAlchemy, and Redis for backend development and Vue for frontend tasks.
 - Efficiently addressed bug reports and managed releases, maintaining high-standard deliverables.
 - Mentored colleagues, helping them improve their skills and on-board new team members, to high praise.
 
@@ -101,7 +101,7 @@ between 2009 and 2012, working in six companies in three countries over a total 
 - Designed and developed infrastructure that abstracted away the interface used by using an API,
   with a proof of concept using the Myo armband from Thalmic Labs to control robots.
 ### [Open source projects](projects/open_source)
-- Two packages on PyPI, including [latexipy](https://github.com/masasin/latexipy) (129 stars) for exporting Matplotlib based plots into native LaTeX.
+- Two packages on PyPI, including [latexipy](https://github.com/masasin/latexipy) (129 stars) for exporting Matplotlib-based plots into native LaTeX.
 - Many repositories on GitHub, including [my resume generator](https://github.com/masasin/resume) (118 stars),
   as well as the [2021](https://github.com/masasin/aoc2021) and [2022](https://github.com/masasin/advent-of-code-2022) Advent of Code repositories.
 - Contributions to major and minor open source projects, including numpy, ROS, and more.
