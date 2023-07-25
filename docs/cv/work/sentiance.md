@@ -1,5 +1,5 @@
-# Data Scientist, [Sentiance](https://www.sentiance.com/)
-_February to December 2018, Antwerp, Belgium._
+# Data Scientist, [Sentiance]{{ urls.work.sentiance }}
+_February &ndash; January 2019, Antwerp, Belgium (hybrid)_
 
 ???+ summary
 

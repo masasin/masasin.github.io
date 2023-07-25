@@ -1,5 +1,5 @@
-# Industrial Automation Engineer, [Kapernikov](https://www.kapernikov.com/)
-_March to October 2019, Brussels, Belgium._
+# Industrial Automation Engineer, [Kapernikov]{{ urls.work.kapernikov }}
+_March &ndash; October 2019, Brussels, Belgium (hybrid)_
 
 ???+ summary
 

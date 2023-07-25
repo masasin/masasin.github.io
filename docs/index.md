@@ -1,18 +1,18 @@
 ???+ summary
     - Senior software engineer with experience in data science, industrial automation, and web development
     - 10+ years of experience in Python, robotics, and more, with 
-    - Looking for [a new full-time opportunity](#hire-me) in Belgium
+    - Currently looking for a [new full-time opportunity](#hire-me) in Belgium
     - Hold an EU Blue Card; can start on 1 September 2023
-    - Email me at [contact@jnassar.com]{{ urls.social.email }}, or [book an appointment]{{ urls.social.cal }}
+    - Email me at [contact@jnassar.com]{{ urls.social.email }}, or [book a meeting]{{ urls.social.cal }}
     - Please see [my CV](cv) for more details
 
 # About me
 
 ![Jean Nassar (Obligatory photo)](assets/images/jean.png){: style="width:200px;border-radius: 50%", align="left"}
 
-Hello! I'm Jean Nassar, and I'm a senior Python and robotics expert with more than 10 years of interdisciplinary experience.
+Hello! I'm Jean Nassar, and I'm a senior Python and robotics expert with more than 10 years of multidisciplinary experience.
 
-I am currently looking for [a new full-time opportunity](#hire-me) in Belgium starting on 1 September 2023.
+I am currently looking for a [new full-time opportunity](#hire-me) in Belgium starting from 1 September 2023.
 
 I have been living in Belgium since 2018, and have worked in multiple fields,
 including [data science](cv/work/sentiance), [industrial automation](cv/work/kapernikov), [finance](cv/work/yields), and [web development](cv/work/adimian).

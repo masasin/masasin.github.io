@@ -14,14 +14,16 @@ PyPI projects are on a continuous integration server and have full test coverage
 The documentation for some projects is available on [readthedocs.org](https://readthedocs.org/).
 
 ## Projects on PyPI
-- [latexipy](https://github.com/masasin/latexipy): Easily generate great plots in multiple format, including for LaTeX
+- [latexipy](https://github.com/masasin/latexipy) (129 stars): Easily generate great plots in multiple format, including for LaTeX
 - [pyrosbag](https://github.com/masasin/pyrosbag): ROS Bag integration, allowing programmatic playback
     
 ## Highlighted projects
 - [spirit](https://github.com/masasin/spirit): Masters research code, data analysis, and thesis
 - [yozakura](https://github.com/kyoto-u-shinobi/yozakura_raspi): Code for YOZAKURA teleoperated robot
 - [dynamixel](https://github.com/masasin/dynamixel): A pythonic library for working with Dynamixel servos
-- [resume](https://github.com/masasin/resume): A CV and cover letter generator, used for the CV I submitted
+- [resume](https://github.com/masasin/resume) (118 stars): A CV and cover letter generator, used for the CV I submitted
+- Advent of Code [2021](https://github.com/masasin/aoc2021) and [2022](https://github.com/masasin/advent-of-code-2022): My solutions to the Advent of Code challenges
+- [gilded-rose](https://github.com/masasin/gilded-rose): A Python implementation of the Gilded Rose kata
 - [naca_airfoil_generator](https://github.com/masasin/naca_airfoil_generator): An interactive 4-digit NACA airfoil generated, based on the one I wrote for Kevin Quan Studios.
 - [keep_talking_solver](https://github.com/masasin/keep_talking_solver): A solver for the game “Keep Talking and Nobody Explodes”
 - [himawaripy](https://github.com/masasin/himawaripy): Wallpaper of a near-realtime geostationary satellite feed

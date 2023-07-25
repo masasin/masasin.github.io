@@ -1,10 +1,10 @@
-# Senior Python Developer, [Yields.io](https://www.yields.io/)
-_December 2019 to August 2020, Brussels, Belgium._
+# Senior Python Developer, [Yields.io]{{ urls.work.yields }}
+_December 2019 &ndash; August 2020, Brussels, Belgium (remote)_
 
 ???+ summary
 
-    - Worked as the primary Python developer, working on the core of the platform.
-    - Refactored and stabilized the codebase, added tests, fixed bugs, and developed new features.
+    - Worked on the core of the platform as the primary Python developer.
+    - Refactored and stabilized the codebase, added thousands of tests, fixed bugs, and developed new features.
     - Worked on automatically migrating and testing client code and artifacts with version increases, and deprecated old features.
     - Moved integration tests away from depending on mocks into tests that worked with a deployed Docker environment.
 

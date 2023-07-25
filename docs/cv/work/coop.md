@@ -3,19 +3,19 @@
 
     Six 4-month co-op terms in 3 countries over 2 years.
 
-    - Spring 2012: Design Engineer, [Starquip Integrated Systems](#design-engineer-starquip-integrated-systems)
-    - Fall 2011: Junior Project Engineer, [Kevin Quan Studios](#junior-project-engineer-kevin-quan-studios)
-    - Winter 2011: Hardware Associate, [IMS](#hardware-associate-ims)
-    - Spring 2010: Research Assistant, [Multiscale Additive Manufacturing Lab](#research-assistant-multiscale-additive-manufacturing-lab)
-    - Fall 2009: Research Assistant, [Computer Vision and Mobile Robotics Lab](#research-assistant-computer-vision-and-mobile-robotics-lab)
-    - Winter 2009: Engineer in Training, [Sierra Construction Systems](#engineer-in-training-sierra-construction-systems)
+    - [Design Engineer](#design-engineer-starquip-integrated-systems), Starquip Integrated Systems, Spring 2012
+    - [Junior Project Engineer](#junior-project-engineer-kevin-quan-studios), Kevin Quan Studios, Fall 2011
+    - [Hardware Associate](#hardware-associate-ims), IMS, Winter 2011
+    - [Research Assistant](#research-assistant-multiscale-additive-manufacturing-lab), Multiscale Additive Manufacturing Lab, Spring 2010
+    - [Research Assistant](#research-assistant-computer-vision-and-mobile-robotics-lab), Computer Vision and Mobile Robotics Lab, Fall 2009
+    - [Engineer in Training](#engineer-in-training-sierra-construction-systems), Sierra Construction Systems, Winter 2009
 
 The University of Waterloo has a unique co-operative education program that allows students to alternate between study and work terms.
 Each co-op is normally a four-month-long remunerated full-time position, which allows students to gain valuable industry experience.
 I was fortunate enough to be part of this program, and I did six work terms in three countries over a total of two years.
 
 ## Design Engineer, [Starquip Integrated Systems](https://www.starquip.com/)
-_May to August 2012. Toronto, ON, Canada._
+_May to August 2012, Toronto, ON, Canada (on-site)_
 
 ???+ summary
 
@@ -40,7 +40,7 @@ The system also interactively generated a bill of materials.
 That reduced the creation time of 80% of new drawings from hours to around 10 minutes.
 
 ## Junior Project Engineer, [Kevin Quan Studios](https://kqbikes.com)
-_September to December 2011.  Toronto, ON, Canada._
+_September &ndash; December 2011,  Toronto, ON, Canada (hybrid)_
 
 ???+ summary
 
@@ -59,7 +59,7 @@ which I used in order to perform 2D and 3D CFD analysis in Solidworks.
 I determined the optimum configuration for several racing bicycles, and designed tooling molds and parts.
 
 ## Hardware Associate, [IMS](https://www.ims.tech/)
-_January to April 2011. Waterloo, ON, Canada._
+_January &ndash; April 2011, Waterloo, ON, Canada (on-site)_
 
 ???+ summary
 
@@ -77,7 +77,7 @@ I provided general assistance to lead design engineers,
 and investigated self-resonance in inductors in order to enhance the accuracy of test results.
 
 ## Research Assistant, [Multiscale Additive Manufacturing Lab](https://msam.uwaterloo.ca)
-_May to September 2010. University of Waterloo. Waterloo, ON, Canada._
+_May &ndash; September 2010, University of Waterloo, Waterloo, ON, Canada (hybrid)_
 
 ???+ summary
 
@@ -98,7 +98,7 @@ The workstation was used to produce 3D scaffolds for the regrowth of bone and ca
 I also performed image processing on scanning electron micrographs using Octave.
 
 ## Research Assistant, [Computer Vision and Mobile Robotics Lab](https://sites.aub.edu.lb/vrlab/)
-_September to December 2009. American University of Beirut. Beirut, Lebanon._
+_September &ndash; December 2009, American University of Beirut, Beirut, Lebanon (hybrid)_
 
 ???+ summary
 
@@ -118,7 +118,7 @@ During my internship, I audited a fourth-year robotics class, and designed digit
 I also programmed a PIC-16 in C and assembly, and used an external debugger.
 
 ## Engineer in Training, [Sierra Construction Systems](https://www.sierraconstructionsystems.com/)
-_January to April 2009. Freetown, Sierra Leone._
+_January &ndash; April 2009, Freetown, Sierra Leone (hybrid)_
 
 ???+ summary
 
