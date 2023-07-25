@@ -4,7 +4,8 @@ _February to December 2018, Antwerp, Belgium._
 ???+ summary
 
     - Moved the company’s codebase from Python 2 to Python 3.
-    - Refactored core functionality into more modular components, verified and built machine learning models in numpy and scikit-learn.
+    - Refactored core functionality into more modular components
+    - Verified and built machine learning models in numpy and scikit-learn.
     - Used pyspark to increase code efficiency by parallelizing, or to add new functionality.
     - Created several docker containers and docker-compose files to automate environment setup and teardown.
     - Worked on standardizing DevPI index contents using Pipenv.
