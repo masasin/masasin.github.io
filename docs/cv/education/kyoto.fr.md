@@ -17,7 +17,7 @@ Mes sujets de recherche étaient principalement sur le thème de [l'interaction 
 J'ai commencé à travailler sur le [contrôle gestuel des robots](../projects/myo.md),
 et suis passé à la [téléopération de drones](../projects/spirit.md) lors de ma deuxième année.
 
-À l'Université de Kyoto, j'ai également [donné des cours particuliers à d'autres étudiants](../teaching.md) en Python et les meilleures pratiques de développement informatique,
+À l'Université de Kyoto, j'ai également [donné des cours particuliers à d'autres étudiants](../mentoring.md) en Python et les meilleures pratiques de développement informatique,
 y compris les tests et le contrôle de version.
 J'ai également participé à plusieurs reprises à la [RoboCup Japan Open Rescue League](../projects/yozakura.md) dans la division téléopérée.
 

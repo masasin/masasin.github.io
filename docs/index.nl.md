@@ -6,7 +6,7 @@ Hallo! Ik ben Jean Nassar, een ervaren Python- en robotica-expert met een passie
 
 Ik breng zeven verrijkende jaren van industrie-ervaring met me mee die zich uitstrekt over continenten en disciplines. Mijn professionele reis begon met een [bachelorgraad in Honours Mechatronica Engineering](cv/education/waterloo) aan de Universiteit van Waterloo. Als student daar, deed ik ook [zes co-op termen](cv/work/coop) bij verschillende bedrijven over de hele wereld. Ik heb vervolgens mijn expertise verder aangescherpt door een [masterprogramma](cv/education/kyoto) te voltooien bij het [Mechatronics lab](http://www.mechatronics.me.kyoto-u.ac.jp/index.php?ml_lang=en) aan de Universiteit van Kyoto. Sinds mijn afstuderen, heb ik voornamelijk in België gewoond. Ik heb [gewerkt](cv/work) voornamelijk als software engineer, hoewel ik ook wat mechatronica werk heb gedaan.
 
-Ik ben ook een [privéleraar](cv/teaching) voor vele onderwerpen, waaronder Python, robotica, prompt engineering en Japans.
+Ik ben ook een [privéleraar](cv/mentoring) voor vele onderwerpen, waaronder Python, robotica, prompt engineering en Japans.
 
 Ik hou van het werken aan uitdagende problemen die me dwingen om buiten de gebaande paden te denken. Dit komt ook tot uiting in mijn hobby's, die onder meer [het leren van talen](cv/languages.nl.md), het automatiseren van dingen om me heen, wandelen, verkennen en het leren van vele nieuwe [vaardigheden](cv/skills) omvatten.
 

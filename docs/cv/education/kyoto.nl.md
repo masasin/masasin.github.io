@@ -17,7 +17,7 @@ Mijn onderzoeksthema's waren voornamelijk gericht op het gebied van [mens-robot 
 Ik begon met het werken aan de [gebarenbesturing van robots](../projects/myo.md),
 en schakelde in mijn tweede jaar over naar [teleoperatie van drones](../projects/spirit.md).
 
-Aan de Universiteit van Kyoto heb ik ook [andere studenten begeleid](../teaching.md) in Python en best practices voor softwareontwikkeling,
+Aan de Universiteit van Kyoto heb ik ook [andere studenten begeleid](../mentoring.md) in Python en best practices voor softwareontwikkeling,
 waaronder testen en versiebeheer.
 Ik heb ook meerdere keren deelgenomen aan de [RoboCup Japan Open Rescue League](../projects/yozakura.md) in de teleoperated divisie.
 

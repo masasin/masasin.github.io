@@ -1,6 +1,8 @@
 # Contact
-You can reach me at any of the following:
+Email me at [contact@jnassar.com]{{ urls.social.email }}
+or [book an appointment]{{ urls.social.cal }}.
 
-- Email: [contact@jnassar.com](mailto:contact@jnassar.com)
-- Github: [@masasin](https://github.com/masasin)
-- LinkedIn: [@masasin](https://www.linkedin.com/in/masasin)
+I am also available on:
+
+- Github: [@masasin]{{ urls.social.github }}
+- LinkedIn: [@masasin]{{ urls.social.linkedin }}

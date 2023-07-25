@@ -1,15 +1,14 @@
 site_name: Jean Nassar
 site_url: https://jnassar.com
 site_author: Jean Nassar
-site_description: Python and Robotics expert
+site_description: Python and Robotics expert with 10+ years of experience
 #repo_url: https://github.com/masasin/masasin.github.io/
 #edit_uri: edit/main/docs/
 
 nav:
-  - About me:
+  - About:
     - "index.md"
     - Curriculum Vitae: "cv/index.md"
-    - Contact: "contact.md"
   - Curriculum Vitae:
     - "cv/index.md"
     - Work Experience:
@@ -30,10 +29,11 @@ nav:
         - "cv/education/index.md"
         - University of Waterloo: "cv/education/waterloo.md"
         - Kyoto University: "cv/education/kyoto.md"
+    - Mentoring Experience: "cv/mentoring.md"
     - Skills: "cv/skills.md"
-    - Teaching Experience: "cv/teaching.md"
     - Tools and Technologies: "cv/tools.md"
   - Contact: "contact.md"
+#  - Résumé: "assets/files/resume.pdf"
 
 theme:
   name: material
@@ -72,6 +72,7 @@ theme:
 plugins:
   - search
 #  - awesome-pages
+  - macros
   - i18n:
       default_language: en
       material_alternate: false
@@ -170,8 +171,26 @@ extra:
       link: https://github.com/masasin
       name: masasin
     - icon: fontawesome/solid/code-pull-request
-      link: https://gitlab.com/masasin/masasin.github.io
+      link: https://github.com/masasin/masasin.github.io
       name: Contribute to this site
+  urls:
+    edu:
+      uwaterloo: (https://uwaterloo.ca/){:target="_blank" rel="noopener"}
+      kyoto_u: (https://www.kyoto-u.ac.jp/en/){:target="_blank" rel="noopener"}
+      matsuno: (http://www.mechatronics.me.kyoto-u.ac.jp/index.php?ml_lang=en){:target="_blank" rel="noopener"}
+    work:
+      adimian: (https://www.adimian.com/){:target="_blank" rel="noopener"}
+      yields: (https://www.yields.io/){:target="_blank" rel="noopener"}
+      kapernikov: (https://www.kapernikov.com/){:target="_blank" rel="noopener"}
+      sentiance: (https://www.sentiance.com/){:target="_blank" rel="noopener"}
+    jobhunt:
+      blue_card: (https://economy-employment.brussels/permit-blue-card){:target="_blank" rel="noopener"}
+    social:
+      linkedin: (https://www.linkedin.com/in/masasin){:target="_blank" rel="noopener"}
+      github: (https://www.github.com/masasin){:target="_blank" rel="noopener"}
+      email: (mailto:contact@jnassar.com)
+      apprentus: (https://www.apprentus.com/in/jn.masasin){:target="_blank" rel="noopener"}
+      cal: (https://cal.com/jnassar){:target="_blank" rel="noopener"}
   generator: false
 copyright: |
   &copy; 2021 &ndash; 2023 <a href="https://github.com/masasin/" target="_blank" rel="noopener">Jean Nassar</a>

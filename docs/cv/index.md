@@ -92,7 +92,7 @@ between 2009 and 2012, over a total of two years.
 - Advanced Japanese
 - Many other languages
 
-## [Teaching Experience](teaching.md)
+## [Teaching Experience](mentoring.md)
 - Over 20 years of experience as a private tutor, teaching subjects ranging from math and physics to English and Japanese,
 as well as Python for project work.
 - Teaching both locally and remotely.

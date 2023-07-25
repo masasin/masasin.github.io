@@ -29,7 +29,7 @@ I still provide support as necessary.
 In another, I enabled a PhD student to analyze his electron-phase micrographs by writing code which did the same job of a commercial software package with an expensive license.
 I was acknowledged by name in [his paper](https://aip.scitation.org/doi/pdf/10.1063/1.5028398?class=pdf).
 
-Since 2019, I have also been teaching Python and Japanese using [Apprentus](https://www.apprentus.com/in/jn.masasin),
+Since 2019, I have also been teaching Python and Japanese using [Apprentus]{{ urls.social.apprentus }}
 an online and local lesson platform.
 
 ![Analyzed image](../assets/images/micrograph_analyzed.jpg){: style="width:400px"}
