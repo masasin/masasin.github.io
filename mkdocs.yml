@@ -2,14 +2,13 @@ site_name: Jean Nassar
 site_url: https://jnassar.com
 site_author: Jean Nassar
 site_description: Senior Python and Robotics expert with 10+ years of interdisciplinary experience
-#repo_url: https://github.com/masasin/masasin.github.io/
-#edit_uri: edit/main/docs/
+repo_url: https://jnassar.com/assets/files/jnassar_resume.pdf
+repo_name: Résumé
 
 nav:
   - About:
       - About: "index.md"
       - Hire me: "hire_me.md"
-      - Contact: "contact.md"
   - Curriculum Vitae:
     - "cv/index.md"
     - Work Experience:
@@ -33,23 +32,26 @@ nav:
     - Mentoring Experience: "cv/mentoring.md"
     - Skills: "cv/skills.md"
     - Tools and Technologies: "cv/tools.md"
-  - Résumé (PDF): "assets/files/jnassar_resume.pdf"
+  - Contact: "contact.md"
 
 theme:
   name: material
   favicon: assets/images/favicon.ico
+  logo: assets/images/circle-light-transparent.png
+  icon:
+    repo: fontawesome/solid/file-pdf
   palette:
     - scheme: default
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
-      primary: blue
+      primary: indigo
       accent: teal
     - scheme: slate
       toggle:
           icon: material/weather-sunny
           name: Switch to light mode
-      primary: blue
+      primary: indigo
       accent: teal
   font:
     text: Noto Sans
