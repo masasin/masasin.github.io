@@ -9,12 +9,12 @@
         - [Ind. Automation Eng.](#industrial-automation-engineer-kapernikov), Kapernikov, 2019
         - [Data Scientist](#data-scientist-sentiance), Sentiance, 2018 &ndash; 2019
     - [Project sampling](#project-sampling)
-        - [SPIRIT](projects/spirit): Masters thesis; third person view interface for controlling a monocular drone
-        - [Yozakura](projects/yozakura): Software lead for a teleoperated rescue robot
-        - [Gestural control of robots](projects/myo): Infrastructure for controlling robots with gestures
-        - [Open source projects](projects/open_source)
+        - [SPIRIT](#spirit): Masters thesis; third person view interface for controlling a monocular drone
+        - [Yozakura](#yozakura): Software lead for a teleoperated rescue robot
+        - [Gestural control of robots](#gestural-control-of-robots): Infrastructure for controlling robots with gestures
+        - [Open source projects](#open-source-projects)
             - Two packages on PyPI, including [latexipy](https://github.com/masasin/latexipy) (129 stars) for exporting Matplotlib based plots into native LaTeX
-            - Many repositories on GitHub, including [resume](https://github.com/masasin/resume) (118 stars) and AoC [2021](https://github.com/masasin/aoc2021), [2022](https://github.com/masasin/advent-of-code-2022)
+            - Many repositories on GitHub, including [my resume generator](https://github.com/masasin/resume) (118 stars) and AoC [2021](https://github.com/masasin/aoc2021), [2022](https://github.com/masasin/advent-of-code-2022)
             - Contributions to major and minor open source projects, including numpy, ROS, and more
     - 20+ years of [mentoring experience](#mentoring-experience)
     - [Technical skills](#technical-skills) include data science, web development, and robotics (both hardware and software)
@@ -27,7 +27,7 @@
 I'm Jean Nassar, and I'm a senior Python and robotics expert with more than 10 years of multidisciplinary experience.
 My primary focus is software engineering and interfacing with hardware,
 but I am also strong in mechanical and system design,
-data science, and visualization. 
+data science, visualization, and web development. 
 
 I am currently looking for a [new full-time opportunity](../hire_me.md) in Belgium starting from 1 September 2023.
 
@@ -75,15 +75,26 @@ As a student at the [University of Waterloo](education/waterloo), I also complet
 between 2009 and 2012, working in six companies in three countries over a total of two years.
 
 ## [Project sampling](projects/index.md)
-- [SPIRIT](projects/spirit): Masters thesis; third person view interface for controlling a monocular drone
-- [Yozakura](projects/yozakura): Software lead for a teleoperated rescue robot
-- [Gestural control of robots](projects/myo): Infrastructure for controlling robots with gestures
-- [Open source projects](projects/open_source)
-    - Two packages on PyPI, including [latexipy](https://github.com/masasin/latexipy) (129 stars) for exporting Matplotlib based plots into native LaTeX
-    - Many repositories on GitHub, including [resume](https://github.com/masasin/resume) (118 stars)
-      and AoC [2021](https://github.com/masasin/aoc2021), [2022](https://github.com/masasin/advent-of-code-2022)
-    - Contributions to major and minor open source projects, including numpy, ROS, and more
-- [Course projects](projects/undergrad) from the University of Waterloo
+### [SPIRIT](projects/spirit)
+- Masters thesis project at Kyoto University, developing a third-person view interface for controlling a monocular drone.
+- Created a system that superimposed a CGI version of the drone on top of an actual image taken by the FPV camera earlier.
+- Designed, conducted, and analyzed user studies which were performed to test the efficacy of the system,
+  which showed a large improvement in many metrics, even with a 2 Hz transmission rate.
+### [Yozakura](projects/yozakura)
+- Led the software development team for the Yozakura teleoperated rescue robot at Kyoto University's Mechatronics Lab.
+- Developed a client-server system for robot control and wrote code for onboard Raspberry Pi and mbed chips,
+  including drivers for various controllers and sensors.
+- The code was robust against failure and well-documented, providing useful error messages for hardware, software,
+  and operator errors of various types, and correcting them where necessary.
+### [Gestural control of robots](projects/myo)
+- Initial research project at Kyoto University aimed at developing infrastructure to allow ergonomic control of robots using gestures.
+- Designed and developed infrastructure that abstracted away the interface used by using an API,
+  with a proof of concept using the Myo armband from Thalmic Labs to control robots.
+### [Open source projects](projects/open_source)
+- Two packages on PyPI, including [latexipy](https://github.com/masasin/latexipy) (129 stars) for exporting Matplotlib based plots into native LaTeX.
+- Many repositories on GitHub, including [my resume generator](https://github.com/masasin/resume) (118 stars),
+  as well as the [2021](https://github.com/masasin/aoc2021) and [2022](https://github.com/masasin/advent-of-code-2022) Advent of Code repositories.
+- Contributions to major and minor open source projects, including numpy, ROS, and more.
 
 ## [Mentoring Experience](mentoring.md)
 - Have mentored colleagues and coworkers in all my jobs, helping them with Python and software development best practices.
@@ -95,7 +106,7 @@ between 2009 and 2012, working in six companies in three countries over a total 
 ## [Skills](skills.md)
 ### [Technical skills](skills.md#technical-skills)
 !!! tip "Tools and Technologies"
-    For more details, please see the [list of tools and technologies](tools.md) I have experience with.
+    For more details, please see the [full list of tools and technologies](tools.md) I have experience with.
 
 - [Software engineering](skills.md#software-engineering), with expertise in Python
     - Proficient in multiple programming languages, including Javascript
