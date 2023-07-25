@@ -49,4 +49,4 @@ While at [Kyoto University](education/kyoto), I tutored other students in Python
 including testing and version control.
 
 Since graduating, I have helped coworkers at [all of my jobs](work/index),
-and have received praise for my patience and ability to explain complex concepts in simple terms.
+and have received praise for my patience and ability to explain complex concepts effectively.

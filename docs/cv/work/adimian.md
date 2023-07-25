@@ -43,4 +43,4 @@ I leveraged my tutoring experience and technical knowledge to help colleagues im
 guiding their integration into our dynamic working environment.
 I introduced new techniques and methodologies, and participated in [CodeBar](https://codebar.io/workshops/2547) as a teacher.
 
-I was highly praised for my patience and understanding when reviewing, explaining, or teaching, as well as the speed and quality of my own code.
+I was highly praised for my patience and understanding when reviewing, explaining, or mentoring, as well as the speed and quality of my own code.

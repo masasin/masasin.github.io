@@ -10,13 +10,16 @@
 
 ![Jean Nassar (Obligatory photo)](assets/images/jean.png){: style="width:200px;border-radius: 50%", align="left"}
 
-Hello! I'm Jean Nassar, and I'm a senior Python and robotics expert with more than 10 years of experience that spans continents and disciplines.
+Hello! I'm Jean Nassar, and I'm a senior Python and robotics expert with more than 10 years of interdisciplinary experience.
 
 I am currently looking for [a new full-time opportunity](#hire-me) in Belgium starting on 1 September 2023.
 
 I have been living in Belgium since 2018, and have worked in multiple fields,
 including [data science](cv/work/sentiance), [industrial automation](cv/work/kapernikov), [finance](cv/work/yields), and [web development](cv/work/adimian).
-As a senior engineer for almost 4 years, I have [mentored coworkers](cv/mentoring) in Python and software development best practices.
+
+As a senior engineer of almost 4 years,
+I have [mentored colleagues](cv/mentoring) in software development best practices and nurtured their Python skills.
+I have received praise for my patience and ability to explain complex topics effectively.
 
 I completed my [Masters program](cv/education/kyoto) with the
 [Mechatronics lab]{{ urls.edu.matsuno }} at Kyoto University in Japan.
@@ -29,7 +32,7 @@ with projects such as:
 
 
 I did my [Bachelors of Applied Sciences in Honours Mechatronics Engineering](cv/education/waterloo)
-at the University of Waterloo, including [six co-operative education terms](cv/work/coop) at various companies around the world.
+at the University of Waterloo in Canada, including [six co-operative education terms](cv/work/coop) at various companies around the world.
 
 I enjoy working on challenging problems that require me to think outside the box, and exploring new frontiers in technology.
 This is also reflected in my hobbies, which include
