@@ -33,7 +33,7 @@ nav:
     - Mentoring Experience: "cv/mentoring.md"
     - Skills: "cv/skills.md"
     - Tools and Technologies: "cv/tools.md"
-#  - Résumé: "assets/files/resume.pdf"
+  - Résumé (PDF): "assets/files/jnassar_resume.pdf"
 
 theme:
   name: material
@@ -177,6 +177,8 @@ extra:
       link: https://github.com/masasin/masasin.github.io
       name: Contribute to this site
   urls:
+    cv:
+      pdf: (/assets/files/jnassar_resume.pdf){:target="_blank" rel="noopener"}
     edu:
       uwaterloo: (https://uwaterloo.ca/){:target="_blank" rel="noopener"}
       kyoto_u: (https://www.kyoto-u.ac.jp/en/){:target="_blank" rel="noopener"}

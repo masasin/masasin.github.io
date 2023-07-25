@@ -4,7 +4,7 @@
     - Currently looking for a [new full-time opportunity](#hire-me) in Belgium
     - Hold an EU Blue Card; can start on 1 September 2023
     - Email me at [contact@jnassar.com]{{ urls.social.email }}, or [book a meeting]{{ urls.social.cal }}
-    - Please see [my CV](cv) for more details
+    - Please see [my CV](cv) or my [PDF résumé]{{ urls.cv.pdf }} for more details
 
 # About me
 
@@ -37,6 +37,8 @@ at the University of Waterloo in Canada, including [six co-operative education t
 I enjoy working on challenging problems that require me to think outside the box, and exploring new frontiers in technology.
 This is also reflected in my hobbies, which include
 learning new [skills](cv/skills) and [languages](cv/skills.md#languages), automating processes, hiking, and stargazing.
+
+Please see [my CV](cv) or my [PDF résumé]{{ urls.cv.pdf }} for more details about my experience.
 
 ## Hire me
 !!! info inline end "EU Blue card requirements"
