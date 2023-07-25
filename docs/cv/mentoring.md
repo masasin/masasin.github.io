@@ -9,12 +9,16 @@ _2003 &ndash; Present_
     - Taught subjects ranging from math and physics to English and Japanese, as well as Python
 
 ## Mentoring colleagues and students
-I have mentored coworkers in [all of my jobs](work/index), and while at [Kyoto University],
+I have mentored coworkers in [all of my jobs](work/index)
 in Python and software development best practices.
 This includes 4 years as a senior developer, where I took part in onboarding new hires.
 
 I have received praise for my patience and ability to explain complex concepts effectively.
+In addition to mentoring during code reviews and pair programming sessions, I gave presentations introducing new concepts, techniques, or technologies.
 I have also participated in outreach events, such as the [CodeBar at Adimian](work/adimian.md).
+
+At [Kyoto University](education/kyoto), I led the software development team for [Yozakura](projects/yozakura), a teleoperated rescue robot.
+There, I also mentored my teammates in software development and robotics, including the usage of version control.
 
 At the [University of Waterloo](education/waterloo), I spent many long hours helping my classmates with projects and assignments,
 and tutoring them in subjects that they were weak in.
