@@ -17,12 +17,22 @@
             - Many repositories on GitHub, including [my resume generator](https://github.com/masasin/resume) (118 stars) and AoC [2021](https://github.com/masasin/aoc2021), [2022](https://github.com/masasin/advent-of-code-2022)
             - Contributions to major and minor open source projects, including numpy, ROS, and more
     - 20+ years of [mentoring experience](#mentoring-experience)
+    - [Education](#education)
+    - [Kyoto University](kyoto) ([Mechatronics lab]{{ urls.edu.matsuno }}), MEng
+    - [University of Waterloo](waterloo), BASc Mechatronics
     - [Technical skills](#technical-skills) include data science, web development, and robotics (both hardware and software)
         - For more details, please see the [list of tools and technologies](#tools-and-technologies) I have experience with
     - [Soft skills](#soft-skills) include adaptability, communication, [languages](#languages), and leadership skills
-    - [Education](#education)
-        - [Kyoto University](kyoto) ([Mechatronics lab]{{ urls.edu.matsuno }}), MEng
-        - [University of Waterloo](waterloo), BASc Mechatronics
+    - [Tools and technologies](#tools-and-technologies)
+        - Programming languages: Python, Javascript, C++, bash
+        - Development: Git, CI/CD, Docker, documentation (Sphinx, mkdocs), testing (pytest)
+        - Data science: Jupyter, SciPy stack, pandas, scikit-learn, SymPy, Matplotlib, Seaborn, Plotly, Streamlit
+        - Web development: Python (FastAPI, Pydantic), Javascript (Vue), HTML, CSS, SQLAlchemy
+        - Robotics: ROS stack; various microcontrollers, boards, sensors, and actuators
+        - Hardware: Raspberry Pi, ESP8266, Arduino, mbed; MicroPython, CircuitPython, C++, C
+        - Mechanical: Solidworks, Autodesk Inventor, OpenSCAD; design, analysis, simulation, and manufacturing
+        - Electrical: PCB design and manufacturing, soldering, wiring, crimping, cable management
+        - Other: ChatGPT and other LLMs; Gimp, Inkscape; Linux, macOS, Windows; various office suites
 
 I'm Jean Nassar, and I'm a senior Python and robotics expert with more than 10 years of multidisciplinary experience.
 My primary focus is software engineering and interfacing with hardware,
