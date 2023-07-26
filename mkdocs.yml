@@ -40,6 +40,7 @@ theme:
   logo: assets/images/circle-light-transparent.png
   icon:
     repo: fontawesome/solid/file-pdf
+  custom_dir: overrides
   palette:
     - scheme: default
       toggle:
@@ -168,7 +169,7 @@ extra:
       name: contact@jnassar.com
     - icon: fontawesome/solid/calendar
       link: https://cal.com/jnassar
-      name: Book a meeting
+      name: Book an appointment
     - icon: fontawesome/brands/linkedin-in
       link: https://www.linkedin.com/in/masasin
       name: masasin
@@ -197,7 +198,7 @@ extra:
       github: (https://www.github.com/masasin){:target="_blank" rel="noopener"}
       email: (mailto:contact@jnassar.com)
       apprentus: (https://www.apprentus.com/in/jn.masasin){:target="_blank" rel="noopener"}
-      cal: (https://cal.com/jnassar){:target="_blank" rel="noopener"}
+      cal: (#){data-cal-link="jnassar/call" data-cal-config='{"layout":"week_view"\}'}
   generator: false
 copyright: |
   &copy; 2021 &ndash; 2023 <a href="https://github.com/masasin/" target="_blank" rel="noopener">Jean Nassar</a>

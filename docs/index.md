@@ -2,8 +2,8 @@
     - Senior software engineer with experience in data science, industrial automation, and web development
     - 10+ years of experience in Python, robotics, and more
     - Currently looking for a [new full-time opportunity](#hire-me) in Belgium
-    - Hold an EU Blue Card; can start on 1 September 2023
-    - Email me at [contact@jnassar.com]{{ urls.social.email }}, or [book a meeting]{{ urls.social.cal }}
+    - EU Blue Card holder; can start on 1 September 2023
+    - Email me at [contact@jnassar.com]{{ urls.social.email }}, or [book a call]{{ urls.social.cal }}
     - Please see [my CV](cv) or my [PDF résumé]{{ urls.cv.pdf }} for more details
 
 # About me
@@ -57,7 +57,11 @@ immediately upon fulfillment of employment and visa prerequisites.
 
 ## Contact
 If my experience aligns with your needs, or if you have any questions,
-please don't hesitate to email me at [contact@jnassar.com]{{ urls.social.email }}, or [book a call]{{ urls.social.cal }} directly.
+please don't hesitate to email me at [contact@jnassar.com]{{ urls.social.email }}, or book a call directly.
 I'm always open to new challenges and collaborations.
+
+[Email me](mailto:contact@jnassar.com){ .md-button .md-button--primary }
+[Book a short call](#){ .md-button .md-button--primary data-cal-link="jnassar/call" data-cal-config='{"layout":"week_view"\}'}
+[Book a longer meeting](#){ .md-button .md-button--primary data-cal-link="jnassar/meeting" data-cal-config='{"layout":"week_view"\}'}
 
 You can also find me on [GitHub]{{ urls.social.github }} and [LinkedIn]{{ urls.social.linkedin }}.
