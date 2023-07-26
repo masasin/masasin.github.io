@@ -19,7 +19,7 @@ nav:
       - Data Scientist, Sentiance: "cv/work/sentiance.md"
       - Co-operative education experience: "cv/work/coop.md"
     - Projects:
-        - Projects Overview: "cv/projects.md"
+        - Project Overview: "cv/projects.md"
         - Open Source projects: "cv/projects/open_source.md"
         - SPIRIT (Masters thesis): "cv/projects/spirit.md"
         - Yozakura: "cv/projects/yozakura.md"
