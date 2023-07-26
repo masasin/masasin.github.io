@@ -199,7 +199,7 @@ extra:
       email: (mailto:contact@jnassar.com)
       apprentus: (https://www.apprentus.com/in/jn.masasin){:target="_blank" rel="noopener"}
       cal: (#){data-cal-link="jnassar/call" data-cal-config='{"layout":"week_view"\}'}
-  generator: false
+  generator: true  # Support mkdocs material
 copyright: |
   &copy; 2021 &ndash; 2023 <a href="https://github.com/masasin/" target="_blank" rel="noopener">Jean Nassar</a>
 strict: true
