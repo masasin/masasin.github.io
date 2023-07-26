@@ -10,7 +10,7 @@ nav:
       - About: "index.md"
       - Hire me: "hire_me.md"
   - Curriculum Vitae:
-    - Curriculum Vitae Overview: "cv.md"
+    - CV Overview: "cv.md"
     - Work Experience:
       - Work Experience Overview: "cv/work.md"
       - Senior Software Engineer, Adimian: "cv/work/adimian.md"
