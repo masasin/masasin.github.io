@@ -53,3 +53,5 @@ I was acknowledged by name in [his paper](https://aip.scitation.org/doi/pdf/10.1
 Since 2019, I have also been teaching Python and Japanese both online and in person.
 
 ![Analyzed image](../assets/images/micrograph_analyzed.jpg){: style="width:400px"}
+
+[Book a trial lesson](#){ .md-button .md-button--primary data-cal-link="jnassar/lesson" data-cal-config='{"layout":"week_view"\}'}
