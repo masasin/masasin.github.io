@@ -13,7 +13,7 @@
             - Can design, manufacture, and assemble electromechanical systems, including robotic systems.
             - CAD software, mechanical system simulation, electrical design platforms, and digital logic design.
         - [Knowledge of LLMs and other AI tools](#other-skills)
-        - For more details, please see the [list of tools and technologies](tools.md) I have experience with.
+        - For more details, please see the [list of tools and technologies](tools) I have experience with.
     - [Soft skills](#soft-skills):
         [Adaptability](#adaptability),
         [Communication](#communication-skills),
@@ -38,7 +38,7 @@ Each skill has been put into practice in various projects, academic studies, and
         - [Knowledge of LLMs and other AI tools](#other-skills)
 
 !!! tip "Tools and Technologies"
-    For more details, please see the [list of tools and technologies](tools.md) I have experience with.
+    For more details, please see the [list of tools and technologies](tools) I have experience with.
 
 ### Software engineering
 Expert in Python, proficient in multiple programming languages, and experienced in data science and web development.

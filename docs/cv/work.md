@@ -13,7 +13,7 @@ I'm a senior Python and robotics expert with more than 10 years of experience in
 [data science](#senior-python-developer-yieldsio),
 and [web development](#senior-software-engineer-adimian).
 
-For internships, please see the [co-op page](coop.md).
+For internships, please see the [co-op page](coop).
 
 ## [Senior Software Engineer](adimian), [Adimian]{{ urls.work.adimian }}
 _January 2021 &ndash; October 2023, Belgium (remote)_
