@@ -18,7 +18,7 @@ Below is a selection of some of the most significant projects I've worked on.
 ## [Robotics projects](../education/kyoto#highlighted-projects)
 Highlighted robotics projects from my time at Kyoto University include:
 
-### [SPIRIT](spirit)
+### [SPIRIT](projects/spirit.md)
 _2015 &ndash; 2017_
 
 - Masters thesis project at Kyoto University, developing a third-person view interface for controlling a monocular drone.
@@ -26,7 +26,7 @@ _2015 &ndash; 2017_
 - Designed, conducted, and analyzed user studies which were performed to test the efficacy of the system,
   which showed a large improvement in many metrics, even with a 2 Hz transmission rate.
 
-### [Yozakura](yozakura)
+### [Yozakura](projects/yozakura.md)
 _2014 &ndash; 2015_
 
 - Led the software development team for the Yozakura teleoperated rescue robot at Kyoto University's Mechatronics Lab.
@@ -35,7 +35,7 @@ _2014 &ndash; 2015_
 - The code was robust against failure and well-documented, providing useful error messages for hardware, software,
   and operator errors of various types, and correcting them where necessary.
 
-### [Gestural control of robots](myo)
+### [Gestural control of robots](projects/myo.md)
 _2014 &ndash; 2015_
 
 - Initial research project at Kyoto University aimed at developing infrastructure to allow ergonomic control of robots using gestures.
@@ -43,7 +43,7 @@ _2014 &ndash; 2015_
   with a proof of concept using the Myo armband from Thalmic Labs to control robots.
 
 
-## [Open source projects](open_source)
+## [Open source projects](projects/open_source.md)
 _2008 &ndash; Present_
 
 - Two packages on PyPI, including [latexipy](https://github.com/masasin/latexipy) (129 stars) for exporting Matplotlib-based plots into native LaTeX.
@@ -51,7 +51,7 @@ _2008 &ndash; Present_
   as well as the [2021](https://github.com/masasin/aoc2021) and [2022](https://github.com/masasin/advent-of-code-2022) Advent of Code repositories.
 - Contributions to major and minor open source projects, including numpy, ROS, and more.
 
-## [University of Waterloo projects](undergrad)
+## [University of Waterloo projects](projects/undergrad.md)
 _2008 &ndash; 2013_
 
-Details of my projects during my time at the University of Waterloo can be found at the [undergraduate projects](undergrad.md) page.
+Details of my projects during my time at the University of Waterloo can be found at the [undergraduate projects](projects/undergrad.md) page.

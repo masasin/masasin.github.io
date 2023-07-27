@@ -10,7 +10,7 @@ _2015 &ndash; 2017, [Kyoto University](../education/kyoto.md)_
 
 SPIRIT stands for "Subimposed Past Image Records Implemented for Teleoperation".
 
-![SPIRIT development](../../assets/images/spirit_dev.jpg){: style="width:300px", align=left}
+![SPIRIT development](/assets/images/spirit_dev.jpg){: style="width:300px", align=left}
 
 Japan is prone to natural disasters.
 Inspection of collapsed structures paves the way for a safer search and rescue operation in the aftermath.
@@ -26,7 +26,7 @@ I created a third-person view interface for controlling an AR.Drone, primarily u
 A CGI version of the drone was superimposed on top of an actual image taken by the FPV camera earlier,
 which contains the current position of the drone. 
 
-![SPIRIT interface](../../assets/images/spirit.png){: style="width:400px", align=right}
+![SPIRIT interface](/assets/images/spirit.png){: style="width:400px", align=right}
 
 The position of the drone was known thanks to motion capture cameras,
 but could also be derived from other metrics such as e.g. visual odometry.

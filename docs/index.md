@@ -4,41 +4,42 @@
     - Currently looking for a [new full-time opportunity](#hire-me) in Belgium
     - EU Blue Card holder; can start on 1 September 2023
     - Email me at [contact@jnassar.com]{{ urls.social.email }}, or [book a call]{{ urls.social.cal }}
-    - Please see [my CV](cv) or my [PDF résumé]{{ urls.cv.pdf }} for more details
+    - Please see [my CV](cv.md) or my [PDF résumé]{{ urls.cv.pdf }} for more details
 
 # About me
 
-![Jean Nassar (Obligatory photo)](assets/images/jean.png){: style="width:200px;border-radius: 50%", align="left"}
+![Jean Nassar (Obligatory photo)](/assets/images/jean.png){: style="width:200px;border-radius: 50%", align="left"}
 
 Hello! I'm Jean Nassar, and I'm a senior Python and robotics expert with more than 10 years of multidisciplinary experience.
 
 I am currently looking for a [new full-time opportunity](#hire-me) in Belgium starting from 1 September 2023.
 
 I have been living in Belgium since 2018, and have worked in multiple fields,
-including [industrial automation](cv/work/kapernikov), [data science](cv/work/yields), and [web development](cv/work/adimian).
+including [industrial automation](cv/work.md#industrial-automation-engineer-kapernikov),
+[data science](cv/work.md#senior-python-developer-yieldsio), and [web development](cv/work.md#senior-software-engineer-adimian).
 
 As a senior engineer of almost 4 years,
-I have [mentored colleagues](cv/mentoring) in software development best practices and nurtured their Python skills.
+I have [mentored colleagues](cv/mentoring.md) in software development best practices and nurtured their Python skills.
 I have received praise for my patience and ability to explain complex topics effectively.
 
-I completed my [Masters program](cv/education/kyoto) with the
+I completed my [Masters program](cv/education/kyoto.md) with the
 [Mechatronics lab]{{ urls.edu.matsuno }} at Kyoto University in Japan.
-There, I focused on [human-robot interaction](cv/projects),
+There, I focused on [human-robot interaction](cv/projects.md),
 with projects such as:
 
-- [Spirit](cv/projects/spirit), a third-person view for monocular drones
-- [Yozakura](cv/projects/yozakura), a teleoperated robot for the Rescue League at the RoboCup Japan Open
-- [Gestural Control of Robots](cv/projects/myo), infrastructure for controlling robots with gestures and other modalities
+- [Spirit](cv/projects/spirit.md), a third-person view for monocular drones
+- [Yozakura](cv/projects/yozakura.md), a teleoperated robot for the Rescue League at the RoboCup Japan Open
+- [Gestural Control of Robots](cv/projects/myo.md), infrastructure for controlling robots with gestures and other modalities
 
 
-I did my [Bachelors of Applied Sciences in Honours Mechatronics Engineering](cv/education/waterloo)
-at the University of Waterloo in Canada, including [six co-operative education terms](cv/work/coop) at various companies around the world.
+I did my [Bachelors of Applied Sciences in Honours Mechatronics Engineering](cv/education/waterloo.md)
+at the University of Waterloo in Canada, including [six co-operative education terms](cv/work/coop.md) at various companies around the world.
 
 I enjoy working on challenging problems that require me to think outside the box, and exploring new frontiers in technology.
 This is also reflected in my hobbies, which include
-learning new [skills](cv/skills) and [languages](cv/skills.md#languages), automating processes, hiking, and stargazing.
+learning new [skills](cv/skills.md) and [languages](cv/skills.md#languages), automating processes, hiking, and stargazing.
 
-Please see [my CV](cv) or my [PDF résumé]{{ urls.cv.pdf }} for more details about my experience.
+Please see [my CV](cv.md) or my [PDF résumé]{{ urls.cv.pdf }} for more details about my experience.
 
 ## Hire me
 !!! info inline end "EU Blue card requirements"

@@ -1,7 +1,7 @@
 # Hire me
 
 I am currently looking for a new full-time opportunity in Belgium starting on 1 September 2023.
-Please see [my CV](cv) for more details about my experience.
+Please see [my CV](cv.md) for more details about my experience.
 
 I live in Antwerp.
 I strongly prefer remote jobs, and may be able to come to the office occasionally.

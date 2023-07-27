@@ -9,7 +9,7 @@ _2014 &ndash; 2015, [Kyoto University](../education/kyoto.md)_
 
 My initial research topic was developing infrastructure which would allow the ergonomic control of robots using gestures.
 
-![The Myo armband, worn](../../assets/images/myo_worn.jpg){: style="width:300px", align=right}
+![The Myo armband, worn](/assets/images/myo_worn.jpg){: style="width:300px", align=right}
 
 My proof of concept was going to be using the Myo armband from Thalmic labs to control robots,
 either a Kinova robotic arm, or one of the lab’s other robots.

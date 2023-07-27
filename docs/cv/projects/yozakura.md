@@ -8,7 +8,7 @@ _2014 &ndash; 2015, [Kyoto University](../education/kyoto.md)_
     - The code was robust against failure and well-documented, providing useful error messages for hardware, software,
       and operator errors of various types, and correcting them where necessary.
 
-![Yozakura](../../assets/images/yozakura.jpg){: style="width:400px", align=right}
+![Yozakura](/assets/images/yozakura.jpg){: style="width:400px", align=right}
 
 The Kyoto University [Mechatronics Lab](http://www.mechatronics.me.kyoto-u.ac.jp/index.php?ml_lang=en)’s
 [SHINOBI team](https://github.com/kyoto-u-shinobi) designed a new teleoperated rescue robot
@@ -23,7 +23,7 @@ I wrote a client-server system to control the robot from the operating station,
 as well as drivers for various controllers.
 (This was eventually superseded by an rviz interface which used the same controller driver.)
 
-![Yozakura](../../assets/images/yozakura_clean.jpg){: style="width:300px", align=left}
+![Yozakura](/assets/images/yozakura_clean.jpg){: style="width:300px", align=left}
 
 
 I also wrote most of the code for the onboard Raspberry Pi and mbed chips,
