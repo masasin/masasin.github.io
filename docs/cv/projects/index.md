@@ -15,7 +15,7 @@ During my academic and professional career, I've been involved in a wide range o
 showcasing my versatility and capacity for innovation.
 Below is a selection of some of the most significant projects I've worked on.
 
-## [Robotics projects](kyoto#highlighted-projects)
+## [Robotics projects](../education/kyoto#highlighted-projects)
 Highlighted robotics projects from my time at Kyoto University include:
 
 ### [SPIRIT](spirit)
@@ -54,4 +54,4 @@ _2008 &ndash; Present_
 ## [University of Waterloo projects](undergrad)
 _2008 &ndash; 2013_
 
-Details of my projects during my time at the University of Waterloo can be found at the [undergraduate projects](undergrad) page.
+Details of my projects during my time at the University of Waterloo can be found at the [undergraduate projects](undergrad.md) page.

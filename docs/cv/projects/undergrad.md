@@ -1,5 +1,5 @@
 # Undergraduate projects
-_2008 &ndash; 2013, [University of Waterloo](waterloo)_
+_2008 &ndash; 2013, [University of Waterloo](../education/waterloo.md)_
 
 ???+ summary
     - Completed various projects during undergraduate studies at the University of Waterloo, with a focus on practical,
@@ -14,7 +14,7 @@ _2008 &ndash; 2013, [University of Waterloo](waterloo)_
       [mathematics](#mathematics),
       and [entrepreneurship](#entrepreneurship).
 
-I studied at the [University of Waterloo](waterloo) from 2008 to 2013,
+I studied at the [University of Waterloo](../education/waterloo.md) from 2008 to 2013,
 and graduated with a Bachelor of Applied Science in Honours Mechatronics Engineering.
 
 The program is a combination of mechanical, electrical, and software engineering,
@@ -28,14 +28,14 @@ In the _Mechatronics Engineering_ course, we designed objects using Unigraphics 
 For our _Sensors and Instrumentation_ course, we built a similar robot,
 choosing component values and designing circuits with e.g. operational amplifiers, populating the PCBs ourselves, and programming the microcontroller.
 
-![Catamaran](/assets/images/catamaran.png){align="left"}
+![Catamaran](../../assets/images/catamaran.png){align="left"}
 In the _Mechatronics Engineering Design Workshop_, we designed, procured parts for, built, and programmed
 an autonomous tunnel-type catamaran to traverse the perimeter of a pool.
 The boat was designed and balanced in Solidworks,
 while electronics were soldered and debugged with oscilloscopes, multimeters, and signal generators.
 It was controlled by an Arduino, with sonar sensors to close the feedback loop for the two Mabuchi motors providing differential steering.
 
-![PLC cell](/assets/images/plc_cell.jpg){: style="width:300px", align="right"}
+![PLC cell](../../assets/images/plc_cell.jpg){: style="width:300px", align="right"}
 In _Mechatronic System Integration_, we analyzed robots using DH Parameters, controlled some robots with VHDL,
 and implemented Allen Bradley PLC code for an assembly line consisting of three cells using RsLogix.
 We interfaced hardware and software between a camera and a PC,

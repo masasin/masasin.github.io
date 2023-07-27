@@ -10,23 +10,23 @@ nav:
       - About: "index.md"
       - Hire me: "hire_me.md"
   - Curriculum Vitae:
-    - Curriculum Vitae Overview: "cv.md"
+    - "cv/index.md"
     - Work Experience:
-      - Work Experience Overview: "cv/work.md"
+      - "cv/work/index.md"
       - Senior Software Engineer, Adimian: "cv/work/adimian.md"
       - Senior Python Developer, Yields.io: "cv/work/yields.md"
       - Industrial Automation Engineer, Kapernikov: "cv/work/kapernikov.md"
       - Data Scientist, Sentiance: "cv/work/sentiance.md"
       - Co-operative education experience: "cv/work/coop.md"
     - Projects:
-        - Projects Overview: "cv/projects.md"
+        - "cv/projects/index.md"
         - Open Source projects: "cv/projects/open_source.md"
         - SPIRIT (Masters thesis): "cv/projects/spirit.md"
         - Yozakura: "cv/projects/yozakura.md"
         - Gestural Control of Robots: "cv/projects/myo.md"
         - Undergraduate projects: "cv/projects/undergrad.md"
     - Education:
-        - Education Overview: "cv/education.md"
+        - "cv/education/index.md"
         - University of Waterloo: "cv/education/waterloo.md"
         - Kyoto University: "cv/education/kyoto.md"
     - Mentoring Experience: "cv/mentoring.md"
