@@ -2,7 +2,7 @@
 ??? summary
     - 10+ years of multidisciplinary experience, including 4 years in a senior role
     - Python and Robotics expert, with work in industrial automation, data science, web development, and more
-    - Currently looking for [a new full-time opportunity](../hire_me.md) in Belgium starting from 1 September
+    - Currently looking for [a new full-time opportunity](../hiring.md) in Belgium starting from 1 September
     - [Work experience](#work-experience)
         - [Senior Software Eng.](#senior-software-engineer-adimian), Adimian, 2021 &ndash; 2023
         - [Senior Python Dev.](#senior-python-developer-yieldsio), Yields.io, 2019 &ndash; 2020
@@ -42,7 +42,7 @@ My primary focus is software engineering and interfacing with hardware,
 but I am also strong in mechanical and system design,
 data science, visualization, and web development. 
 
-I am currently looking for a [new full-time opportunity](../hire_me.md) in Belgium starting from 1 September 2023.
+I am currently looking for a [new full-time opportunity](../hiring.md) in Belgium starting from 1 September 2023.
 
 ## [Work Experience](work/index.md)
 
