@@ -10,7 +10,7 @@ I'm also open to other arrangements depending on the type of position.
 As a holder of the [EU Blue Card]{{ urls.jobhunt.blue_card }}, I'm equipped to embark on new professional endeavours
 immediately upon fulfillment of employment and visa prerequisites.
 
-!!! info "[EU Blue card requirements]{{ urls.jobhunt.blue_card }}"
+!!! info "EU Blue card [requirements]{{ urls.jobhunt.blue_card }}"
     - Minimum 1-year contract, full-time only
     - Minimum gross salary differs by region
     - Employer must be in Belgium, or go through a Belgian intermediary
