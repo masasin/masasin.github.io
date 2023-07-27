@@ -42,7 +42,7 @@ learning new [skills](cv/skills.md) and [languages](cv/skills.md#languages), aut
 Please see [my CV](cv.md) or my [PDF résumé]{{ urls.cv.pdf }} for more details about my experience.
 
 ## Hire me
-!!! info inline end "EU Blue card requirements"
+!!! info inline end "[EU Blue card requirements]{{ urls.jobhunt.blue_card }}"
     - Minimum 1-year contract, full-time only
     - Minimum gross salary differs by region
     - Employer must be in Belgium, or go through a Belgian intermediary
