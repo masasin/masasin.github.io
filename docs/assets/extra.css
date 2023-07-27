@@ -1,0 +1,12 @@
+.md-typeset .btn-actions a {
+    margin-right: .5em;
+}
+.md-typeset .row {
+    display: flex;
+    flex-direction: row;
+}
+.md-typeset .row .col {
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+}
