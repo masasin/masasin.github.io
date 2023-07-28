@@ -35,7 +35,7 @@
         - Other: ChatGPT and other LLMs; Gimp, Inkscape; Linux, macOS, Windows; various office suites
 
 !!! tip "Résumé"
-    You can also download [my two-page résumé PDF](/assets/files/jnassar_resume.pdf).
+    You can also download [my two-page résumé (PDF)](/assets/files/jnassar_resume.pdf).
 
 I'm Jean Nassar, and I'm a senior Python and robotics expert with more than 10 years of multidisciplinary experience.
 My primary focus is software engineering and interfacing with hardware,

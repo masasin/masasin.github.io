@@ -1,10 +1,10 @@
 ???+ summary
     - Senior software engineer with experience in data science, industrial automation, and web development
     - 10+ years of experience in Python, robotics, and more
+    - Please see [my CV](cv.md) or [my résumé]{{ urls.cv.pdf }} for details
     - Currently looking for a [new full-time opportunity](#hire-me) in Belgium
     - EU Blue Card holder; can start on 1 September 2023
-    - Email me at [contact@jnassar.com]{{ urls.social.email }}, or [book a call]{{ urls.social.cal }}
-    - Please see [my CV](cv.md) or my [PDF résumé]{{ urls.cv.pdf }} for more details
+    - [Book a call]{{ urls.social.cal }}, or [email me]{{ urls.social.email }} directly
 
 # About me
 
