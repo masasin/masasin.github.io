@@ -13,7 +13,7 @@ immediately upon fulfillment of employment and visa prerequisites.
 !!! info "[EU Blue card requirements]{{ urls.jobhunt.blue_card }}"
     - Minimum 1-year contract, full-time only
     - Minimum gross salary differs by region
-    - Employer must be in Belgium, or go through a Belgian intermediary
+    - Employer must be in Belgium, or go through a Belgian intermediary/Employer of Record
 
 ## Contact
 If my experience aligns with your needs, or if you have any questions,

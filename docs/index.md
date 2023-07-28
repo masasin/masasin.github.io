@@ -45,7 +45,7 @@ Please see [my CV](cv.md) or my [PDF résumé]{{ urls.cv.pdf }} for more details
 !!! info inline end "[EU Blue card requirements]{{ urls.jobhunt.blue_card }}"
     - Minimum 1-year contract, full-time only
     - Minimum gross salary differs by region
-    - Employer must be in Belgium, or go through a Belgian intermediary
+    - Employer must be in Belgium, or go through a Belgian intermediary/Employer of Record
 
 I am currently looking for a new full-time opportunity in Belgium starting on 1 September 2023.
 
