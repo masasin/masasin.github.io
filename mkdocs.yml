@@ -73,6 +73,12 @@ theme:
     - content.code.annotate
 #    - content.action.edit
 #    - content.action.view
+
+extra_css:
+  - assets/extra.css
+extra_javascript:
+  - assets/extra.js
+
 plugins:
   - search
 #  - awesome-pages
