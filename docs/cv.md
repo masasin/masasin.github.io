@@ -33,6 +33,9 @@
         - Mechanical: Solidworks, Autodesk Inventor, OpenSCAD; design, analysis, simulation, and manufacturing
         - Electrical: PCB design and manufacturing, soldering, wiring, crimping, cable management
         - Other: ChatGPT and other LLMs; Gimp, Inkscape; Linux, macOS, Windows; various office suites
+    - [Testimonials from my colleagues](#testimonials-from-colleagues) highlight my technical expertise in Python, robotics, and related tools,
+      with specific emphasis on my innovative problem-solving skills, continuous learning approach, and commitment to excellence.
+      They further appreciate my proactive knowledge sharing, engaging in thoughtful discussions, and being a reliable, enjoyable teammate.
 
 !!! tip "Résumé"
     You can also download [my two-page résumé (PDF)](/assets/files/jnassar_resume.pdf).
@@ -176,3 +179,10 @@ This is a small sampling of the tools and technologies I have experience with. F
 - [Mechanical](cv/tools.md#mechanical-engineering): Solidworks, Autodesk Inventor, OpenSCAD; design, analysis, simulation, and manufacturing
 - [Electrical](cv/tools.md#electrical-engineering): PCB design and manufacturing, soldering, wiring, crimping, cable management
 - [Other](cv/tools.md#other-tools): ChatGPT and other LLMs; Gimp, Inkscape; Linux, macOS, Windows; various office suites
+
+## [Testimonials from colleagues](testimonials.md)
+- Antonio Ferraro appreciates my talent, enthusiasm, innovative thinking, and quality Python coding skills, learning a lot from our time together.
+- Ann Peeters endorses me for my deep knowledge, methodical approach, advanced Git operations expertise, and my dedication to excellence, enjoying our nerdy topic discussions and my continuous learning pace.
+- Kenny Van de Maele recommends me for my impressive Python expertise, quick learning, innovative problem-solving skills, and collaborative demeanor, acknowledging my diverse knowledge beyond typical coding.
+- Bram Vereertbrugghen notes my ability to learn quickly, in-depth, and with enthusiasm, appreciating my specialized and well-researched questions and my excitement about new things.
+- Sergey Paramonov commends my deep knowledge of Python programming and ability to tackle challenging technical problems due to a strong understanding of computer science fundamentals.

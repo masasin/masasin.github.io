@@ -9,6 +9,7 @@ nav:
   - About:
       - About: "index.md"
       - Hire me: "hiring.md"
+      - Testimonials: "testimonials.md"
   - Curriculum Vitae:
     - CV Overview: "cv.md"
     - Work Experience:
@@ -99,61 +100,6 @@ plugins:
           build: false
           site_name: "勝者神優"
           site_description: Pythonとロボットの専門家
-      nav_translations:
-        fr:
-          About me: À propos de moi
-          Curriculum Vitae: Curriculum Vitae
-          Education: Éducation
-          University of Waterloo: Université de Waterloo
-          Kyoto University: Université de Kyoto
-          Work experience: Expérience professionnelle
-          Co-operative education experience: Expérience d'éducation coopérative
-          Teaching experience: Expérience d'enseignement
-          Projects: Projets
-          Open Source Project Sampling: Projets open source
-          SPIRIT (Masters thesis): SPIRIT (thèse de Master)
-          Yozakura: Yozakura
-          Gestural Control of Robots: Contrôle gestuel des robots
-          Undergraduate projects: Projets de premier cycle
-          Skills: Compétences
-          Tools and Technologies: Outils et technologies
-          Languages: Langues
-        nl:
-          About me: Over mij
-          Curriculum Vitae: Curriculum Vitae
-          Education: Opleiding
-          University of Waterloo: Universiteit van Waterloo
-          Kyoto University: Universiteit van Kyoto
-          Work experience: Werkervaring
-          Co-operative education experience: Coöperatieve onderwijservaring
-          Teaching experience: Onderwijservaring
-          Projects: Projecten
-          Open Source Projects: Open source projecten
-          SPIRIT (Masters thesis): SPIRIT (Masterthesis)
-          Yozakura: Yozakura
-          Gestural Control of Robots: Gebaarbesturing van robots
-          Undergraduate projects: Bachelorprojecten
-          Skills: Vaardigheden
-          Tools and Technologies: Gereedschap en technologieën
-          Languages: Talen
-        ja:
-          About me: 自己紹介
-          Curriculum Vitae: 履歴書
-          Education: 学歴
-          University of Waterloo: ウォータールー大学
-          Kyoto University: 京都大学
-          Work experience: 職歴
-          Co-operative education experience: 協同教育の経験
-          Teaching experience: 教授経験
-          Projects: プロジェクト一覧
-          Open Source Project Sampling: オープンソースプロジェクト
-          SPIRIT (Masters thesis): SPIRIT（修士論文）
-          Yozakura: Yozakura
-          Gestural Control of Robots: ジェスチャーによるロボット操作
-          Undergraduate projects: 学部のプロジェクト
-          Skills: スキル
-          Tools and Technologies: ツールや技術
-          Languages: 言語力
 
 markdown_extensions:
   - admonition
