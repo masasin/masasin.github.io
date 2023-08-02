@@ -20,7 +20,7 @@ _2008 &ndash; 2013_
 I studied at the University of Waterloo from 2008 to 2013,
 and graduated with a Bachelor of Applied Science in Honours Mechatronics Engineering.
 
-![[/assets/images/tron_13.jpg|University of Waterloo]]{: style="width:300px", align="right"}
+![University of Waterloo](/assets/images/tron_13.jpg){: style="width:300px", align="right"}
 
 The program is a combination of mechanical, electrical, and software engineering,
 and was heavily practical, with [[#projects|many hands-on projects]] for students to apply concepts learned in the classroom.
@@ -40,7 +40,7 @@ and helped organize the [4th International Symposium on Health Technology]{{ url
 That included finding speakers, inviting them to come, following up with people who did not reply or submit papers,
 and arranging accommodation for the speakers coming in from outside of Waterloo.
 
-![[/assets/images/uwaterloo_tool.jpg|Canada Day 2011]]{: style="width:400px", align="right"}
+![Canada Day 2011](/assets/images/uwaterloo_tool.jpg){: style="width:400px", align="right"}
 Also in 2010, I took part in Orientation Week, contributing my time as a volunteer to welcome and assist new students as
 they embarked on their exciting university journey. In 2011, I joined the
 University of Waterloo Engineering Society (EngSoc) to lend a helping hand in organizing the Canada Day celebrations.
@@ -49,7 +49,7 @@ In 2012, I directed the EngSoc mental health directorship.
 As director, I introduced a successful initiative to bring service animals on campus during exams to help reduce student stress.
 This was eventually emulated beyond the faculty of engineering.
 
-![[/assets/images/puppies_in_cph.jpg|Puppies in the Engineering Society lounge]]{: style="width:300px", align="left"}
+![Puppies in the Engineering Society lounge](/assets/images/puppies_in_cph.jpg){: style="width:300px", align="left"}
 
 Also in 2012, I co-founded the [Engineering Student Ambassador program]{{ urls.activities.ambassador }},
 which encourages current engineering students to help give prospective students a personal and informative connection to the faculty of engineering.
@@ -65,7 +65,7 @@ I had five or six courses per academic term, for 42 courses total. Most of these
 A few of them are below, broadly arranged by theme. For more details, please see the [[undergrad|dedicated project page]].
 
 ### [[undergrad#mechatronics|Mechatronics]]
-![[/assets/images/plc_cell.jpg|PLC cell]]{: style="width:300px", align="right"}
+![PLC cell](/assets/images/plc_cell.jpg){: style="width:300px", align="right"}
 - Constructed a line-following robot with LEGO Mindstorms.
 - Built a line-following robot with analog sensors, designing the circuits with opamps, populating the PCBs ourselves, and programming the microcontroller.
 - Developed an autonomous catamaran capable of traversing the perimeter of a pool, using Arduino for control and sonar sensors for feedback.
