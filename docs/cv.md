@@ -13,8 +13,8 @@
         - [[#yozakura|Yozakura]]: Software lead for a teleoperated rescue robot
         - [[#gestural-control-of-robots|Gestural control of robots]]: Infrastructure for controlling robots with gestures
         - [[#open-source-projects|Open source projects]]
-            - Two packages on PyPI, including [latexipy](https://github.com/masasin/latexipy) (129 stars) for exporting Matplotlib-based plots into native LaTeX
-            - Many repositories on GitHub, including [my resume generator](https://github.com/masasin/resume) (118 stars) and AoC [2021](https://github.com/masasin/aoc2021), [2022](https://github.com/masasin/advent-of-code-2022)
+            - Two packages on PyPI, including [latexipy]{{ urls.projects.latexipy }} (129 stars) for exporting Matplotlib-based plots into native LaTeX
+            - Many repositories on GitHub, including [my resume generator]{{ urls.projects.resume }} (118 stars) and AoC [2021]{{ urls.projects.aoc2021 }}, [2022]{{ urls.projects.aoc2022 }}
             - Contributions to major and minor open source projects, including numpy, ROS, and more
     - 20+ years of [[#mentoring-experience|mentoring experience]]
     - [[#education|Education]]
@@ -108,9 +108,9 @@ between 2009 and 2012, working in six companies in three countries over a total 
 - Designed and developed infrastructure that abstracted away the interface used by using an API,
   with a proof of concept using the Myo armband from Thalmic Labs to control robots.
 ### [[open_source|Open source projects]]
-- Two packages on PyPI, including [latexipy](https://github.com/masasin/latexipy) (129 stars) for exporting Matplotlib-based plots into native LaTeX.
-- Many repositories on GitHub, including [my resume generator](https://github.com/masasin/resume) (118 stars),
-  as well as the [2021](https://github.com/masasin/aoc2021) and [2022](https://github.com/masasin/advent-of-code-2022) Advent of Code repositories.
+- Two packages on PyPI, including [latexipy]{{ urls.projects.latexipy }} (129 stars) for exporting Matplotlib-based plots into native LaTeX.
+- Many repositories on GitHub, including [my resume generator]{{ urls.projects.resume }} (118 stars),
+  as well as the [2021]{{ urls.projects.aoc2021 }} and [2022]{{ urls.projects.aoc2022 }} Advent of Code repositories.
 - Contributions to major and minor open source projects, including numpy, ROS, and more.
 
 ## [[mentoring|Mentoring Experience]]

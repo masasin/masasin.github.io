@@ -2,7 +2,6 @@
 _2014 &ndash; 2015, [[kyoto|Kyoto University]]_
 
 ???+ summary
-
     - Initial research project at Kyoto University aimed at developing infrastructure to allow ergonomic control of robots using gestures.
     - Designed and developed infrastructure that abstracted away the interface used by using an API,
       with a proof of concept using the Myo armband from Thalmic Labs to control robots.
@@ -25,4 +24,4 @@ The most difficult part was figuring out good, intuitive mappings to use.
 I looked at ergonomics, as well as manually modifying the configurations,
 but the project was cancelled before a fully functional version could be made.
 
-Most of the code was written in Python, including wrappers for [C++ code](https://github.com/thalmiclabs) which I wrote to talk to the armband and the robotic arm.
+Most of the code was written in Python, including wrappers for [C++ code]{{ urls.projects.myo_thalmic }} which I wrote to talk to the armband and the robotic arm.

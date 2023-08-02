@@ -14,11 +14,10 @@ The University of Waterloo has a unique co-operative education program that allo
 Each co-op is normally a four-month-long remunerated full-time position, which allows students to gain valuable industry experience.
 I was fortunate enough to be part of this program, and I did six work terms in three countries over a total of two years.
 
-## Design Engineer, [Starquip Integrated Systems](https://www.starquip.com/)
+## Design Engineer, [Starquip Integrated Systems]{{ urls.work.starquip }}
 _May to August 2012, Toronto, ON, Canada (on-site)_
 
 ???+ summary
-
     - Assisted in the mechanical design of pneumatic lift-assist devices using Solidworks.
     - Converted existing 2D drawings to 3D assemblies, reducing the creation time for most new devices significantly.
     - Produced ASME-compliant drawings.
@@ -39,11 +38,10 @@ In addition, I made a new system which modularized the pneumatic diagram, which 
 The system also interactively generated a bill of materials.
 That reduced the creation time of 80% of new drawings from hours to around 10 minutes.
 
-## Junior Project Engineer, [Kevin Quan Studios](https://kqbikes.com)
+## Junior Project Engineer, [Kevin Quan Studios]{{ urls.work.kqs }}
 _September &ndash; December 2011,  Toronto, ON, Canada (hybrid)_
 
 ???+ summary
-
     - Completed basic and intermediate Solidworks training, including surface modeling.
     - Created parts, assemblies, and drawings for mountain and racing bicycles.
     - Wrote an airfoil generator and exporter using LibreOffice and Python.
@@ -58,11 +56,10 @@ I also wrote an airfoil generator and exporter using LibreOffice (and, later, Py
 which I used in order to perform 2D and 3D CFD analysis in Solidworks.
 I determined the optimum configuration for several racing bicycles, and designed tooling molds and parts.
 
-## Hardware Associate, [IMS](https://www.ims.tech/)
+## Hardware Associate, [IMS]{{ urls.work.ims }}
 _January &ndash; April 2011, Waterloo, ON, Canada (on-site)_
 
 ???+ summary
-
     - Involved in selecting and coding new hardware, prototyped hardware solutions using Altium Designer, and programmed microcontrollers using C and C++.
     - Provided general assistance to lead design engineers.
     - Investigated self-resonance in inductors to enhance the accuracy of test results.
@@ -76,11 +73,10 @@ I prototyped hardware solutions for future products using Altium Designer, and p
 I provided general assistance to lead design engineers,
 and investigated self-resonance in inductors in order to enhance the accuracy of test results.
 
-## Research Assistant, [Multiscale Additive Manufacturing Lab](https://msam.uwaterloo.ca)
+## Research Assistant, [Multiscale Additive Manufacturing Lab]{{ urls.work.msam }}
 _May &ndash; September 2010, University of Waterloo, Waterloo, ON, Canada (hybrid)_
 
 ???+ summary
-
     - Designed, procured, and assembled parts for an enclosure for a solid freeform fabrication (SFF) workstation.
     - Manufactured or coordinated the manufacture of several parts.
     - Performed image processing on scanning electron micrographs using Octave.
@@ -97,11 +93,10 @@ The workstation was used to produce 3D scaffolds for the regrowth of bone and ca
 
 I also performed image processing on scanning electron micrographs using Octave.
 
-## Research Assistant, [Computer Vision and Mobile Robotics Lab](https://sites.aub.edu.lb/vrlab/)
+## Research Assistant, [Computer Vision and Mobile Robotics Lab]{{ urls.work.vrlab }}
 _September &ndash; December 2009, American University of Beirut, Beirut, Lebanon (hybrid)_
 
 ???+ summary
-
     - Developed a positional navigation system for the localization of robots.
     - Wrote code to estimate the current position using a 6-axis IMU, researched the state of the art of IMU-vision integration.
     - Used an Extended Kalman Filter to incorporate information from encoders, IMU estimates, and visual odometry estimates.
@@ -117,11 +112,10 @@ The EKF results were then used to reduce the error and drift on the IMU.
 During my internship, I audited a fourth-year robotics class, and designed digital logic circuits to control a robot with no programming.
 I also programmed a PIC-16 in C and assembly, and used an external debugger.
 
-## Engineer in Training, [Sierra Construction Systems](https://www.sierraconstructionsystems.com/)
+## Engineer in Training, [Sierra Construction Systems]{{ urls.work.scs }}
 _January &ndash; April 2009, Freetown, Sierra Leone (hybrid)_
 
 ???+ summary
-
     - Created and verified as-built structural and electrical diagrams for buildings.
     - Performed arc welding, cutting, woodworking, and aluminium working, repaired internal combustion engines and hydraulic systems.
     - Prepared estimates for building construction with Primavera and Microsoft Project.

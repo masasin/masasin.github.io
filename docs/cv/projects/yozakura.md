@@ -11,9 +11,9 @@ _2014 &ndash; 2015, [[kyoto|Kyoto University]]_
 ![[/assets/images/yozakura.jpg|Yozakura]]{: style="width:400px", align=right}
 
 The Kyoto University [Mechatronics Lab]{{ urls.edu.matsuno }}’s
-[SHINOBI team](https://github.com/kyoto-u-shinobi) designed a new teleoperated rescue robot
-called Yozakura to participate in the 2015 [RoboCup Japan Open](http://robocup.or.jp/)
-[Rescue League](https://sites.google.com/site/robocupjorescuerobotleague/) in Fukui city.
+[SHINOBI team]{{ urls.projects.shinobi }} designed a new teleoperated rescue robot
+called Yozakura to participate in the 2015 [RoboCup Japan Open]{{ urls.projects.robocup }}
+[Rescue League]{{ urls.projects.rescue_league }} in Fukui city.
 We also participated in the RoboCup Japan Rescue Camp, a practice competition held in Tsuruga.
 
 Yozakura had star-shaped wheels, flippers, a robotic arm, and various sensors.
@@ -28,7 +28,7 @@ as well as drivers for various controllers.
 
 I also wrote most of the code for the onboard Raspberry Pi and mbed chips,
 as well as I2C drivers for current sensors and a 10-DOF IMU,
-drivers for [Dynamixel servos](https://github.com/masasin/dynamixel), Maxon motors, and a Ricoh 360-degree camera.
+drivers for [Dynamixel servos]{{ urls.projects.dynamixel }}, Maxon motors, and a Ricoh 360-degree camera.
 I also wrote code which allowed the RPi and mbed to communicate serially.
 
 Most of the code was in Python, with some C++ on the mbed.
@@ -41,6 +41,6 @@ and corrected them where necessary.
 
     The source code is available on GitHub:
 
-    - [Raspberry Pi](https://github.com/kyoto-u-shinobi/yozakura_raspi)
-    - [mbed](https://github.com/kyoto-u-shinobi/yozakura_mbed)
-    - [Operator station](https://github.com/kyoto-u-shinobi/yozakura_operator_station)
+    - [Raspberry Pi]{{ urls.projects.yozakura }}
+    - [mbed]{{ urls.projects.yozakura_mbed }}
+    - [Operator station]{{ urls.projects.yozakura_opstn }}

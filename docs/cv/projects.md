@@ -6,8 +6,8 @@ _2008 &ndash; Present_
     - [[#yozakura|Yozakura]]: Software lead for a teleoperated rescue robot
     - [[#gestural-control-of-robots|Gestural control of robots]]: Infrastructure for controlling robots with gestures
     - [[#open-source-projects|Open source projects]]
-        - Two packages on PyPI, including [latexipy](https://github.com/masasin/latexipy) (129 stars) for exporting Matplotlib-based plots into native LaTeX
-        - Many repositories on GitHub, including [resume](https://github.com/masasin/resume) (118 stars) and AoC [2021](https://github.com/masasin/aoc2021), [2022](https://github.com/masasin/advent-of-code-2022)
+        - Two packages on PyPI, including [latexipy]{{ urls.projects.latexipy }} (129 stars) for exporting Matplotlib-based plots into native LaTeX
+        - Many repositories on GitHub, including [resume]{{ urls.projects.resume }} (118 stars) and AoC [2021]{{ urls.projects.aoc2021 }}, [2022]{{ urls.projects.aoc2022 }}
         - Contributions to major and minor open source projects, including numpy, ROS, and more
     - [[#university-of-waterloo-projects|Course projects]] from the University of Waterloo
 
@@ -46,9 +46,9 @@ _2014 &ndash; 2015_
 ## [[open_source|Open source projects]]
 _2008 &ndash; Present_
 
-- Two packages on PyPI, including [latexipy](https://github.com/masasin/latexipy) (129 stars) for exporting Matplotlib-based plots into native LaTeX.
-- Many repositories on GitHub, including [my resume generator](https://github.com/masasin/resume) (118 stars),
-  as well as the [2021](https://github.com/masasin/aoc2021) and [2022](https://github.com/masasin/advent-of-code-2022) Advent of Code repositories.
+- Two packages on PyPI, including [latexipy]{{ urls.projects.latexipy }} (129 stars) for exporting Matplotlib-based plots into native LaTeX.
+- Many repositories on GitHub, including [my resume generator]{{ urls.projects.resume }} (118 stars),
+  as well as the [2021]{{ urls.projects.aoc2021 }} and [2022]{{ urls.projects.aoc2022 }} Advent of Code repositories.
 - Contributions to major and minor open source projects, including numpy, ROS, and more.
 
 ## [[undergrad|University of Waterloo projects]]

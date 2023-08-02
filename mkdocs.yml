@@ -146,6 +146,47 @@ extra:
       yields: (https://www.yields.io/){:target="_blank" rel="noopener"}
       kapernikov: (https://www.kapernikov.com/){:target="_blank" rel="noopener"}
       sentiance: (https://www.sentiance.com/){:target="_blank" rel="noopener"}
+      starquip: (https://www.starquip.com/){:target="_blank" rel="noopener"}
+      kqs: (https://kqbikes.com){:target="_blank" rel="noopener"}
+      ims: (https://www.ims.tech/){:target="_blank" rel="noopener"}
+      msam: (https://msam.uwaterloo.ca){:target="_blank" rel="noopener"}
+      vrlab: (https://sites.aub.edu.lb/vrlab){:target="_blank" rel="noopener"}
+      scs: (https://www.sierraconstructionsystems.com/){:target="_blank" rel="noopener"}
+    projects:
+      rtd: (https://readthedocs.org){:target="_blank" rel="noopener"}
+      hri: (https://en.wikipedia.org/wiki/Human%E2%80%93robot_interaction){:target="_blank" rel="noopener"}
+      latexipy: (https://github.com/masasin/latexipy){:target="_blank" rel="noopener"}
+      pyrosbag: (https://github.com/masasin/pyrosbag){:target="_blank" rel="noopener"}
+      resume: (https://github.com/masasin/resume){:target="_blank" rel="noopener"}
+      aoc2021: (https://github.com/masasin/aoc2021){:target="_blank" rel="noopener"}
+      aoc2022: (https://github.com/masasin/advent-of-code-2022){:target="_blank" rel="noopener"}
+      dynamixel: (https://github.com/masasin/dynamixel){:target="_blank" rel="noopener"}
+      myo_thalmic: (https://github.com/thalmiclabs){:target="_blank" rel="noopener"}
+      spirit: (https://github.com/masasin/spirit){:target="_blank" rel="noopener"}
+      spirit_wiki: (https://github.com/masasin/spirit/wiki){:target="_blank" rel="noopener"}
+      spirit_components: (https://github.com/masasin/spirit/wiki/Components){:target="_blank" rel="noopener"}
+      spirit_thesis: (https://github.com/masasin/spirit/releases/tag/v1.0){:target="_blank" rel="noopener"}
+      yozakura: (https://github.com/kyoto-u-shinobi/yozakura_raspi){:target="_blank" rel="noopener"}
+      yozakura_mbed: (https://github.com/kyoto-u-shinobi/yozakura_mbed){:target="_blank" rel="noopener"}
+      yozakura_opstn: (https://github.com/kyoto-u-shinobi/yozakura_operator_station){:target="_blank" rel="noopener"}
+      shinobi: (https://github.com/kyoto-u-shinobi){:target="_blank" rel="noopener"}
+      robocup: (http://robocup.or.jp/){:target="_blank" rel="noopener"}
+      rescue_league: (https://sites.google.com/site/robocupjorescuerobotleague/){:target="_blank" rel="noopener"}
+      gilded_rose: (https://github.com/masasin/gilded-rose){:target="_blank" rel="noopener"}
+      naca_airfoil_generator: (https://github.com/masasin/naca_airfoil_generator){:target="_blank" rel="noopener"}
+      keep_talking_solver: (https://github.com/masasin/keep_talking_solver){:target="_blank" rel="noopener"}
+      himawaripy: (https://github.com/masasin/himawaripy){:target="_blank" rel="noopener"}
+    activities:
+      konja: (https://www.uwkonja.com/about.html){:target="_blank" rel="noopener"}
+      cube: (http://cube.uwaterloo.ca/index.php)
+      cube_symposium: (http://cube.uwaterloo.ca/Symposium%202010%20web%20site/symp%202010.htm)
+      uwclec: (https://uwclec.webs.com/){:target="_blank" rel="noopener"}
+      ambassador: (https://uwaterloo.ca/engineering-student-ambassadors/){:target="_blank" rel="noopener"}
+      shadow: (https://uwaterloo.ca/engineering-student-ambassadors/shadow-program){:target="_blank" rel="noopener"}
+      japan_tent: (https://www.japantent.com/english.html){:target="_blank" rel="noopener"}
+    mentoring:
+      kotani: (https://aip.scitation.org/doi/pdf/10.1063/1.5028398?class=pdf){:target="_blank" rel="noopener"}
+      codebar: (https://codebar.io/workshops/2547){:target="_blank" rel="noopener"}
     jobhunt:
       blue_card: (https://economy-employment.brussels/permit-blue-card){:target="_blank" rel="noopener"}
     social:

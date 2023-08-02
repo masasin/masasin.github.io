@@ -4,18 +4,18 @@ _2013 &ndash; 2017_
 ???+ summary
 
     - Graduated with a Master of Engineering degree from the Department of Mechanical Engineering.
-    - Was a member of the [Mechatronics Laboratory](http://www.mechatronics.me.kyoto-u.ac.jp/index.php?ml_lang=en) from 2013 to 2017.
+    - Was a member of the [Mechatronics Laboratory]{{ urls.edu.matsuno }} from 2013 to 2017.
     - Worked on many [[#highlighted-projects|projects]], primarily in the field of human-robot interaction,
       including the development of a [[spirit|teleoperation system for drones]] and [[myo|gestural control of robots]].
     - Participated in the [[yozakura|RoboCup Japan Open Rescue League]] multiple times in the teleoperated division.
 
 ![[/assets/images/2013_matsunoken_members.jpg|Kyoto University 2013 members]]{: style="width:400px", align=right}
-I was a member of the [Mechatronics Laboratory](http://www.mechatronics.me.kyoto-u.ac.jp/index.php?ml_lang=en) at Kyoto University from 2013 to 2017.
+I was a member of the [Mechatronics Laboratory]{{ urls.edu.matsuno }} at Kyoto University from 2013 to 2017.
 I joined as a research student in 2013 while waiting for the academic term to begin, and enrolled in the Masters program starting in April 2014.
 I graduated in March 2017 with a Master of Engineering degree from the Department of Mechanical Engineering.
 
 While at Kyoto University, I worked on [[#highlighted-projects|many projects]].
-My research topics were primarily on the topic of [human-robot interaction](https://en.wikipedia.org/wiki/Human%E2%80%93robot_interaction).
+My research topics were primarily on the topic of [human-robot interaction]{{ urls.projects.hri }}.
 I started out working on the [[myo|gestural control of robots]],
 and switched to [[spirit|teleoperation of drones]] in my second year.
 
@@ -29,7 +29,7 @@ hiked and biked through mountains and valleys, took part in the [[/assets/images
 obtained a scholarship from Kiyomizudera Temple, and more.
 
 ![[/assets/images/japan_tent.jpg|Japan Tent 2016]]{: style="width:400px", align=right}
-I also participated in the 2016 edition of [Japan Tent](https://www.japantent.com/english.html)
+I also participated in the 2016 edition of [Japan Tent]{{ urls.activities.japan_tent }}
 (link not accessible from the EU), a program by Ishikawa Prefecture which allows foreign students from across Japan
 to stay with two families in the region.
 I was selected as a Japan Tent ambassador for the year thanks to my Japanese ability.

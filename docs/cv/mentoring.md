@@ -29,7 +29,7 @@ and helped navigate the university system, including course selection, the co-op
 In addition, I helped many people with personal problems ranging from relationships to academics, from mental health to work and finances.
 
 In 2012 and 2013, I was shadowed by two international exchange students, and helped them integrate into Canada and the university.
-I also taught beginner and intermediate Japanese courses as a volunteer with the [University of Waterloo Culture and Language Exchange Club](https://uwclec.webs.com/).
+I also taught beginner and intermediate Japanese courses as a volunteer with the [University of Waterloo Culture and Language Exchange Club]{{ urls.activities.uwclec }}.
 
 
 ## Private tutor
@@ -48,7 +48,7 @@ This has earned him a promotion, a sponsored masters degree, and eventually a ne
 I still provide support as necessary.
 
 In another, I enabled a PhD student to analyze his electron-phase micrographs by writing code which did the same job of a commercial software package with an expensive license.
-I was acknowledged by name in [his paper](https://aip.scitation.org/doi/pdf/10.1063/1.5028398?class=pdf).
+I was acknowledged by name in [his paper]{{ urls.mentoring.kotani }}.
 
 Since 2019, I have also been teaching Python and Japanese both online and in person.
 

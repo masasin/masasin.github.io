@@ -41,6 +41,6 @@ maintaining the high standard of our deliverables.
 In addition to project work, I also took a mentorship role.
 I leveraged my tutoring experience and technical knowledge to help colleagues improve their skills and on-boarded new team members,
 guiding their integration into our dynamic working environment.
-I introduced new techniques and methodologies, and participated in [CodeBar](https://codebar.io/workshops/2547) as a teacher.
+I introduced new techniques and methodologies, and participated in [CodeBar]{{ urls.mentoring.codebar }} as a teacher.
 
 I was highly praised for my patience and understanding when reviewing, explaining, or mentoring, as well as the speed and quality of my own code.

@@ -31,12 +31,12 @@ which allows a student to experience various facets of engineering.
 
 ## Extracurricular activities
 I participated heavily in extracurricular activities.
-For example, I was an active member of the [Konnichiwa Japan club](https://www.uwkonja.com/about.html) between 2010 and 2013,
+For example, I was an active member of the [Konnichiwa Japan club]{{ urls.activities.konja }} between 2010 and 2013,
 including one term as secretary.
 I was involved in recruiting new members, handled internal and external club communications, and helped organize lessons, events, and outings.
 
-In 2010, I was also the secretary of the [Club for Undergraduate Bioengineers (CUBE)](http://cube.uwaterloo.ca/index.php),
-and helped organize the [4th International Symposium on Health Technology](http://cube.uwaterloo.ca/Symposium%202010%20web%20site/symp%202010.htm).
+In 2010, I was also the secretary of the [Club for Undergraduate Bioengineers (CUBE)]{{ urls.activities.cube }},
+and helped organize the [4th International Symposium on Health Technology]{{ urls.activities.cube_symposium }}.
 That included finding speakers, inviting them to come, following up with people who did not reply or submit papers,
 and arranging accommodation for the speakers coming in from outside of Waterloo.
 
@@ -51,14 +51,14 @@ This was eventually emulated beyond the faculty of engineering.
 
 ![[/assets/images/puppies_in_cph.jpg|Puppies in the Engineering Society lounge]]{: style="width:300px", align="left"}
 
-Also in 2012, I co-founded the [Engineering Student Ambassador program](https://uwaterloo.ca/engineering-student-ambassadors/),
+Also in 2012, I co-founded the [Engineering Student Ambassador program]{{ urls.activities.ambassador }},
 which encourages current engineering students to help give prospective students a personal and informative connection to the faculty of engineering.
 The program is still active.
 
-In 2012 and 2013, I was shadowed by two international exchange students as part of the [Waterloo Engineering Shadow program](https://uwaterloo.ca/engineering-student-ambassadors/shadow-program)
+In 2012 and 2013, I was shadowed by two international exchange students as part of the [Waterloo Engineering Shadow program]{{ urls.activities.shadow }}
 (now part of the Student Ambassador program), and helped them integrate into Canada and the university.
 I also taught beginner and intermediate Japanese courses to groups of students as a volunteer
-with the [University of Waterloo Culture and Language Exchange Club (UWCLEC)](https://uwclec.webs.com/).
+with the [University of Waterloo Culture and Language Exchange Club (UWCLEC)]{{ urls.activities.uwclec }}.
 
 ## Highlighted projects
 I had five or six courses per academic term, for 42 courses total. Most of these courses had at least one project.

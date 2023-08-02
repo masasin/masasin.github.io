@@ -2,7 +2,6 @@
 _2015 &ndash; 2017, [[kyoto|Kyoto University]]_
 
 ???+ summary
-
     - Masters thesis project at Kyoto University, developing a third-person view interface for controlling a monocular drone.
     - Created a system that superimposed a CGI version of the drone on top of an actual image taken by the FPV camera earlier.
     - Designed, conducted, and analyzed user studies which were performed to test the efficacy of the system,
@@ -40,11 +39,11 @@ I also automated the generation of new launch files using xacro programming and 
 
 !!! abstract "Source code"
 
-    The source code is available on [GitHub](https://www.github.com/masasin/spirit).
-    It is well-documented, including a [wiki](https://github.com/masasin/spirit/wiki), checklists, and instructions.
+    The source code is available on [GitHub]{{ urls.social.github }}.
+    It is well-documented, including a [wiki]{{ urls.projects.spirit_wiki }}, checklists, and instructions.
     It contains a ROS core;
     data collection, analysis, and visualization code;
     and the full LaTeX source code for the thesis.
 
-    A summary of the individual components is [here](https://github.com/masasin/spirit/wiki/Components),
-    and the thesis itself can be downloaded [here](https://github.com/masasin/spirit/releases/download/v1.0/mshtsy_thesis.pdf).
+    A summary of the individual components is [here]{{ urls.projects.spirit_components }},
+    and the thesis itself can be downloaded [here]{{ urls.projects.spirit_thesis }}.
