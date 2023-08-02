@@ -1,22 +1,22 @@
 # Education
 _2008 &ndash; 2017_
 ???+ summary
-    - 2014 &ndash; 2017: [Kyoto University](education/kyoto.md) ([Mechatronics Laboratory](http://www.mechatronics.me.kyoto-u.ac.jp/index.php?ml_lang=en)), Master of Engineering, Mechanical Engineering, Kyoto, Japan.
-    - 2008 &ndash; 2013: [University of Waterloo](education/waterloo.md), Bachelor of Applied Science, Honours Mechatronics Engineering, Waterloo, ON, Canada.
+    - 2014 &ndash; 2017: [[kyoto|Kyoto University]] ([Mechatronics Laboratory]{{ urls.edu.matsuno }}), Master of Engineering, Mechanical Engineering, Kyoto, Japan.
+    - 2008 &ndash; 2013: [[waterloo|University of Waterloo]], Bachelor of Applied Science, Honours Mechatronics Engineering, Waterloo, ON, Canada.
 
 My educational background spans two highly reputed institutions on two continents,
 providing me with a diverse, comprehensive foundation in mechatronics, robotics, and more.
 
-## [Kyoto University](education/kyoto.md)
+## [[kyoto|Kyoto University]]
 - Graduated with a Master of Engineering degree from the Department of Mechanical Engineering.
 - Was a member of the [Mechatronics Laboratory]{{ urls.edu.matsuno }} from 2013 to 2017.
-- Worked on many [projects](education/kyoto.md#highlighted-projects), primarily in the field of human-robot interaction,
-including the development of a [teleoperation system for drones](projects/spirit.md) and [gestural control of robots](projects/myo.md).
-- Participated in the [RoboCup Japan Open Rescue League](projects/yozakura.md) multiple times in the teleoperated division.
+- Worked on many [[kyoto#highlighted-projects|projects]], primarily in the field of human-robot interaction,
+including the development of a [[spirit|teleoperation system for drones]] and [[myo|gestural control of robots]].
+- Participated in the [[yozakura|RoboCup Japan Open Rescue League]] multiple times in the teleoperated division.
 
-## [University of Waterloo](education/waterloo.md)
+## [[waterloo|University of Waterloo]]
 - Completed Bachelor of Applied Science in Honours Mechatronics Engineering from 2008 to 2013.
 - Studied a combination of mechanical, electrical, and software engineering with a focus on practical application.
-- Completed [six co-operative education internships](work/coop.md) in three countries over a total of two years.
-- Participated heavily in [extracurricular activities](education/waterloo.md#extracurricular-activities), including several clubs and initiatives.
-- Completed [numerous projects](education/waterloo.md#highlighted-projects) across a variety of disciplines.
+- Completed [[coop|six co-operative education internships]] in three countries over a total of two years.
+- Participated heavily in [[waterloo#extracurricular-activities|extracurricular activities]], including several clubs and initiatives.
+- Completed [[waterloo#highlighted-projects|numerous projects]] across a variety of disciplines.

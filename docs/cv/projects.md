@@ -2,23 +2,23 @@
 _2008 &ndash; Present_
 
 ???+ summary
-    - [SPIRIT](#spirit): Masters thesis; third person view interface for controlling a monocular drone
-    - [Yozakura](#yozakura): Software lead for a teleoperated rescue robot
-    - [Gestural control of robots](#gestural-control-of-robots): Infrastructure for controlling robots with gestures
-    - [Open source projects](#open-source-projects)
+    - [[#spirit|SPIRIT]]: Masters thesis; third person view interface for controlling a monocular drone
+    - [[#yozakura|Yozakura]]: Software lead for a teleoperated rescue robot
+    - [[#gestural-control-of-robots|Gestural control of robots]]: Infrastructure for controlling robots with gestures
+    - [[#open-source-projects|Open source projects]]
         - Two packages on PyPI, including [latexipy](https://github.com/masasin/latexipy) (129 stars) for exporting Matplotlib-based plots into native LaTeX
         - Many repositories on GitHub, including [resume](https://github.com/masasin/resume) (118 stars) and AoC [2021](https://github.com/masasin/aoc2021), [2022](https://github.com/masasin/advent-of-code-2022)
         - Contributions to major and minor open source projects, including numpy, ROS, and more
-    - [Course projects](#university-of-waterloo-projects) from the University of Waterloo
+    - [[#university-of-waterloo-projects|Course projects]] from the University of Waterloo
 
 During my academic and professional career, I've been involved in a wide range of projects,
 showcasing my versatility and capacity for innovation.
 Below is a selection of some of the most significant projects I've worked on.
 
-## [Robotics projects](../education/kyoto#highlighted-projects)
+## [[kyoto#highlighted-projects|Robotics projects]]
 Highlighted robotics projects from my time at Kyoto University include:
 
-### [SPIRIT](projects/spirit.md)
+### [[spirit|SPIRIT]]
 _2015 &ndash; 2017_
 
 - Masters thesis project at Kyoto University, developing a third-person view interface for controlling a monocular drone.
@@ -26,7 +26,7 @@ _2015 &ndash; 2017_
 - Designed, conducted, and analyzed user studies which were performed to test the efficacy of the system,
   which showed a large improvement in many metrics, even with a 2 Hz transmission rate.
 
-### [Yozakura](projects/yozakura.md)
+### [[yozakura|Yozakura]]
 _2014 &ndash; 2015_
 
 - Led the software development team for the Yozakura teleoperated rescue robot at Kyoto University's Mechatronics Lab.
@@ -35,7 +35,7 @@ _2014 &ndash; 2015_
 - The code was robust against failure and well-documented, providing useful error messages for hardware, software,
   and operator errors of various types, and correcting them where necessary.
 
-### [Gestural control of robots](projects/myo.md)
+### [[myo|Gestural control of robots]]
 _2014 &ndash; 2015_
 
 - Initial research project at Kyoto University aimed at developing infrastructure to allow ergonomic control of robots using gestures.
@@ -43,7 +43,7 @@ _2014 &ndash; 2015_
   with a proof of concept using the Myo armband from Thalmic Labs to control robots.
 
 
-## [Open source projects](projects/open_source.md)
+## [[open_source|Open source projects]]
 _2008 &ndash; Present_
 
 - Two packages on PyPI, including [latexipy](https://github.com/masasin/latexipy) (129 stars) for exporting Matplotlib-based plots into native LaTeX.
@@ -51,7 +51,7 @@ _2008 &ndash; Present_
   as well as the [2021](https://github.com/masasin/aoc2021) and [2022](https://github.com/masasin/advent-of-code-2022) Advent of Code repositories.
 - Contributions to major and minor open source projects, including numpy, ROS, and more.
 
-## [University of Waterloo projects](projects/undergrad.md)
+## [[undergrad|University of Waterloo projects]]
 _2008 &ndash; 2013_
 
-Details of my projects during my time at the University of Waterloo can be found at the [undergraduate projects](projects/undergrad.md) page.
+Details of my projects during my time at the University of Waterloo can be found at the [[undergrad|undergraduate projects]] page.

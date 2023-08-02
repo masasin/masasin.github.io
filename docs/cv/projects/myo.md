@@ -1,5 +1,5 @@
 # Gestural Control of Robots
-_2014 &ndash; 2015, [Kyoto University](../education/kyoto.md)_
+_2014 &ndash; 2015, [[kyoto|Kyoto University]]_
 
 ???+ summary
 
@@ -14,7 +14,7 @@ My initial research topic was developing infrastructure which would allow the er
 My proof of concept was going to be using the Myo armband from Thalmic labs to control robots,
 either a Kinova robotic arm, or one of the lab’s other robots.
 Eventually, my professor determined that it was too much development, and not enough research,
-and I changed my thesis to [SPIRIT](spirit.md).
+and I changed my thesis to [[spirit|SPIRIT]].
 The source code is not publically available.
 
 I designed and developed infrastructure which would allow gestural control of robots,

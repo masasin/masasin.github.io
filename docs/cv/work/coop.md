@@ -3,12 +3,12 @@
 
     Six 4-month co-op terms in 3 countries over 2 years.
 
-    - [Design Engineer](#design-engineer-starquip-integrated-systems), Starquip Integrated Systems, Spring 2012
-    - [Junior Project Engineer](#junior-project-engineer-kevin-quan-studios), Kevin Quan Studios, Fall 2011
-    - [Hardware Associate](#hardware-associate-ims), IMS, Winter 2011
-    - [Research Assistant](#research-assistant-multiscale-additive-manufacturing-lab), Multiscale Additive Manufacturing Lab, Spring 2010
-    - [Research Assistant](#research-assistant-computer-vision-and-mobile-robotics-lab), Computer Vision and Mobile Robotics Lab, Fall 2009
-    - [Engineer in Training](#engineer-in-training-sierra-construction-systems), Sierra Construction Systems, Winter 2009
+    - [[#design-engineer-starquip-integrated-systems|Design Engineer]], Starquip Integrated Systems, Spring 2012
+    - [[#junior-project-engineer-kevin-quan-studios|Junior Project Engineer]], Kevin Quan Studios, Fall 2011
+    - [[#hardware-associate-ims|Hardware Associate]], IMS, Winter 2011
+    - [[#research-assistant-multiscale-additive-manufacturing-lab|Research Assistant]], Multiscale Additive Manufacturing Lab, Spring 2010
+    - [[#research-assistant-computer-vision-and-mobile-robotics-lab|Research Assistant]], Computer Vision and Mobile Robotics Lab, Fall 2009
+    - [[#engineer-in-training-sierra-construction-systems|Engineer in Training]], Sierra Construction Systems, Winter 2009
 
 The University of Waterloo has a unique co-operative education program that allows students to alternate between study and work terms.
 Each co-op is normally a four-month-long remunerated full-time position, which allows students to gain valuable industry experience.

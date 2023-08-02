@@ -3,19 +3,19 @@ _2009 &ndash; Present_
 ??? summary
     - 10+ years of multidisciplinary experience, including 4 years in a senior role
     - Python and Robotics specialization, with work in industrial automation, data science, web development, and more
-    - [Senior Software Engineer](#senior-software-engineer-adimian), Adimian, 2021 &ndash; 2023
-    - [Senior Python Developer](#senior-python-developer-yieldsio), Yields.io, 2019 &ndash; 2020
-    - [Industrial Automation Eng.](#industrial-automation-engineer-kapernikov), Kapernikov, 2019
-    - [Data Scientist](#data-scientist-sentiance), Sentiance, 2018 &ndash; 2019
+    - [[#senior-software-engineer-adimian|Senior Software Engineer]], Adimian, 2021 &ndash; 2023
+    - [[#senior-python-developer-yieldsio|Senior Python Developer]], Yields.io, 2019 &ndash; 2020
+    - [[#industrial-automation-engineer-kapernikov|Industrial Automation Eng.]], Kapernikov, 2019
+    - [[#data-scientist-sentiance|Data Scientist]], Sentiance, 2018 &ndash; 2019
 
 I'm a senior Python and robotics expert with more than 10 years of experience in a variety of fields, including
-[industrial automation](#industrial-automation-engineer-kapernikov),
-[data science](#senior-python-developer-yieldsio),
-and [web development](#senior-software-engineer-adimian).
+[[#industrial-automation-engineer-kapernikov|industrial automation]],
+[[#senior-python-developer-yieldsio|data science]],
+and [[#senior-software-engineer-adimian|web development]].
 
-For internships, please see the [co-op page](work/coop.md).
+For internships, please see the [[coop|co-op page]].
 
-## [Senior Software Engineer](work/adimian.md), [Adimian]{{ urls.work.adimian }}
+## [[adimian|Senior Software Engineer]], [Adimian]{{ urls.work.adimian }}
 _January 2021 &ndash; October 2023, Belgium (remote)_
 
 - Took end-to-end project responsibility, including initial design, development, deployment, and maintenance.
@@ -24,7 +24,7 @@ _January 2021 &ndash; October 2023, Belgium (remote)_
 - Efficiently addressed bug reports and managed releases, maintaining high-standard deliverables.
 - Mentored colleagues, helping them improve their skills and on-board new team members, to high praise.
 
-## [Senior Python Developer](work/yields.md), [Yields.io]{{ urls.work.yields }}
+## [[yields|Senior Python Developer]], [Yields.io]{{ urls.work.yields }}
 _December 2019 &ndash; August 2020, Belgium (remote)_
 
 - Worked on the core of the platform as the primary Python developer.
@@ -32,7 +32,7 @@ _December 2019 &ndash; August 2020, Belgium (remote)_
 - Worked on automatically migrating and testing client code and artifacts with version increases, and deprecated old features.
 - Moved integration tests away from depending on mocks into tests that worked with a deployed Docker environment.
 
-## [Industrial Automation Engineer](work/kapernikov.md), [Kapernikov]{{ urls.work.kapernikov }}
+## [[kapernikov|Industrial Automation Engineer]], [Kapernikov]{{ urls.work.kapernikov }}
 _March &ndash; October 2019, Brussels, Belgium (hybrid)_
 
 - Developed a monitoring system for a conveyor belt using Python 3 and ROS.
@@ -40,7 +40,7 @@ _March &ndash; October 2019, Brussels, Belgium (hybrid)_
 - Detected potentially disruptive objects in real time and produced visualizations for the client’s video management system.
 - Fixed bugs in C++ code and created a standalone ROS node for camera communication.
 
-## [Data Scientist](work/sentiance.md), [Sentiance]{{ urls.work.sentiance }}
+## [[sentiance|Data Scientist]], [Sentiance]{{ urls.work.sentiance }}
 _February &ndash; January 2019, Antwerp, Belgium (hybrid)_
 
 - Moved the company’s codebase from Python 2 to Python 3.

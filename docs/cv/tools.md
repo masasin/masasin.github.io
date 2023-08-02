@@ -1,15 +1,15 @@
 # Tools and Technologies
 ???+ summary
 
-    - [Programming languages](#software-engineering): Python, Javascript, C++, bash
-    - [Development](#software-engineering): Git, CI/CD, Docker, documentation (Sphinx, mkdocs), testing (pytest)
-    - [Data science](#data-science): Jupyter, SciPy stack, pandas, scikit-learn, SymPy, Matplotlib, Seaborn, Plotly, Streamlit
-    - [Web development](#web-development): Python (FastAPI, Pydantic), Javascript (Vue), HTML, CSS, SQLAlchemy
-    - [Robotics](#robotics): ROS stack; various microcontrollers, boards, sensors, and actuators
-    - [Hardware](#electrical-engienering): Raspberry Pi, ESP8266, Arduino, mbed; MicroPython, CircuitPython, C++, C
-    - [Mechanical](#mechanical-engineering): Solidworks, Autodesk Inventor, OpenSCAD; design, analysis, simulation, and manufacturing
-    - [Electrical](#electrical-engineering): PCB design and manufacturing, soldering, wiring, crimping, cable management
-    - [Other](#other-tools): ChatGPT and other LLMs; Gimp, Inkscape; Linux, macOS, Windows; various office suites
+    - [[#software-engineering|Programming languages]]: Python, Javascript, C++, bash
+    - [[#software-engineering|Development]]: Git, CI/CD, Docker, documentation (Sphinx, mkdocs), testing (pytest)
+    - [[#data-science|Data science]]: Jupyter, SciPy stack, pandas, scikit-learn, SymPy, Matplotlib, Seaborn, Plotly, Streamlit
+    - [[#web-development|Web development]]: Python (FastAPI, Pydantic), Javascript (Vue), HTML, CSS, SQLAlchemy
+    - [[#robotics|Robotics]]: ROS stack; various microcontrollers, boards, sensors, and actuators
+    - [[#electrical-engienering|Hardware]]: Raspberry Pi, ESP8266, Arduino, mbed; MicroPython, CircuitPython, C++, C
+    - [[#mechanical-engineering|Mechanical]]: Solidworks, Autodesk Inventor, OpenSCAD; design, analysis, simulation, and manufacturing
+    - [[#electrical-engineering|Electrical]]: PCB design and manufacturing, soldering, wiring, crimping, cable management
+    - [[#other-tools|Other]]: ChatGPT and other LLMs; Gimp, Inkscape; Linux, macOS, Windows; various office suites
 
 In the course of my work, I've had the opportunity to use a wide array of tools and technologies that support
 efficient and effective software development, project management, and team collaboration.

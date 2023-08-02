@@ -1,44 +1,44 @@
 # Skills
 ???+ summary
 
-    - [Technical skills](#technical-skills):
-        - [Software engineering](#software-engineering), with expertise in Python
+    - [[#technical-skills|Technical skills]]:
+        - [[#software-engineering|Software engineering]], with expertise in Python
             - Proficient in multiple programming languages, including Javascript
             - Data science, including data analysis, modeling, and visualization.
             - Web development, including backend and frontend frameworks and languages.
-        - [Robotics](#robotics), including software and hardware
+        - [[#robotics|Robotics]], including software and hardware
             - Robotic software development using Python, ROS, C++, and C. 
             - Experience developing drivers and working with various robotic hardware.
-        - [Mechanical and electrical engineering](#mechanical-and-electrical-engineering)
+        - [[#mechanical-and-electrical-engineering|Mechanical and electrical engineering]]
             - Can design, manufacture, and assemble electromechanical systems, including robotic systems.
             - CAD software, mechanical system simulation, electrical design platforms, and digital logic design.
-        - [Knowledge of LLMs and other AI tools](#other-skills)
-        - For more details, please see the [list of tools and technologies](tools.md) I have experience with.
-    - [Soft skills](#soft-skills):
-        [Adaptability](#adaptability),
-        [Communication](#communication-skills),
-        [Interpersonal](#interpersonal-skills)
-        [Critical thinking](#critical-thinking-and-problem-solving),
-        [Leadership](#leadership),
-        [Organizational](#organizational-skills),
-        [Lifelong learning](#lifelong-learning),
-    - [Languages](#languages): English and French native, Japanese advanced, Dutch intermediate
+        - [[#other-skills|Knowledge of LLMs and other AI tools]]
+        - For more details, please see the [[tools|list of tools and technologies]] I have experience with.
+    - [[#soft-skills|Soft skills]]:
+        [[#adaptability|Adaptability]],
+        [[#communication-skills|Communication]],
+        [[#interpersonal-skills|Interpersonal]]
+        [[#critical-thinking-and-problem-solving|Critical thinking]],
+        [[#leadership|Leadership]],
+        [[#organizational-skills|Organizational]],
+        [[#lifelong-learning|Lifelong learning]],
+    - [[#languages|Languages]]: English and French native, Japanese advanced, Dutch intermediate
 
 Throughout my academic and professional journey, I have developed a broad and deep set of skills,
-ranging from [technical skills](#technical-skills) to [soft skills](#soft-skills) and [language proficiencies](#languages).
+ranging from [[#technical-skills|technical skills]] to [[#soft-skills|soft skills]] and [[#languages|language proficiencies]].
 Each skill has been put into practice in various projects, academic studies, and professional roles.
 
 ## Technical skills
 ???+ summary
 
-    - [Technical skills](#technical-skills):
-        - [Software engineering](#software-engineering), with expertise in Python
-        - [Robotics](#robotics), including software and hardware
-        - [Mechanical and electrical engineering](#mechanical-and-electrical-engineering), including design and manufacturing
-        - [Knowledge of LLMs and other AI tools](#other-skills)
+    - [[#technical-skills|Technical skills]]:
+        - [[#software-engineering|Software engineering]], with expertise in Python
+        - [[#robotics|Robotics]], including software and hardware
+        - [[#mechanical-and-electrical-engineering|Mechanical and electrical engineering]], including design and manufacturing
+        - [[#other-skills|Knowledge of LLMs and other AI tools]]
 
 !!! tip "Tools and Technologies"
-    For more details, please see the [list of tools and technologies](tools.md) I have experience with.
+    For more details, please see the [[tools|list of tools and technologies]] I have experience with.
 
 ### Software engineering
 Expert in Python, proficient in multiple programming languages, and experienced in data science and web development.
@@ -78,13 +78,13 @@ Skilled in CAD software, mechanical system simulation, electrical design platfor
 ## Soft skills
 ???+ summary
 
-    - [Adaptability](#adaptability): Experienced in adapting to diverse environments and cultures.
-    - [Communication](#communication-skills): Possesses articulate and effective written and verbal communication skills.
-    - [Interpersonal](#interpersonal-skills): Exhibits patience and understanding when working with or teaching others.
-    - [Critical thinking](#critical-thinking-and-problem-solving): Applies methodical and analytical approach to problem-solving.
-    - [Leadership](#leadership): Experienced in leading teams and projects effectively from planning to execution.
-    - [Organizational](#organizational-skills): Experienced with project management tools and software development best practices.
-    - [Lifelong learning](#lifelong-learning): Enthusiastic about expanding expertise across multiple technical domains.
+    - [[#adaptability|Adaptability]]: Experienced in adapting to diverse environments and cultures.
+    - [[#communication-skills|Communication]]: Possesses articulate and effective written and verbal communication skills.
+    - [[#interpersonal-skills|Interpersonal]]: Exhibits patience and understanding when working with or teaching others.
+    - [[#critical-thinking-and-problem-solving|Critical thinking]]: Applies methodical and analytical approach to problem-solving.
+    - [[#leadership|Leadership]]: Experienced in leading teams and projects effectively from planning to execution.
+    - [[#organizational-skills|Organizational]]: Experienced with project management tools and software development best practices.
+    - [[#lifelong-learning|Lifelong learning]]: Enthusiastic about expanding expertise across multiple technical domains.
 
 ### Adaptability
 

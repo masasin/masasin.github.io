@@ -83,6 +83,9 @@ plugins:
   - search
 #  - awesome-pages
   - macros
+  - obsidian-bridge:
+      invalid_link_attributes:
+        - 'style="color: red"'
   - i18n:
       default_language: en
       material_alternate: false
@@ -154,4 +157,4 @@ extra:
   generator: true  # Support mkdocs material
 copyright: |
   &copy; 2021 &ndash; 2023 <a href="https://github.com/masasin/" target="_blank" rel="noopener">Jean Nassar</a>
-strict: true
+strict: false

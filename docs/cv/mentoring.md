@@ -9,18 +9,18 @@ _2003 &ndash; Present_
     - Taught subjects ranging from math and physics to English and Japanese, as well as Python
 
 ## Mentoring colleagues and students
-I have mentored coworkers in [all of my jobs](work.md)
+I have mentored coworkers in [[work|all of my jobs]]
 in Python and software development best practices.
 This includes 4 years as a senior developer, where I took part in onboarding new hires.
 
 I have received praise for my patience and ability to explain complex concepts effectively.
 In addition to mentoring during code reviews and pair programming sessions, I gave presentations introducing new concepts, techniques, or technologies.
-I have also participated in outreach events, such as the [CodeBar at Adimian](work/adimian.md).
+I have also participated in outreach events, such as the [[adimian|CodeBar at Adimian]].
 
-At [Kyoto University](education/kyoto.md), I led the software development team for [Yozakura](projects/yozakura.md), a teleoperated rescue robot.
+At [[kyoto|Kyoto University]], I led the software development team for [[yozakura|Yozakura]], a teleoperated rescue robot.
 There, I also mentored my teammates in software development and robotics, including the usage of version control.
 
-At the [University of Waterloo](education/waterloo.md), I spent many long hours helping my classmates with projects and assignments,
+At the [[waterloo|University of Waterloo]], I spent many long hours helping my classmates with projects and assignments,
 and tutoring them in subjects that they were weak in.
 
 I also became a mentor to younger students.
@@ -52,6 +52,6 @@ I was acknowledged by name in [his paper](https://aip.scitation.org/doi/pdf/10.1
 
 Since 2019, I have also been teaching Python and Japanese both online and in person.
 
-![Analyzed image](/assets/images/micrograph_analyzed.jpg){: style="width:400px"}
+![[/assets/images/micrograph_analyzed.jpg|Analyzed image]]{: style="width:400px"}
 
 [Book a trial lesson](#){ .md-button .md-button--primary data-cal-link="jnassar/lesson" data-cal-config='{"layout":"week_view"\}'}
