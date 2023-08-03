@@ -14,7 +14,7 @@ They have a pronounced presence in the energy sector and with European instituti
 Their services are tailored to fit both small and large-scale projects across different environments,
 particularly excelling in data engineering and software deployment, underpinned by an unwavering commitment to security and compliance.
 
-![Adimian weekend](/assets/images/adimian_weekend.jpg){: style="width:400px", align=right}
+![[/assets/images/adimian_weekend.jpg|Adimian weekend]]{: style="width:400px", align=right}
 Working on both internal Adimian products and external projects, I was involved in the complete iterative process,
 going from the initial analysis and design, to development and finally deployment and evolutive maintenance.
 All Python code was developed using TDD with pytest.
@@ -27,7 +27,7 @@ I also worked on a governance voting tool used by various energy transmission sy
 The tool had been developed by Adimian using FastAPI, Vue, and VueX,
 and I provided critical support by solving bugs and developing new features at the request of the client.
 
-![Client petanque](/assets/images/client_petanque.jpg){: style="width:400px", align=left}
+![[/assets/images/client_petanque.jpg|Client petanque]]{: style="width:400px", align=left}
 I was dispatched to a Regional Coordination Centre for European TSOs in April 2022.
 My role entailed end-to-end project responsibility, ranging from initial design to final completion,
 followed by proactive and responsive maintenance.

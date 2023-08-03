@@ -9,7 +9,7 @@ _2013 &ndash; 2017_
       including the development of a [[spirit|teleoperation system for drones]] and [[myo|gestural control of robots]].
     - Participated in the [[yozakura|RoboCup Japan Open Rescue League]] multiple times in the teleoperated division.
 
-![Kyoto University 2013 members](/assets/images/2013_matsunoken_members.jpg){: style="width:400px", align=right}
+![[/assets/images/2013_matsunoken_members.jpg|Kyoto University 2013 members]]{: style="width:400px", align=right}
 I was a member of the [Mechatronics Laboratory]{{ urls.edu.matsuno }} at Kyoto University from 2013 to 2017.
 I joined as a research student in 2013 while waiting for the academic term to begin, and enrolled in the Masters program starting in April 2014.
 I graduated in March 2017 with a Master of Engineering degree from the Department of Mechanical Engineering.
@@ -24,11 +24,11 @@ including testing and version control.
 I also participated in the [[yozakura|RoboCup Japan Open Rescue League]] multiple times in the teleoperated division.
 
 Apart from academics, I used the opportunity to explore Japan and its culture.
-For example, I [climbed Mount Fuji](/assets/images/fuji.jpg),
-hiked and biked through mountains and valleys, took part in the [Kyoto Association of Host Families (KAHF)](/assets/images/KAHF.jpg) program,
+For example, I [[/assets/images/fuji.jpg|climbed Mount Fuji]],
+hiked and biked through mountains and valleys, took part in the [[/assets/images/KAHF.jpg|Kyoto Association of Host Families (KAHF)]] program,
 obtained a scholarship from Kiyomizudera Temple, and more.
 
-![Japan Tent 2016](/assets/images/japan_tent.jpg){: style="width:400px", align=right}
+![[/assets/images/japan_tent.jpg|Japan Tent 2016]]{: style="width:400px", align=right}
 I also participated in the 2016 edition of [Japan Tent]{{ urls.activities.japan_tent }}
 (link not accessible from the EU), a program by Ishikawa Prefecture which allows foreign students from across Japan
 to stay with two families in the region.
@@ -84,7 +84,7 @@ and submitted proposals for a safer system.
 We also developed a new product and submitted a (mock) pitch in order to secure funding.
 
 ### Miscellaneous
-![A suitcase which follows its owner](/assets/images/suitcase_robot.jpg){: align=right width=200px }
+![[/assets/images/suitcase_robot.jpg|A suitcase which follows its owner]]{: align=right width=200px }
 At the 2015 OpenHackDay hackathon, which was held over two days at the Yahoo Japan headquarters in Tokyo,
 my team and I made a suitcase which follows its owner over various terrains.
 
