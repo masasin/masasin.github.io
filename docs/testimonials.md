@@ -1,13 +1,16 @@
 # Testimonials
 ???+ summary
+    - [[#eric-gazoni-ceo-at-adimian|Eric Gazoni]] recommends me for my enthusiasm, kindness, dedication, and ability to challenge the status quo while helping others and finding the best solutions to problems.
     - [[#antonio-ferraro-colleague-at-an-adimian-client|Antonio Ferraro]] appreciates my talent, enthusiasm, innovative thinking, and quality Python coding skills, learning a lot from our time together.
     - [[#ann-peeters-coworker-at-adimian|Ann Peeters]] endorses me for my deep knowledge, methodical approach, advanced Git operations expertise, and my dedication to excellence, enjoying our nerdy topic discussions and my continuous learning pace.
     - [[#kenny-van-de-maele-coworker-at-adimian|Kenny Van de Maele]] recommends me for my impressive Python expertise, quick learning, innovative problem-solving skills, and collaborative demeanor, acknowledging my diverse knowledge beyond typical coding.
     - [[#bram-vereertbrugghen-coworker-at-adimian|Bram Vereertbrugghen]] notes my ability to learn quickly, in-depth, and with enthusiasm, appreciating my specialized and well-researched questions and my excitement about new things.
     - [[#sergey-paramonov-coworker-at-sentiance|Sergey Paramonov]] commends my deep knowledge of Python programming and ability to tackle challenging technical problems due to a strong understanding of computer science fundamentals.
 
-## Antonio Ferraro, [[adimian|Colleague at an Adimian client]]
+## Eric Gazoni, [[adimian|CEO at Adimian]]
+I worked with Jean for over two years, and it has been a real pleasure. His enthusiasm and kindness are genuine and contagious. He is not afraid of challenging the status-quo, and works hard to find the best solutions to problems. Jean is a fast, methodical and dedicated engineer, while remaining accessible and taking time for his teammates. Next to being a good professional, I'll dearly miss our long conversations about business, technology, education and AI.
 
+## Antonio Ferraro, [[adimian|Colleague at an Adimian client]]
 Jean is a talented and enthusiastic Python developer, and a very pleasant colleague to work with.
 He is attentive to the innovations in the Python ecosphere, and he is passionate about writing quality Python code, often with clever solutions. 
 I've participated in the selections for Jean at Coreso, and I've learned a lot from him during the period that we worked together.

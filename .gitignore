@@ -2,3 +2,7 @@
 site/
 .idea/
 .venv/
+*.workspace
+archive.zip
+.DS_Store
+.obsidian/
