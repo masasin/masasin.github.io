@@ -47,7 +47,6 @@ makes him a valuable asset to any team.
 I wholeheartedly endorse Jean for his contributions and his unwavering dedication to excellence.
 
 ## Kenny Van de Maele, [[adimian|Coworker at Adimian]]
-
 I am delighted to recommend Jean, a former colleague from our time at Adimian.
 Although our projects were separate, we often engaged in enjoyable technology discussions during our interactions.
 
