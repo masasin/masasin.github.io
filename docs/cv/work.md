@@ -3,6 +3,7 @@ _2009 &ndash; Present_
 ??? summary
     - 10+ years of multidisciplinary experience, including 4 years in a senior role
     - Python and Robotics specialization, with work in industrial automation, data science, web development, and more
+    - [[#software-developer-nipro-digital-technologies-europe|Software Developer]], Nipro Digital Technologies Europe, 2023 &ndash; Present
     - [[#senior-software-engineer-adimian|Senior Software Engineer]], Adimian, 2021 &ndash; 2023
     - [[#senior-python-developer-yieldsio|Senior Python Developer]], Yields.io, 2019 &ndash; 2020
     - [[#industrial-automation-engineer-kapernikov|Industrial Automation Eng.]], Kapernikov, 2019
@@ -15,8 +16,11 @@ and [[#senior-software-engineer-adimian|web development]].
 
 For internships, please see the [[coop|co-op page]].
 
+## Software Developer, [Nipro Digital Technologies Europe]{{ urls.work.ndte }}
+_September 2023 &ndash; Present, Belgium (remote)_
+
 ## [[adimian|Senior Software Engineer]], [Adimian]{{ urls.work.adimian }}
-_January 2021 &ndash; October 2023, Belgium (remote)_
+_January 2021 &ndash; August 2023, Belgium (remote)_
 
 - Took end-to-end project responsibility, including initial design, development, deployment, and maintenance.
 - Developed and maintained a variety of Python applications, including a web-based data management system and a data processing pipeline.

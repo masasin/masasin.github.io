@@ -8,31 +8,30 @@ repo_name: Résumé
 nav:
   - About:
       - About: "index.md"
-      - Hire me: "hiring.md"
       - Testimonials: "testimonials.md"
   - Curriculum Vitae:
-    - CV Overview: "cv.md"
-    - Work Experience:
-      - Work Overview: "cv/work.md"
-      - Senior Software Engineer, Adimian: "cv/work/adimian.md"
-      - Senior Python Developer, Yields.io: "cv/work/yields.md"
-      - Industrial Automation Engineer, Kapernikov: "cv/work/kapernikov.md"
-      - Data Scientist, Sentiance: "cv/work/sentiance.md"
-      - Co-operative education experience: "cv/work/coop.md"
-    - Projects:
-        - Project Overview: "cv/projects.md"
-        - Open Source projects: "cv/projects/open_source.md"
-        - SPIRIT (Masters thesis): "cv/projects/spirit.md"
-        - Yozakura: "cv/projects/yozakura.md"
-        - Gestural Control of Robots: "cv/projects/myo.md"
-        - Undergraduate projects: "cv/projects/undergrad.md"
-    - Education:
-        - Education Overview: "cv/education.md"
-        - University of Waterloo: "cv/education/waterloo.md"
-        - Kyoto University: "cv/education/kyoto.md"
-    - Mentoring Experience: "cv/mentoring.md"
-    - Skills: "cv/skills.md"
-    - Tools and Technologies: "cv/tools.md"
+      - CV Overview: "cv.md"
+      - Work Experience:
+          - Work Overview: "cv/work.md"
+          - Senior Software Engineer, Adimian: "cv/work/adimian.md"
+          - Senior Python Developer, Yields.io: "cv/work/yields.md"
+          - Industrial Automation Engineer, Kapernikov: "cv/work/kapernikov.md"
+          - Data Scientist, Sentiance: "cv/work/sentiance.md"
+          - Co-operative education experience: "cv/work/coop.md"
+      - Projects:
+          - Project Overview: "cv/projects.md"
+          - Open Source projects: "cv/projects/open_source.md"
+          - SPIRIT (Masters thesis): "cv/projects/spirit.md"
+          - Yozakura: "cv/projects/yozakura.md"
+          - Gestural Control of Robots: "cv/projects/myo.md"
+          - Undergraduate projects: "cv/projects/undergrad.md"
+      - Education:
+          - Education Overview: "cv/education.md"
+          - University of Waterloo: "cv/education/waterloo.md"
+          - Kyoto University: "cv/education/kyoto.md"
+      - Mentoring Experience: "cv/mentoring.md"
+      - Skills: "cv/skills.md"
+      - Tools and Technologies: "cv/tools.md"
   - Contact: "contact.md"
 
 theme:
@@ -51,8 +50,8 @@ theme:
       accent: teal
     - scheme: slate
       toggle:
-          icon: material/weather-sunny
-          name: Switch to light mode
+        icon: material/weather-sunny
+        name: Switch to light mode
       primary: indigo
       accent: teal
   font:
@@ -81,7 +80,7 @@ extra_javascript:
 
 plugins:
   - search
-#  - awesome-pages
+  #  - awesome-pages
   - macros
   - obsidian-bridge:
       invalid_link_attributes:
@@ -142,6 +141,8 @@ extra:
       kyoto_u: (https://www.kyoto-u.ac.jp/en/){:target="_blank" rel="noopener"}
       matsuno: (http://www.mechatronics.me.kyoto-u.ac.jp/index.php?ml_lang=en){:target="_blank" rel="noopener"}
     work:
+      ndte: (https://www.nipro-group.com/en/our-company/our-locations/nipro-digital-technologies-europe-belgium){:target="_blank" rel="noopener"}
+      nipro: (https://www.nipro-group.com/){:target="_blank" rel="noopener"}
       adimian: (https://www.adimian.com/){:target="_blank" rel="noopener"}
       yields: (https://www.yields.io/){:target="_blank" rel="noopener"}
       kapernikov: (https://www.kapernikov.com/){:target="_blank" rel="noopener"}
@@ -195,7 +196,7 @@ extra:
       email: (mailto:contact@jnassar.com)
       apprentus: (https://www.apprentus.com/in/jn.masasin){:target="_blank" rel="noopener"}
       cal: (#){data-cal-link="jnassar/call" data-cal-config='{"layout":"week_view"\}'}
-  generator: false  # Support mkdocs material
+  generator: false # Support mkdocs material
 copyright: |
   &copy; 2021 &ndash; 2023 <a href="https://github.com/masasin/" target="_blank" rel="noopener">Jean Nassar</a>.<br />
   This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener">CC-BY-NC-SA 4.0 License</a>.

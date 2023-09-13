@@ -39,7 +39,7 @@ The system also interactively generated a bill of materials.
 That reduced the creation time of 80% of new drawings from hours to around 10 minutes.
 
 ## Junior Project Engineer, [Kevin Quan Studios]{{ urls.work.kqs }}
-_September &ndash; December 2011,  Toronto, ON, Canada (hybrid)_
+_September &ndash; December 2011,  Toronto, ON, Canada (on-site)_
 
 ???+ summary
     - Completed basic and intermediate Solidworks training, including surface modeling.

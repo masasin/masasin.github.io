@@ -2,8 +2,6 @@
     - Senior software engineer with experience in data science, industrial automation, and web development
     - 10+ years of experience in Python, robotics, and more
     - Please see [[cv|my CV]] or [my résumé]{{ urls.cv.pdf }} for details
-    - Currently looking for a [[#hire-me|new full-time opportunity]] in Belgium
-    - EU Blue Card holder; can start on 1 September 2023
     - [Book a call]{{ urls.social.cal }}, or [email me]{{ urls.social.email }} directly
 
 # About me
@@ -12,11 +10,10 @@
 
 Hello! I'm Jean Nassar, and I'm a senior Python and robotics expert with more than 10 years of multidisciplinary experience.
 
-I am currently looking for a [[#hire-me|new full-time opportunity]] in Belgium starting from 1 September 2023.
-
 I have been living in Belgium since 2018, and have worked in multiple fields,
 including [[work#industrial-automation-engineer-kapernikov|industrial automation]],
-[[work#senior-python-developer-yieldsio|data science]], and [[work#senior-software-engineer-adimian|web development]].
+[[work#senior-python-developer-yieldsio|data science]],
+and [[work#senior-software-engineer-adimian|web development]].
 
 As a senior engineer of almost 4 years,
 I have [[mentoring|mentored colleagues]] in software development best practices and nurtured their Python skills.
@@ -41,23 +38,9 @@ learning new [[skills]] and [[skills#languages|languages]], automating processes
 
 Please see [[cv|my CV]] or my [PDF résumé]{{ urls.cv.pdf }} for more details about my experience.
 
-## Hire me
-!!! info inline end "[EU Blue card requirements]{{ urls.jobhunt.blue_card }}"
-    - Minimum 1-year contract, full-time only
-    - Minimum gross salary differs by region
-    - Employer must be in Belgium, or go through a Belgian intermediary/Employer of Record
-
-I am currently looking for a new full-time opportunity in Belgium starting on 1 September 2023.
-
-I live in Antwerp.
-I strongly prefer remote jobs, and may be able to come to the office occasionally.
-I'm also open to other arrangements depending on the type of position.
-
-As a holder of the [EU Blue Card]{{ urls.jobhunt.blue_card }}, I'm equipped to embark on new professional endeavours
-immediately upon fulfillment of employment and visa prerequisites.
 
 ## Contact
-If my experience aligns with your needs, or if you have any questions,
+If you have any questions,
 please don't hesitate to email me at [contact@jnassar.com]{{ urls.social.email }}, or book a call directly.
 I'm always open to new challenges and collaborations.
 

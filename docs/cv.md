@@ -2,8 +2,8 @@
 ??? summary
     - 10+ years of multidisciplinary experience, including 4 years in a senior role
     - Python and Robotics expert, with work in industrial automation, data science, web development, and more
-    - Currently looking for [[hiring|a new full-time opportunity]] in Belgium starting from 1 September
     - [[#work-experience|Work experience]]
+        - [[#software-developer-nipro-digital-technologies-europe|Software Dev.]], Nipro, 2023 &ndash; Present
         - [[#senior-software-engineer-adimian|Senior Software Eng.]], Adimian, 2021 &ndash; 2023
         - [[#senior-python-developer-yieldsio|Senior Python Dev.]], Yields.io, 2019 &ndash; 2020
         - [[#industrial-automation-engineer-kapernikov|Ind. Automation Eng.]], Kapernikov, 2019
@@ -45,16 +45,17 @@ My primary focus is software engineering and interfacing with hardware,
 but I am also strong in mechanical and system design,
 data science, visualization, and web development. 
 
-I am currently looking for a [[hiring|new full-time opportunity]] in Belgium starting from 1 September 2023.
-
 ## [[work|Work Experience]]
 
 I have worked primarily in a software engineering role, with a focus on Python and some robotics.
 I have worked in a variety of fields, including [[#industrial-automation-engineer-kapernikov|industrial automation]],
 [[#senior-python-developer-yieldsio|data science]], and [[#senior-software-engineer-adimian|web development]].
 
+### Software Developer, [Nipro Digital Technologies Europe]{{ urls.work.ndte }}
+_September 2023 &ndash; Present, Belgium (remote)_
+
 ### [[adimian|Senior Software Engineer]], [Adimian]{{ urls.work.adimian }}
-_January 2021 &ndash; October 2023, Belgium (remote)._
+_January 2021 &ndash; August 2023, Belgium (remote)_
 
 - Took end-to-end project responsibility, including initial design, development, deployment, and maintenance.
 - Developed and maintained a variety of Python applications, including a web-based data management system and a data processing pipeline.
@@ -63,7 +64,7 @@ _January 2021 &ndash; October 2023, Belgium (remote)._
 - Mentored colleagues, helping them improve their skills and on-board new team members, to high praise.
 
 ### [[yields|Senior Python Developer]], [Yields.io]{{ urls.work.yields }}
-_December 2019 &ndash; August 2020, Belgium (remote)._
+_December 2019 &ndash; August 2020, Belgium (remote)_
 
 - Worked on the core of the platform as the primary Python developer.
 - Refactored and stabilized the codebase, added thousands of tests, fixed bugs, and developed new features.
@@ -71,7 +72,7 @@ _December 2019 &ndash; August 2020, Belgium (remote)._
 - Moved integration tests away from depending on mocks into tests that worked with a deployed Docker environment.
 
 ### [[kapernikov|Industrial Automation Engineer]], [Kapernikov]{{ urls.work.kapernikov }}
-_March &ndash; October 2019, Brussels, Belgium (hybrid)._
+_March &ndash; October 2019, Brussels, Belgium (hybrid)_
 
 - Developed a monitoring system for a conveyor belt using Python 3 and ROS.
 - Used a laser profiler and camera for object identification and created a 3D representation of the conveyor belt.
@@ -79,7 +80,7 @@ _March &ndash; October 2019, Brussels, Belgium (hybrid)._
 - Fixed bugs in C++ code and created a standalone ROS node for camera communication.
 
 ### [[sentiance|Data Scientist]], [Sentiance]{{ urls.work.sentiance }}
-_February &ndash; January 2019, Antwerp, Belgium (hybrid)._
+_February &ndash; January 2019, Antwerp, Belgium (hybrid)_
 
 - Moved the company’s codebase from Python 2 to Python 3.
 - Refactored core functionality into more modular components

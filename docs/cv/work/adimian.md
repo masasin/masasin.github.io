@@ -1,5 +1,5 @@
 # Senior Software Engineer, [Adimian]{{ urls.work.adimian }}
-_January 2021 &ndash; October 2023, Belgium (remote)_
+_January 2021 &ndash; August 2023, Belgium (remote)_
 
 ???+ summary
 
