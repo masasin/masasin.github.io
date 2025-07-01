@@ -1,6 +1,7 @@
 ???+ summary
     - Senior software engineer with experience in data science, industrial automation, and web development
     - 10+ years of experience in Python, robotics, and more
+    - Available immediately
     - Please see [[cv|my CV]] or [my résumé]{{ urls.cv.pdf }} for details
     - [Book a call]{{ urls.social.cal }}, or [email me]{{ urls.social.email }} directly
 

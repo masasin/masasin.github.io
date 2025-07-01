@@ -70,7 +70,7 @@ Skilled in CAD software, mechanical system simulation, electrical design platfor
 - Proficiency in digital logic design as well as pneumatic and hydraulic circuits.
 
 ### Other Skills
-- Practical experience with several AI tools and packages, with an emphasis on language models.
+- Practical experience with several AI tools and packages, with an emphasis on large language models.
 - Comprehensive knowledge of various operating systems, including Linux, macOS, and Windows.
 - Proficiency in graphic design software.
 - Extensive experience with various office suites and project management tools.

@@ -3,7 +3,7 @@ _2009 &ndash; Present_
 ??? summary
     - 10+ years of multidisciplinary experience, including 4 years in a senior role
     - Python and Robotics specialization, with work in industrial automation, data science, web development, and more
-    - [[#software-developer-nipro-digital-technologies-europe|Software Developer]], Nipro Digital Technologies Europe, 2023 &ndash; Present
+    - [[#software-developer-nipro-digital-technologies-europe|Software Developer]], Nipro Digital Technologies Europe, 2023 &ndash; 2025
     - [[#senior-software-engineer-adimian|Senior Software Engineer]], Adimian, 2021 &ndash; 2023
     - [[#senior-python-developer-yieldsio|Senior Python Developer]], Yields.io, 2019 &ndash; 2020
     - [[#industrial-automation-engineer-kapernikov|Industrial Automation Eng.]], Kapernikov, 2019
@@ -17,7 +17,11 @@ and [[#senior-software-engineer-adimian|web development]].
 For internships, please see the [[coop|co-op page]].
 
 ## Software Developer, [Nipro Digital Technologies Europe]{{ urls.work.ndte }}
-_September 2023 &ndash; Present, Belgium (remote)_
+_September 2023 &ndash; June 2025, Brugge, Belgium (hybrid)_
+
+- Designed and developed new features and fixed bugs in the [[https://www.nipro-group.com/en/our-offer/products-services/nephroflowtm-product-suite|NephroFlow]] dialysis management application using Ruby on Rails and PostgreSQL
+- Implemented functionality across various modules, including regulatory reporting, dialysis prescription management, authentication, user and patient management, support for configurable units, and more
+- Collaborated with the team to triage and resolve bugs, tackle technical debt, and actively participate in the release process, including testing, documentation, and monitoring
 
 ## [[adimian|Senior Software Engineer]], [Adimian]{{ urls.work.adimian }}
 _January 2021 &ndash; August 2023, Belgium (remote)_
@@ -45,7 +49,7 @@ _March &ndash; October 2019, Brussels, Belgium (hybrid)_
 - Fixed bugs in C++ code and created a standalone ROS node for camera communication.
 
 ## [[sentiance|Data Scientist]], [Sentiance]{{ urls.work.sentiance }}
-_February &ndash; January 2019, Antwerp, Belgium (hybrid)_
+_February &ndash; December 2018, Antwerp, Belgium (hybrid)_
 
 - Moved the company’s codebase from Python 2 to Python 3.
 - Refactored core functionality into more modular components

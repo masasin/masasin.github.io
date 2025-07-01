@@ -1,9 +1,5 @@
 # Hiring
 
-!!! warning
-    I am not currently looking for a new job.
-    This page is retained for reference.
-
 Please see [[cv|my CV]] for more details about my experience.
 
 I live in Antwerp.

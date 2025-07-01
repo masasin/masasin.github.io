@@ -21,7 +21,7 @@ The documentation for some projects is available on [readthedocs.org]{{ urls.pro
 - [spirit]{{ urls.projects.spirit }}: Masters research code, data analysis, and thesis
 - [yozakura]{{ urls.projects.yozakura }}: Code for Yozakura teleoperated robot
 - [dynamixel]{{ urls.projects.dynamixel }}: A pythonic library for working with Dynamixel servos
-- [resume]{{ urls.projects.resume }} (118 stars): A CV and cover letter generator, used for the CV I submitted
+- [resume]{{ urls.projects.resume }} (126 stars): A CV and cover letter generator, used for the CV I submitted
 - Advent of Code [2021]{{ urls.projects.aoc2021 }} and [2022]{{ urls.projects.aoc2022 }}: My solutions to the Advent of Code challenges
 - [gilded-rose]{{ urls.projects.gilded_rose }}: A Python implementation of the Gilded Rose kata
 - [naca_airfoil_generator]{{ urls.projects.naca_airfoil_generator }}: An interactive 4-digit NACA airfoil generated, based on the one I wrote for [[coop#junior-project-engineer-kevin-quan-studios|Kevin Quan Studios]].

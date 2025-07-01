@@ -7,7 +7,7 @@ _2008 &ndash; Present_
     - [[#gestural-control-of-robots|Gestural control of robots]]: Infrastructure for controlling robots with gestures
     - [[#open-source-projects|Open source projects]]
         - Two packages on PyPI, including [latexipy]{{ urls.projects.latexipy }} (129 stars) for exporting Matplotlib-based plots into native LaTeX
-        - Many repositories on GitHub, including [resume]{{ urls.projects.resume }} (118 stars) and AoC [2021]{{ urls.projects.aoc2021 }}, [2022]{{ urls.projects.aoc2022 }}
+        - Many repositories on GitHub, including [resume]{{ urls.projects.resume }} (126 stars) and AoC [2021]{{ urls.projects.aoc2021 }}, [2022]{{ urls.projects.aoc2022 }}
         - Contributions to major and minor open source projects, including numpy, ROS, and more
     - [[#university-of-waterloo-projects|Course projects]] from the University of Waterloo
 

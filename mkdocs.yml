@@ -198,6 +198,6 @@ extra:
       cal: (#){data-cal-link="jnassar/call" data-cal-config='{"layout":"week_view"\}'}
   generator: false # Support mkdocs material
 copyright: |
-  &copy; 2021 &ndash; 2023 <a href="https://github.com/masasin/" target="_blank" rel="noopener">Jean Nassar</a>.<br />
+  &copy; 2021 &ndash; 2025 <a href="https://github.com/masasin/" target="_blank" rel="noopener">Jean Nassar</a>.<br />
   This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener">CC-BY-NC-SA 4.0 License</a>.
 strict: false
