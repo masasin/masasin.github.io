@@ -6,3 +6,4 @@ site/
 archive.zip
 .DS_Store
 .obsidian/
+__pycache__
