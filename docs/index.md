@@ -16,7 +16,7 @@ including [[work#industrial-automation-engineer-kapernikov|industrial automation
 [[work#senior-python-developer-yieldsio|data science]],
 and [[work#senior-software-engineer-adimian|web development]].
 
-As a senior engineer of almost 4 years,
+As a senior engineer of more than 5 years,
 I have [[mentoring|mentored colleagues]] in software development best practices and nurtured their Python skills.
 I have received praise for my patience and ability to explain complex topics effectively.
 
