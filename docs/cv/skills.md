@@ -1,4 +1,5 @@
 # Skills
+
 ???+ summary
 
     - [[#technical-skills|Technical skills]]:
@@ -29,6 +30,7 @@ ranging from [[#technical-skills|technical skills]] to [[#soft-skills|soft skill
 Each skill has been put into practice in various projects, academic studies, and professional roles.
 
 ## Technical skills
+
 ???+ summary
 
     - [[#technical-skills|Technical skills]]:
@@ -41,6 +43,7 @@ Each skill has been put into practice in various projects, academic studies, and
     For more details, please see the [[tools|list of tools and technologies]] I have experience with.
 
 ### Software engineering
+
 Expert in Python, proficient in multiple programming languages, and experienced in data science and web development.
 
 - Proficiency in a wide range of programming languages, with a specialization in Python.
@@ -54,7 +57,7 @@ Expert in Python, proficient in multiple programming languages, and experienced 
 ### Robotics
 
 Proficient in robotic software development and experienced in working with a variety of hardware.
-    
+
 - Proficiency in developing robotic applications using Python, ROS, C++, and C.
 - Hands-on experience with various robotic hardware, including robotic arms and drones.
 - Experience in developing drivers for hardware interfaces, including sensors and actuators.
@@ -70,12 +73,14 @@ Skilled in CAD software, mechanical system simulation, electrical design platfor
 - Proficiency in digital logic design as well as pneumatic and hydraulic circuits.
 
 ### Other Skills
+
 - Practical experience with several AI tools and packages, with an emphasis on large language models.
 - Comprehensive knowledge of various operating systems, including Linux, macOS, and Windows.
 - Proficiency in graphic design software.
 - Extensive experience with various office suites and project management tools.
 
 ## Soft skills
+
 ???+ summary
 
     - [[#adaptability|Adaptability]]: Experienced in adapting to diverse environments and cultures.
@@ -128,6 +133,7 @@ Skilled in CAD software, mechanical system simulation, electrical design platfor
 - Continuously seeks opportunities to improve skills and learn new technologies.
 
 ## Languages
+
 ???+ summary
 
     - Native English and French

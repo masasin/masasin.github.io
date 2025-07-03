@@ -1,4 +1,5 @@
 # Data Scientist, [Sentiance]{{ urls.work.sentiance }}
+
 _February &ndash; December 2018, Antwerp, Belgium (hybrid)_
 
 ???+ summary

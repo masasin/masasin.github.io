@@ -1,4 +1,5 @@
 # Yozakura
+
 _2014 &ndash; 2015, [[kyoto|Kyoto University]]_
 
 ???+ summary
@@ -24,7 +25,6 @@ as well as drivers for various controllers.
 (This was eventually superseded by an rviz interface which used the same controller driver.)
 
 ![[/assets/images/yozakura_clean.jpg|Yozakura]]{: style="width:300px", align=left}
-
 
 I also wrote most of the code for the onboard Raspberry Pi and mbed chips,
 as well as I2C drivers for current sensors and a 10-DOF IMU,

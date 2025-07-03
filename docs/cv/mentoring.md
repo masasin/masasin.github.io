@@ -1,4 +1,5 @@
 # Mentoring Experience
+
 _2003 &ndash; Present_
 
 ???+ summary
@@ -9,6 +10,7 @@ _2003 &ndash; Present_
     - Taught subjects ranging from math and physics to English and Japanese, as well as Python
 
 ## Mentoring colleagues and students
+
 I have mentored coworkers in [[work|all of my jobs]]
 in Python and software development best practices.
 This includes 4 years as a senior developer, where I took part in onboarding new hires.
@@ -31,8 +33,8 @@ In addition, I helped many people with personal problems ranging from relationsh
 In 2012 and 2013, I was shadowed by two international exchange students, and helped them integrate into Canada and the university.
 I also taught beginner and intermediate Japanese courses as a volunteer with the [University of Waterloo Culture and Language Exchange Club]{{ urls.activities.uwclec }}.
 
-
 ## Private tutor
+
 I started tutoring in middle school, when I helped a neighbour pass his national exam.
 
 While living in Japan, I taught English to Japanese students, Japanese to foreign students,
@@ -54,4 +56,4 @@ Since 2019, I have also been teaching Python and Japanese both online and in per
 
 ![[/assets/images/micrograph_analyzed.jpg|Analyzed image]]{: style="width:400px"}
 
-[Book a trial lesson](#){ .md-button .md-button--primary data-cal-link="jnassar/lesson" data-cal-config='{"layout":"week_view"\}'}
+[Book a trial lesson](#){ .md-button .md-button--primary data-cal-link="jnassar/lesson" data-cal-config='{"layout":"week_view"\}'} <!-- markdownlint-disable-line MD042 -->

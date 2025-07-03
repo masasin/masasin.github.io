@@ -1,4 +1,5 @@
 # Undergraduate projects
+
 _2008 &ndash; 2013, [[waterloo|University of Waterloo]]_
 
 ???+ summary
@@ -24,6 +25,7 @@ I had five or six courses per academic term, for 42 courses total. Most of these
 Below are the most notable ones, broadly arranged by theme.
 
 ## Mechatronics
+
 In the _Mechatronics Engineering_ course, we designed objects using Unigraphics NX, and built a line-following robot using LEGO Mindstorms.
 For our _Sensors and Instrumentation_ course, we built a similar robot,
 choosing component values and designing circuits with e.g. operational amplifiers, populating the PCBs ourselves, and programming the microcontroller.
@@ -47,8 +49,8 @@ A mechanical pump provided pressure to allow the filter to be used on the go.
 The trailer was designed to carry 20 L of water in two tanks separated by the filter.
 I designed the mechanical portion in Solidworks, and helped with the manufacturing and building process.
 
-
 ## Mechanical engineering
+
 We designed a small bridge for _Statics_ while operating under budget constraints,
 and designed and built a crane boom truss using balsa wood for _Mechanics of Deformable Solids_, competing for maximum weight capacity.
 
@@ -58,11 +60,13 @@ and identified the optimal locations of various physical connections.
 In _Electromechanical Machine Design_, we designed machines in Solidworks, and performed Finite Element Analysis.
 
 ## Electrical engineering
+
 For my _Introduction to Microprocessors and Digital Logic_ course, we used Karnaugh maps and boolean algebra to simplify complicated states,
 and designed digital logic circuits that implemented them.
 Our final project was a PLC traffic light controller as an introduction to ladder logic.
 
 ## Computer engineering
+
 In _Microprocessor Systems and Interfacing_, we made an MP3 player with speed and direction control,
 as well as song selection and wav file reading, used an Altera DE2 FPGA.
 Interrupts (e.g., using buttons) were handled appropriately.
@@ -71,6 +75,7 @@ For my _Introduction to Computer Structures and Real Time Systems_ course,
 I designed and implemented a real-time operating system in C.
 
 ## Controls
+
 For my _Automatic Control Systems_ course, we used Matlab and Simulink to perform position control of a flexible drive.
 
 In _Fluid Power Control Systems_, I used hydraulic and pneumatic circuits to control machines,
@@ -87,10 +92,12 @@ The system was described and modeled with a bond graph, from which state equatio
 The outputs of the system were also simulated in Matlab for comparison against observed physical behavior.
 
 ## Bioengineering
+
 For my _Human Signal Processing_ course, we captured, amplified, and processed myoelectric signals in order to controla robotic arm.
 We had to recalibrate every time we changed the position of the pads.
 
 ## Mathematics
+
 In my _Statistics_ course, we worked on process control, regression models, and factorial experiment design.
 
 In my _Ordinary Differential Equations_ course, we simulated a spring-mass system and a spring-mass-damper system.
@@ -101,5 +108,6 @@ In my _Advanced Calculus_ course, I used Mathlab and Maple for various projects,
 including calculating the usable volume of a tank being crossed by other pipes.
 
 ## Entrepreneurship
+
 In my _Technical Entrepreneurship_ course, we went through the steps of developing a new business idea,
 from market research to proposal forming, to pitching the idea to “investors.”

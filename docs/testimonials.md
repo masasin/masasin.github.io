@@ -1,4 +1,5 @@
 # Testimonials
+
 ???+ summary
     - [[#eric-gazoni-ceo-at-adimian|Eric Gazoni]] recommends me for my enthusiasm, kindness, dedication, and ability to challenge the status quo while helping others and finding the best solutions to problems.
     - [[#antonio-ferraro-colleague-at-an-adimian-client|Antonio Ferraro]] appreciates my talent, enthusiasm, innovative thinking, and quality Python coding skills, learning a lot from our time together.
@@ -8,14 +9,17 @@
     - [[#sergey-paramonov-coworker-at-sentiance|Sergey Paramonov]] commends my deep knowledge of Python programming and ability to tackle challenging technical problems due to a strong understanding of computer science fundamentals.
 
 ## Eric Gazoni, [[adimian|CEO at Adimian]]
+
 I worked with Jean for over two years, and it has been a real pleasure. His enthusiasm and kindness are genuine and contagious. He is not afraid of challenging the status-quo, and works hard to find the best solutions to problems. Jean is a fast, methodical and dedicated engineer, while remaining accessible and taking time for his teammates. Next to being a good professional, I'll dearly miss our long conversations about business, technology, education and AI.
 
 ## Antonio Ferraro, [[adimian|Colleague at an Adimian client]]
+
 Jean is a talented and enthusiastic Python developer, and a very pleasant colleague to work with.
-He is attentive to the innovations in the Python ecosphere, and he is passionate about writing quality Python code, often with clever solutions. 
+He is attentive to the innovations in the Python ecosphere, and he is passionate about writing quality Python code, often with clever solutions.
 I've participated in the selections for Jean at Coreso, and I've learned a lot from him during the period that we worked together.
 
 ## Ann Peeters, [[adimian|Coworker at Adimian]]
+
 ??? summary
     I’ve had the pleasure of working with Jean Nassar in the role of a senior Python developer.
     His deep knowledge, methodical approach, and enthusiasm were particularly evident when pair programming or debugging together.
@@ -47,6 +51,7 @@ makes him a valuable asset to any team.
 I wholeheartedly endorse Jean for his contributions and his unwavering dedication to excellence.
 
 ## Kenny Van de Maele, [[adimian|Coworker at Adimian]]
+
 I am delighted to recommend Jean, a former colleague from our time at Adimian.
 Although our projects were separate, we often engaged in enjoyable technology discussions during our interactions.
 
@@ -64,12 +69,14 @@ Without reservation, I wholeheartedly recommend Jean for any opportunities that 
 He would be a valuable addition to any organization, and I am confident in his ability to excel and make significant contributions.
 
 ## Bram Vereertbrugghen, [[adimian|Coworker at Adimian]]
+
 Haven't worked with Jean closely, but from my experience he learns quickly, in-depth, and with enthusiasm.
 Questions taht come up are always specialized and well-researched, showing clear knowledge of the background of the topic.
 He's excited about learning new things and making personal connections.
 A great member of the team.
 
 ## Sergey Paramonov, [[sentiance|Coworker at Sentiance]]
+
 It was great meeting and working with Jean at Sentiance.
 During our time there he has demonstrated that he has a deep knowledge of Python programming
 and can always tackle even the most challenging technical problems due to his deep understanding of computer science fundamentals.

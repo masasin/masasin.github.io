@@ -1,4 +1,5 @@
 # SPIRIT (Masters thesis)
+
 _2015 &ndash; 2017, [[kyoto|Kyoto University]]_
 
 ???+ summary
@@ -18,12 +19,11 @@ and the boundaries of the drone are not visible in the first-person view (FPV) f
 especially with a monocular camera.
 In addition, signal quality may be degraded due to structural materials, leading to a bad or spotty connection.
 
-
 Building upon previous work of the [Mechatronics lab]{{ urls.edu.matsuno }}
 on the use of Past Image Records for teleoperation, mobile manipulators, and narrow communication bands,
 I created a third-person view interface for controlling an AR.Drone, primarily using Python and ROS.
 A CGI version of the drone was superimposed on top of an actual image taken by the FPV camera earlier,
-which contains the current position of the drone. 
+which contains the current position of the drone.
 
 ![[/assets/images/spirit.png|SPIRIT interface]]{: style="width:400px", align=right}
 

@@ -1,4 +1,5 @@
 # Co-operative education experience
+
 ???+ summary
 
     Six 4-month co-op terms in 3 countries over 2 years.
@@ -15,7 +16,8 @@ Each co-op is normally a four-month-long remunerated full-time position, which a
 I was fortunate enough to be part of this program, and I did six work terms in three countries over a total of two years.
 
 ## Design Engineer, [Starquip Integrated Systems]{{ urls.work.starquip }}
-_May to August 2012, Toronto, ON, Canada (on-site)_
+
+_May to August 2012, Toronto, ON, Canada (on-site)_  # MD009
 
 ???+ summary
     - Assisted in the mechanical design of pneumatic lift-assist devices using Solidworks.
@@ -39,6 +41,7 @@ The system also interactively generated a bill of materials.
 That reduced the creation time of 80% of new drawings from hours to around 10 minutes.
 
 ## Junior Project Engineer, [Kevin Quan Studios]{{ urls.work.kqs }}
+
 _September &ndash; December 2011,  Toronto, ON, Canada (on-site)_
 
 ???+ summary
@@ -57,6 +60,7 @@ which I used in order to perform 2D and 3D CFD analysis in Solidworks.
 I determined the optimum configuration for several racing bicycles, and designed tooling molds and parts.
 
 ## Hardware Associate, [IMS]{{ urls.work.ims }}
+
 _January &ndash; April 2011, Waterloo, ON, Canada (on-site)_
 
 ???+ summary
@@ -74,6 +78,7 @@ I provided general assistance to lead design engineers,
 and investigated self-resonance in inductors in order to enhance the accuracy of test results.
 
 ## Research Assistant, [Multiscale Additive Manufacturing Lab]{{ urls.work.msam }}
+
 _May &ndash; September 2010, University of Waterloo, Waterloo, ON, Canada (hybrid)_
 
 ???+ summary
@@ -94,6 +99,7 @@ The workstation was used to produce 3D scaffolds for the regrowth of bone and ca
 I also performed image processing on scanning electron micrographs using Octave.
 
 ## Research Assistant, [Computer Vision and Mobile Robotics Lab]{{ urls.work.vrlab }}
+
 _September &ndash; December 2009, American University of Beirut, Beirut, Lebanon (hybrid)_
 
 ???+ summary
@@ -113,6 +119,7 @@ During my internship, I audited a fourth-year robotics class, and designed digit
 I also programmed a PIC-16 in C and assembly, and used an external debugger.
 
 ## Engineer in Training, [Sierra Construction Systems]{{ urls.work.scs }}
+
 _January &ndash; April 2009, Freetown, Sierra Leone (hybrid)_
 
 ???+ summary

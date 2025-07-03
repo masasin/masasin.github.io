@@ -1,11 +1,11 @@
+# About me
+
 ???+ summary
     - Senior software engineer with experience in data science, industrial automation, and web development
     - 10+ years of experience in Python, robotics, and more
     - Available immediately
     - Please see [[cv|my CV]] or [my résumé]{{ urls.cv.pdf }} for details
     - [Book a call]{{ urls.social.cal }}, or [email me]{{ urls.social.email }} directly
-
-# About me
 
 ![Jean Nassar (Obligatory photo)](/assets/images/jean.png){: style="width:200px;border-radius: 50%", align="left"}
 
@@ -29,7 +29,6 @@ with projects such as:
 - [[yozakura|Yozakura]], a teleoperated robot for the Rescue League at the RoboCup Japan Open
 - [[myo|Gestural Control of Robots]], infrastructure for controlling robots with gestures and other modalities
 
-
 I did my [[waterloo|Bachelors of Applied Sciences in Honours Mechatronics Engineering]]
 at the University of Waterloo in Canada, including [[coop|six co-operative education terms]] at various companies around the world.
 
@@ -39,14 +38,14 @@ learning new [[skills]] and [[skills#languages|languages]], automating processes
 
 Please see [[cv|my CV]] or my [PDF résumé]{{ urls.cv.pdf }} for more details about my experience.
 
-
 ## Contact
+
 If you have any questions,
 please don't hesitate to email me at [contact@jnassar.com]{{ urls.social.email }}, or book a call directly.
 I'm always open to new challenges and collaborations.
 
 [Email me](mailto:contact@jnassar.com){ .md-button .md-button--primary }
-[Book a short call](#){ .md-button .md-button--primary data-cal-link="jnassar/call" data-cal-config='{"layout":"week_view"\}'}
-[Book a longer meeting](#){ .md-button .md-button--primary data-cal-link="jnassar/meeting" data-cal-config='{"layout":"week_view"\}'}
+[Book a short call](#){ .md-button .md-button--primary data-cal-link="jnassar/call" data-cal-config='{"layout":"week_view"\}'} <!-- markdownlint-disable-line MD042 -->
+[Book a longer meeting](#){ .md-button .md-button--primary data-cal-link="jnassar/meeting" data-cal-config='{"layout":"week_view"\}'} <!-- markdownlint-disable-line MD042 -->
 
 You can also find me on [GitHub]{{ urls.social.github }} and [LinkedIn]{{ urls.social.linkedin }}.

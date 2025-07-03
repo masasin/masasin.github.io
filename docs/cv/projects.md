@@ -1,4 +1,5 @@
 # Projects
+
 _2008 &ndash; Present_
 
 ???+ summary
@@ -16,9 +17,11 @@ showcasing my versatility and capacity for innovation.
 Below is a selection of some of the most significant projects I've worked on.
 
 ## [[kyoto#highlighted-projects|Robotics projects]]
+
 Highlighted robotics projects from my time at Kyoto University include:
 
 ### [[spirit|SPIRIT]]
+
 _2015 &ndash; 2017_
 
 - Masters thesis project at Kyoto University, developing a third-person view interface for controlling a monocular drone.
@@ -27,6 +30,7 @@ _2015 &ndash; 2017_
   which showed a large improvement in many metrics, even with a 2 Hz transmission rate.
 
 ### [[yozakura|Yozakura]]
+
 _2014 &ndash; 2015_
 
 - Led the software development team for the Yozakura teleoperated rescue robot at Kyoto University's Mechatronics Lab.
@@ -36,14 +40,15 @@ _2014 &ndash; 2015_
   and operator errors of various types, and correcting them where necessary.
 
 ### [[myo|Gestural control of robots]]
+
 _2014 &ndash; 2015_
 
 - Initial research project at Kyoto University aimed at developing infrastructure to allow ergonomic control of robots using gestures.
 - Designed and developed infrastructure that abstracted away the interface used by using an API,
   with a proof of concept using the Myo armband from Thalmic Labs to control robots.
 
-
 ## [[open_source|Open source projects]]
+
 _2008 &ndash; Present_
 
 - Two packages on PyPI, including [latexipy]{{ urls.projects.latexipy }} (129 stars) for exporting Matplotlib-based plots into native LaTeX.
@@ -52,6 +57,7 @@ _2008 &ndash; Present_
 - Contributions to major and minor open source projects, including numpy, ROS, and more.
 
 ## [[undergrad|University of Waterloo projects]]
+
 _2008 &ndash; 2013_
 
 Details of my projects during my time at the University of Waterloo can be found at the [[undergrad|undergraduate projects]] page.

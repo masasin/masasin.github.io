@@ -1,4 +1,5 @@
 # Kyoto University
+
 _2013 &ndash; 2017_
 
 ???+ summary
@@ -35,7 +36,9 @@ to stay with two families in the region.
 I was selected as a Japan Tent ambassador for the year thanks to my Japanese ability.
 
 ## Highlighted projects
+
 ### Spirit
+
 As part of a master's thesis at Kyoto University from 2015 to 2017,
 I developed [[spirit|SPIRIT (Subimposed Past Image Records Implemented for Teleoperation)]].
 
@@ -49,6 +52,7 @@ Moreover, SPIRIT showcased a flexible, well-documented code structure,
 allowing for modifications and enhancements via its evaluation functions.
 
 ### Yozakura
+
 During 2014 and 2015, [[yozakura|Yozakura]], a teleoperated rescue robot, was developed as part of the
 Kyoto University Mechatronics Lab's SHINOBI team.
 
@@ -61,6 +65,7 @@ The software was also designed with robustness and adaptability in mind,
 logging critical data, providing useful error messages, and being capable of self-correction when possible.
 
 ### Gestural control of robots
+
 Between 2014 and 2015 at Kyoto University, I developed a [[myo|gesture-based robotic control system]],
 leveraging the Myo armband from Thalmic labs.
 The main focus of this project was to establish an intuitive, ergonomic method of controlling robots,
@@ -71,6 +76,7 @@ the project succeeded in laying the groundwork for a system that abstracted away
 potentially enabling control via computer vision or other input sources.
 
 ### Course projects
+
 In the _Design and Manufacturing Engineering_ course, I wrote a routing algorithm for a CNC.
 
 For the _Dynamic System Control Theory_ course,
@@ -84,30 +90,37 @@ and submitted proposals for a safer system.
 We also developed a new product and submitted a (mock) pitch in order to secure funding.
 
 ### Miscellaneous
+
 ![[/assets/images/suitcase_robot.jpg|A suitcase which follows its owner]]{: align=right width=200px }
 At the 2015 OpenHackDay hackathon, which was held over two days at the Yahoo Japan headquarters in Tokyo,
 my team and I made a suitcase which follows its owner over various terrains.
 
 ## Course list
+
 ### Robotics and Controls
+
 - Robotics
 - Dynamic system control theory
 
 ### Physics and Thermodynamics
+
 - Dynamics of atomic systems
 - Thermal science and engineering
 - Thermophysics for thermal engineering
 - High energy radiation effects in solids
 
 ### Biomedical engineering
+
 - Biomechanics
 - Introduction to biomedical engineering
 
 ### Technical engineering and Design
+
 - Design and manufacturing engineering
 - High precision engineering
 - Applied numerical methods
 - Finite element methods
 
 ### Engineering ethics and Management
+
 - Engineering ethics and management of technology

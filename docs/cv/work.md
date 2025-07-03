@@ -1,4 +1,5 @@
 # Work Experience
+
 _2009 &ndash; Present_
 ??? summary
     - 10+ years of multidisciplinary experience, including 4 years in a senior role
@@ -17,6 +18,7 @@ and [[#senior-software-engineer-adimian|web development]].
 For internships, please see the [[coop|co-op page]].
 
 ## Software Developer, [Nipro Digital Technologies Europe]{{ urls.work.ndte }}
+
 _September 2023 &ndash; June 2025, Brugge, Belgium (hybrid)_
 
 - Designed and developed new features and fixed bugs in the [[https://www.nipro-group.com/en/our-offer/products-services/nephroflowtm-product-suite|NephroFlow]] dialysis management application using Ruby on Rails and PostgreSQL
@@ -24,6 +26,7 @@ _September 2023 &ndash; June 2025, Brugge, Belgium (hybrid)_
 - Collaborated with the team to triage and resolve bugs, tackle technical debt, and actively participate in the release process, including testing, documentation, and monitoring
 
 ## [[adimian|Senior Software Engineer]], [Adimian]{{ urls.work.adimian }}
+
 _January 2021 &ndash; August 2023, Belgium (remote)_
 
 - Took end-to-end project responsibility, including initial design, development, deployment, and maintenance.
@@ -33,6 +36,7 @@ _January 2021 &ndash; August 2023, Belgium (remote)_
 - Mentored colleagues, helping them improve their skills and on-board new team members, to high praise.
 
 ## [[yields|Senior Python Developer]], [Yields.io]{{ urls.work.yields }}
+
 _December 2019 &ndash; August 2020, Belgium (remote)_
 
 - Worked on the core of the platform as the primary Python developer.
@@ -41,6 +45,7 @@ _December 2019 &ndash; August 2020, Belgium (remote)_
 - Moved integration tests away from depending on mocks into tests that worked with a deployed Docker environment.
 
 ## [[kapernikov|Industrial Automation Engineer]], [Kapernikov]{{ urls.work.kapernikov }}
+
 _March &ndash; October 2019, Brussels, Belgium (hybrid)_
 
 - Developed a monitoring system for a conveyor belt using Python 3 and ROS.
@@ -49,6 +54,7 @@ _March &ndash; October 2019, Brussels, Belgium (hybrid)_
 - Fixed bugs in C++ code and created a standalone ROS node for camera communication.
 
 ## [[sentiance|Data Scientist]], [Sentiance]{{ urls.work.sentiance }}
+
 _February &ndash; December 2018, Antwerp, Belgium (hybrid)_
 
 - Moved the company’s codebase from Python 2 to Python 3.

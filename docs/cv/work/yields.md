@@ -1,4 +1,5 @@
 # Senior Python Developer, [Yields.io]{{ urls.work.yields }}
+
 _December 2019 &ndash; August 2020, Brussels, Belgium (remote)_
 
 ???+ summary

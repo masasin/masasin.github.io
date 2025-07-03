@@ -21,7 +21,7 @@ please don't hesitate to email me at [contact@jnassar.com]{{ urls.social.email }
 I'm always open to new challenges and collaborations.
 
 [Email me](mailto:contact@jnassar.com){ .md-button .md-button--primary }
-[Book a short call](#){ .md-button .md-button--primary data-cal-link="jnassar/call" data-cal-config='{"layout":"week_view"\}'}
-[Book a longer meeting](#){ .md-button .md-button--primary data-cal-link="jnassar/meeting" data-cal-config='{"layout":"week_view"\}'}
+[Book a short call](#){ .md-button .md-button--primary data-cal-link="jnassar/call" data-cal-config='{"layout":"week_view"\}'} <!-- markdownlint-disable-line MD042 -->
+[Book a longer meeting](#){ .md-button .md-button--primary data-cal-link="jnassar/meeting" data-cal-config='{"layout":"week_view"\}'} <!-- markdownlint-disable-line MD042 -->
 
 You can also find me on [GitHub]{{ urls.social.github }} and [LinkedIn]{{ urls.social.linkedin }}.
