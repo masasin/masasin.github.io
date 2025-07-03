@@ -71,7 +71,7 @@ He would be a valuable addition to any organization, and I am confident in his a
 ## Bram Vereertbrugghen, [[adimian|Coworker at Adimian]]
 
 Haven't worked with Jean closely, but from my experience he learns quickly, in-depth, and with enthusiasm.
-Questions taht come up are always specialized and well-researched, showing clear knowledge of the background of the topic.
+Questions that come up are always specialized and well-researched, showing clear knowledge of the background of the topic.
 He's excited about learning new things and making personal connections.
 A great member of the team.
 
