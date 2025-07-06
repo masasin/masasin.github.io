@@ -101,13 +101,13 @@ Skilled in CAD software, mechanical system simulation, electrical design platfor
 ### Communication skills
 
 - Possesses articulate and effective written and verbal communication skills, including technical writing and presentations.
-- Skilled in communicating complex technical concepts clearly and simply.
+- Skilled at communicating complex technical concepts clearly and simply.
 
 ### Interpersonal skills
 
 - Proven mentorship, coaching, and teaching skills with experience guiding colleagues to improve and learn.
-- Exhibits patience and understanding when explaining concepts, working with, or teaching others.
-- Values and excels in cross-functional collaboration.
+- Exhibits patience and understanding when explaining concepts, working with, or mentoring others.
+- Values and excels at cross-functional collaboration.
 
 ### Critical thinking and Problem-solving
 
@@ -117,7 +117,7 @@ Skilled in CAD software, mechanical system simulation, electrical design platfor
 
 ### Leadership
 
-- Experienced in leading teams and projects effectively from planning to execution.
+- Experienced at leading teams and projects effectively from planning to execution.
 - Proactively identifies issues and proposes solutions.
 - Passionate about continuous improvement processes.
 
@@ -136,9 +136,9 @@ Skilled in CAD software, mechanical system simulation, electrical design platfor
 
 ???+ summary
 
-    - Native English and French
+    - Native English, French, and Lebanese
+    - Advanced Japanese and Arabic
     - Intermediate Dutch
-    - Advanced Japanese
     - Many other languages
 
 Learning languages is a hobby of mine,
@@ -153,15 +153,7 @@ I have accumulated quite a few over the years.
 - **Lebanese:** Native.
 - **Spanish:** Conversational.
 
-The rest of these languages are at a beginner level.
-I am currently improving at some:
+These languages are at a beginner level.
 
 - **German:** Can read easy books and listen to some podcasts etc.
 - **Italian:** Can read recipes and understand some videos etc.
-
-While others are on pause:
-
-- Hebrew
-- Korean
-- Mandarin
-- Russian

@@ -3,12 +3,12 @@
 ???+ summary
 
     - [[#software-engineering|Programming languages]]: Python, Ruby, Javascript, C++, bash
-    - [[#software-engineering|Development]]: Git, CI/CD, Docker, documentation (Sphinx, mkdocs), testing (pytest)
+    - [[#software-engineering|Development]]: Git, CI/CD, Docker, documentation (Sphinx, mkdocs), testing (pytest, RSpec)
     - [[#data-science|Data science]]: Jupyter, SciPy stack, pandas, scikit-learn, SymPy, Matplotlib, Seaborn, Plotly, Streamlit
     - [[#web-development|Web development]]: Python (FastAPI, Pydantic), Ruby (Ruby on Rails), Javascript (Vue), HTML, CSS, SQLAlchemy, PostgreSQL
     - [[#robotics|Robotics]]: ROS stack; various microcontrollers, boards, sensors, and actuators
     - [[#electrical-engienering|Hardware]]: Raspberry Pi, ESP family, Arduino, mbed; MicroPython, CircuitPython, C++, C
-    - [[#mechanical-engineering|Mechanical]]: Solidworks, Autodesk Inventor, OpenSCAD; design, analysis, simulation, and manufacturing
+    - [[#mechanical-engineering|Mechanical]]: Solidworks, OnShape, OpenSCAD; design, analysis, simulation, and manufacturing
     - [[#electrical-engineering|Electrical]]: PCB design and manufacturing, soldering, wiring, crimping, cable management
     - [[#other-tools|Other]]: Generative AI; Gimp, Inkscape; Linux, macOS, Windows; various office suites
 
@@ -23,24 +23,24 @@ While the extent of my experience with each tool varies, they have all played a 
 - **Testing:** pytest
 - **Documentation:** Sphynx, mkdocs
 - **Environment:** uv, Poetry, pip, venv, Pyenv, Pipenv, DevPI
-
-#### Data science
-
-- **Data science:** Jupyter, SciPy stack, pandas, scikit-learn, SymPy
-- **Visualization:** Matplotlib, Seaborn, Plotly, Streamlit
-
-#### Interfaces
-
+- **LLMs:** PydanticAI, llm, Hugging Face Transformers, various official packages
 - **TUIs:** argparse, typer, click, fire, cyclopts
 - **GUIs:** OpenGL, PyQT, PySide, Tkinter
+
+### Data science
+
+- **Python:** Jupyter, SciPy stack, pandas, scikit-learn, SymPy
+- **Visualization:** Matplotlib, Seaborn, Plotly, Streamlit
+- **Familiar with:** dbt, PySpark
 
 ### Web development
 
 - **Languages:** Python, Ruby, Javascript, HTML, CSS
 - **Frameworks:** FastAPI, Flask, Django, Ruby on Rails, Vue
 - **Packages:** Pydantic, Jinja2, Bootstrap, Axios
+- **Authentication:** LDAP, OpenID Connect, JWT
 - **Databases:** SQLAlchemy, PostgreSQL, SQLite, redis
-- **Distributed systems:** Docker, Kafka, Kubernetes, AWS
+- **Distributed systems:** Docker, Kafka, Kubernetes, Sidekiq, AWS
 
 ### General development
 
@@ -68,7 +68,7 @@ While the extent of my experience with each tool varies, they have all played a 
 
 ### Mechanical engineering
 
-- **CAD Tools:** Solidworks, Autodesk Inventor, AutoCAD, Sketchup, Pro/E, CATIA, Unigraphics, FreeCAD, OpenSCAD
+- **CAD Tools:** Solidworks, Autodesk Inventor, OnShape, Autodesk Fusion, AutoCAD, Sketchup, Pro/E, CATIA, Unigraphics, FreeCAD, OpenSCAD
 - **Analysis and simulation:** Solidworks, Adams View, ANSYS
 - **Production:** Machine shop practices, metalworking, woodworking
 
@@ -85,7 +85,7 @@ While the extent of my experience with each tool varies, they have all played a 
 
 ## Other tools
 
-- **AI Tools:** ChatGPT, Claude, Gemini, Stable Diffusion etc; some experience integrating them.
+- **AI Tools:** ChatGPT, Claude, Gemini, various Ollama, Stable Diffusion etc. Some experience integrating them, including with RAG. Github Copilot in agentic mode, Gemini CLI.
 - **Graphic design:** Gimp, Inkscape, diagrams.net (draw.io), Visio
 - **Office suites:** LibreOffice, Microsoft Office, Google Suite
 - **Project management:** Microsoft Project, Primavera

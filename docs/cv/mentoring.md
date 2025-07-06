@@ -4,7 +4,7 @@ _2003 &ndash; Present_
 
 ???+ summary
 
-    - 20+ years experience mentoring colleagues, classmates and students, including 4 years as a senior developer
+    - 20+ years experience mentoring colleagues, classmates and students, including more than 5 years as a senior developer
     - Recognized for my ability to break down and explain complex concepts at all levels
     - Have received praise for my patience and effective teaching methods
     - Taught subjects ranging from math and physics to English and Japanese, as well as Python
@@ -13,11 +13,13 @@ _2003 &ndash; Present_
 
 I have mentored coworkers in [[work|all of my jobs]]
 in Python and software development best practices.
-This includes 4 years as a senior developer, where I took part in onboarding new hires.
+This includes more than 5 years as a senior developer, where I took part in onboarding new hires and other people new to the language or codebase.
 
 I have received praise for my patience and ability to explain complex concepts effectively.
 In addition to mentoring during code reviews and pair programming sessions, I gave presentations introducing new concepts, techniques, or technologies.
 I have also participated in outreach events, such as the [[adimian|CodeBar at Adimian]].
+
+At [[ndte|NDTE]], I was the go-to person for questions about LLMs and prompting, and I hosted several instances of an LLM hackathon to explore their use and integration.
 
 At [[kyoto|Kyoto University]], I led the software development team for [[yozakura|Yozakura]], a teleoperated rescue robot.
 There, I also mentored my teammates in software development and robotics, including the usage of version control.
@@ -35,7 +37,7 @@ I also taught beginner and intermediate Japanese courses as a volunteer with the
 
 ## Private tutor
 
-I started tutoring in middle school, when I helped a neighbour pass his national exam.
+I started tutoring in middle school, when I helped a neighbour pass his national exam in Math.
 
 While living in Japan, I taught English to Japanese students, Japanese to foreign students,
 and tutored students up to high school in math and physics in Japanese.
