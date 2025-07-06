@@ -2,9 +2,9 @@
 
 ??? summary
     - 10+ years of multidisciplinary experience, including 4 years in a senior role
-    - Python and Robotics expert, with work in industrial automation, data science, web development, and more
+    - Python and Robotics specialization, with work in industrial automation, data science, web development, medical technology, and more
     - [[#work-experience|Work experience]]
-        - [[#software-developer-nipro-digital-technologies-europe|Software Dev.]], Nipro, 2023 &ndash; 2025
+        - [[#senior-software-developer-nipro-digital-technologies-europe|Software Dev.]], Nipro, 2023 &ndash; 2025
         - [[#senior-software-engineer-adimian|Senior Software Eng.]], Adimian, 2021 &ndash; 2023
         - [[#senior-python-developer-yieldsio|Senior Python Dev.]], Yields.io, 2019 &ndash; 2020
         - [[#industrial-automation-engineer-kapernikov|Ind. Automation Eng.]], Kapernikov, 2019
@@ -19,21 +19,21 @@
             - Contributions to major and minor open source projects, including numpy, ROS, and more
     - 20+ years of [[#mentoring-experience|mentoring experience]]
     - [[#education|Education]]
-    - [[kyoto|Kyoto University]] ([Mechatronics lab]{{ urls.edu.matsuno }}), MEng
-    - [[waterloo|University of Waterloo]], BASc Mechatronics
+      - [[kyoto|Kyoto University]] ([Mechatronics lab]{{ urls.edu.matsuno }}), MEng
+      - [[waterloo|University of Waterloo]], BASc Mechatronics
     - [[#technical-skills|Technical skills]] include data science, web development, and robotics (both hardware and software)
         - For more details, please see the [[#tools-and-technologies|list of tools and technologies]] I have experience with
     - [[#soft-skills|Soft skills]] include adaptability, communication, [[#languages|languages]], and leadership skills
     - [[#tools-and-technologies|Tools and technologies]]
-        - Programming languages: Python, Javascript, C++, bash
-        - Development: Git, CI/CD, Docker, documentation (Sphinx, mkdocs), testing (pytest)
+        - Programming languages: Python, Ruby, Javascript, C++, bash
+        - Development: Git, CI/CD, Docker, documentation (Sphinx, mkdocs), testing (pytest, RSpec)
         - Data science: Jupyter, SciPy stack, pandas, scikit-learn, SymPy, Matplotlib, Seaborn, Plotly, Streamlit
-        - Web development: Python (FastAPI, Pydantic), Javascript (Vue), HTML, CSS, SQLAlchemy
+        - Web development: Python (FastAPI, Pydantic), Ruby (Ruby on Rails), Javascript (Vue), HTML, CSS, SQLAlchemy
         - Robotics: ROS stack; various microcontrollers, boards, sensors, and actuators
         - Hardware: Raspberry Pi, ESP8266, Arduino, mbed; MicroPython, CircuitPython, C++, C
         - Mechanical: Solidworks, Autodesk Inventor, OpenSCAD; design, analysis, simulation, and manufacturing
         - Electrical: PCB design and manufacturing, soldering, wiring, crimping, cable management
-        - Other: ChatGPT and other LLMs; Gimp, Inkscape; Linux, macOS, Windows; various office suites
+        - Other: Generative AI; Gimp, Inkscape; Linux, macOS, Windows; various office suites
     - [[#testimonials-from-colleagues|Testimonials from my colleagues]] highlight my technical expertise in Python, robotics, and related tools,
       with specific emphasis on my innovative problem-solving skills, continuous learning approach, and commitment to excellence.
       They further appreciate my proactive knowledge sharing, engaging in thoughtful discussions, and being a reliable, enjoyable teammate.
@@ -50,15 +50,17 @@ data science, visualization, and web development.
 
 I have worked primarily in a software engineering role, with a focus on Python and some robotics.
 I have worked in a variety of fields, including [[#industrial-automation-engineer-kapernikov|industrial automation]],
-[[#senior-python-developer-yieldsio|data science]], and [[#senior-software-engineer-adimian|web development]].
+[[#senior-python-developer-yieldsio|data science]],
+[[#senior-software-engineer-adimian|web development]],
+and [[#senior-software-developer-nipro-digital-technologies-europe|medical software development]].
 
-### Software Developer, [Nipro Digital Technologies Europe]{{ urls.work.ndte }}
+### Senior Software Developer, [Nipro Digital Technologies Europe]{{ urls.work.ndte }}
 
 _September 2023 &ndash; June 2025, Brugge, Belgium (hybrid)_
 
-- Designed and developed new features and fixed bugs in the [[https://www.nipro-group.com/en/our-offer/products-services/nephroflowtm-product-suite|NephroFlow]] dialysis management application using Ruby on Rails and PostgreSQL
-- Implemented functionality across various modules, including regulatory reporting, dialysis prescription management, authentication, user and patient management, support for configurable units, and more
-- Collaborated with the team to triage and resolve bugs, tackle technical debt, and actively participate in the release process, including testing, documentation, and monitoring
+- Led the end-to-end design and implementation of multiple critical features for the [NephroFlow]{{ urls.work.nephroflow }} dialysis management application (Ruby on Rails, PostgreSQL), delivering complex modules such as a dynamic unit conversion system, and from-scratch OIDC/LDAP authentication integration.
+- Engineered key data and reporting solutions, automating the generation of complex regulatory reports by handling numerous edge cases in production data, and implementing the foundational backend architecture for a new analytics dashboard which uses dbt and Cube.js.
+- Served as the company's subject matter expert on LLMs and their integration, advising colleagues across the company and leading a successful series of exploratory hackathons.
 
 ### [[adimian|Senior Software Engineer]], [Adimian]{{ urls.work.adimian }}
 
@@ -148,16 +150,16 @@ between 2009 and 2012, working in six companies in three countries over a total 
     For more details, please see the [[tools|full list of tools and technologies]] I have experience with.
 
 - [[skills#software-engineering|Software engineering]], with expertise in Python
-  - Proficient in multiple programming languages, including Javascript
+  - Proficient in multiple programming languages, including Ruby.
   - Data science, including data analysis, modeling, and visualization.
   - Web development, including backend and frontend frameworks and languages.
-- [[skills#robotics|Robotics]], including software and hardware
+- [[skills#robotics|Robotics]], including software and hardware.
   - Robotic software development using Python, ROS, C++, and C.
   - Experience developing drivers and working with various robotic hardware.
-- [[skills#mechanical-and-electrical-engineering|Mechanical and electrical engineering]]
+- [[skills#mechanical-and-electrical-engineering|Mechanical and electrical engineering]].
   - Can design, manufacture, and assemble electromechanical systems, including robotic systems.
   - CAD software, mechanical system simulation, electrical design platforms, and digital logic design.
-- [[skills#other-skills|Knowledge of LLMs and other AI tools]]
+- [[skills#other-skills|Knowledge of LLMs and other AI tools]].
 
 ### [[skills#soft-skills|Soft skills]]
 

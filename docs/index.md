@@ -14,7 +14,8 @@ Hello! I'm Jean Nassar, and I'm a senior Python and robotics expert with more th
 I have been living in Belgium since 2018, and have worked in multiple fields,
 including [[work#industrial-automation-engineer-kapernikov|industrial automation]],
 [[work#senior-python-developer-yieldsio|data science]],
-and [[work#senior-software-engineer-adimian|web development]].
+[[work#senior-software-engineer-adimian|web development]],
+and [[work#senior-software-developer-nipro-digital-technologies-europe|medical software development]].
 
 As a senior engineer of more than 5 years,
 I have [[mentoring|mentored colleagues]] in software development best practices and nurtured their Python skills.

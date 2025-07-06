@@ -3,8 +3,8 @@
 _2009 &ndash; Present_
 ??? summary
     - 10+ years of multidisciplinary experience, including 4 years in a senior role
-    - Python and Robotics specialization, with work in industrial automation, data science, web development, and more
-    - [[#software-developer-nipro-digital-technologies-europe|Software Developer]], Nipro Digital Technologies Europe, 2023 &ndash; 2025
+    - Python and Robotics specialization, with work in industrial automation, data science, web development, medical technology, and more
+    - [[#senior-software-developer-nipro-digital-technologies-europe|Software Developer]], Nipro Digital Technologies Europe, 2023 &ndash; 2025
     - [[#senior-software-engineer-adimian|Senior Software Engineer]], Adimian, 2021 &ndash; 2023
     - [[#senior-python-developer-yieldsio|Senior Python Developer]], Yields.io, 2019 &ndash; 2020
     - [[#industrial-automation-engineer-kapernikov|Industrial Automation Eng.]], Kapernikov, 2019
@@ -13,17 +13,18 @@ _2009 &ndash; Present_
 I'm a senior Python and robotics expert with more than 10 years of experience in a variety of fields, including
 [[#industrial-automation-engineer-kapernikov|industrial automation]],
 [[#senior-python-developer-yieldsio|data science]],
-and [[#senior-software-engineer-adimian|web development]].
+[[#senior-software-engineer-adimian|web development]],
+and [[#senior-software-developer-nipro-digital-technologies-europe|medical software development]].
 
 For internships, please see the [[coop|co-op page]].
 
-## Software Developer, [Nipro Digital Technologies Europe]{{ urls.work.ndte }}
+## Senior Software Developer, [Nipro Digital Technologies Europe]{{ urls.work.ndte }}
 
 _September 2023 &ndash; June 2025, Brugge, Belgium (hybrid)_
 
-- Designed and developed new features and fixed bugs in the [[https://www.nipro-group.com/en/our-offer/products-services/nephroflowtm-product-suite|NephroFlow]] dialysis management application using Ruby on Rails and PostgreSQL
-- Implemented functionality across various modules, including regulatory reporting, dialysis prescription management, authentication, user and patient management, support for configurable units, and more
-- Collaborated with the team to triage and resolve bugs, tackle technical debt, and actively participate in the release process, including testing, documentation, and monitoring
+- Led the end-to-end design and implementation of multiple critical features for the [NephroFlow]{{ urls.work.nephroflow }} dialysis management application (Ruby on Rails, PostgreSQL), delivering complex modules such as a dynamic unit conversion system, and from-scratch OIDC/LDAP authentication integration.
+- Engineered key data and reporting solutions, automating the generation of complex regulatory reports by handling numerous edge cases in production data, and implementing the foundational backend architecture for a new analytics dashboard which uses dbt and Cube.js.
+- Served as the company's subject matter expert on LLMs and their integration, advising colleagues across the company and leading a successful series of exploratory hackathons.
 
 ## [[adimian|Senior Software Engineer]], [Adimian]{{ urls.work.adimian }}
 

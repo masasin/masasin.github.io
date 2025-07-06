@@ -4,16 +4,16 @@
 
     - [[#technical-skills|Technical skills]]:
         - [[#software-engineering|Software engineering]], with expertise in Python
-            - Proficient in multiple programming languages, including Javascript
+            - Proficient in multiple programming languages, including Ruby.
             - Data science, including data analysis, modeling, and visualization.
             - Web development, including backend and frontend frameworks and languages.
-        - [[#robotics|Robotics]], including software and hardware
+        - [[#robotics|Robotics]], including software and hardware.
             - Robotic software development using Python, ROS, C++, and C. 
             - Experience developing drivers and working with various robotic hardware.
-        - [[#mechanical-and-electrical-engineering|Mechanical and electrical engineering]]
+        - [[#mechanical-and-electrical-engineering|Mechanical and electrical engineering]].
             - Can design, manufacture, and assemble electromechanical systems, including robotic systems.
             - CAD software, mechanical system simulation, electrical design platforms, and digital logic design.
-        - [[#other-skills|Knowledge of LLMs and other AI tools]]
+        - [[#other-skills|Knowledge of LLMs and other AI tools]].
         - For more details, please see the [[tools|list of tools and technologies]] I have experience with.
     - [[#soft-skills|Soft skills]]:
         [[#adaptability|Adaptability]],
