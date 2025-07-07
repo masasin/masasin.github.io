@@ -13,6 +13,7 @@ nav:
       - CV Overview: "cv.md"
       - Work Experience:
           - Work Overview: "cv/work.md"
+          - Senior Software Developer, Nipro Digital Technologies Europe: "cv/work/ndte.md"
           - Senior Software Engineer, Adimian: "cv/work/adimian.md"
           - Senior Python Developer, Yields.io: "cv/work/yields.md"
           - Industrial Automation Engineer, Kapernikov: "cv/work/kapernikov.md"
