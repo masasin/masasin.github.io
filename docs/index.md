@@ -17,7 +17,7 @@ including [[work#industrial-automation-engineer-kapernikov|industrial automation
 [[work#senior-software-engineer-adimian|web development]],
 and [[work#senior-software-developer-nipro-digital-technologies-europe|medical software development]].
 
-As a senior engineer of more than 5 years,
+As a senior engineer of more than 6 years,
 I have [[mentoring|mentored colleagues]] in software development best practices and nurtured their Python skills.
 I have received praise for my patience and ability to explain complex topics effectively.
 

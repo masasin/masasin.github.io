@@ -4,7 +4,7 @@ _2003 &ndash; Present_
 
 ???+ summary
 
-    - 20+ years experience mentoring colleagues, classmates and students, including more than 5 years as a senior developer
+    - 20+ years experience mentoring colleagues, classmates and students, including more than 6 years as a senior developer
     - Recognized for my ability to break down and explain complex concepts at all levels
     - Have received praise for my patience and effective teaching methods
     - Taught subjects ranging from math and physics to English and Japanese, as well as Python
@@ -13,7 +13,7 @@ _2003 &ndash; Present_
 
 I have mentored coworkers in [[work|all of my jobs]]
 in Python and software development best practices.
-This includes more than 5 years as a senior developer, where I took part in onboarding new hires and other people new to the language or codebase.
+This includes more than 6 years as a senior developer, where I took part in onboarding new hires and other people new to the language or codebase.
 
 I have received praise for my patience and ability to explain complex concepts effectively.
 In addition to mentoring during code reviews and pair programming sessions, I gave presentations introducing new concepts, techniques, or technologies.
