@@ -11,7 +11,7 @@ _February &ndash; December 2018, Antwerp, Belgium (hybrid)_
     - Created several docker containers and docker-compose files to automate environment setup and teardown.
     - Worked on standardizing DevPI index contents using Pipenv.
 
-![[/assets/images/sentiance_event.jpg|Teambuilding at Sentaince]]{: style="width:300px", align=right}
+![[/assets/images/sentiance_event.jpg|Teambuilding at Sentiance]]{: style="width:300px", align=right}
 Sentiance turns IOT sensor data from e.g., mobile phones into insightful data,
 such as the segment of the population that a user belongs to, as well as their current actions and predicted future actions.
 The core of the codebase was written in Python 2, which reached end of life on January 1, 2020.
