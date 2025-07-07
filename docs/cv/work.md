@@ -18,7 +18,7 @@ and [[#senior-software-developer-nipro-digital-technologies-europe|medical softw
 
 For internships, please see the [[coop|co-op page]].
 
-## Senior Software Developer, [Nipro Digital Technologies Europe]{{ urls.work.ndte }}
+## [[ndte|Senior Software Developer]], [Nipro Digital Technologies Europe]{{ urls.work.ndte }}
 
 _September 2023 &ndash; June 2025, Brugge, Belgium (hybrid)_
 
