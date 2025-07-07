@@ -33,8 +33,7 @@ I was dispatched to a Regional Coordination Centre for European TSOs in April 20
 My role entailed end-to-end project responsibility, ranging from initial design to final completion,
 followed by proactive and responsive maintenance.
 
-Our workflow consisted of biweekly sprints, where I did code development and documentation, as well as reviewing and testing code written by my coworkers.
-The technology stack primarily included Python, where I utilized libraries such as
+The technology stack was primarily Python, where I utilized libraries such as
 Pydantic, FastAPI, SQLAlchemy, and Redis for backend development; and Vue for frontend tasks.
 In some cases, I designed and implemented ad-hoc scripts, managed releases, and efficiently addressed bug reports,
 maintaining the high standard of our deliverables.
