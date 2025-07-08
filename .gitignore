@@ -1,7 +1,9 @@
 *~
 site/
 .idea/
+.vscode/
 .venv/
+.python-version
 *.workspace
 archive.zip
 .DS_Store
