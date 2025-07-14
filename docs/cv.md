@@ -54,7 +54,7 @@ I have worked in a variety of fields, including [[#industrial-automation-enginee
 [[#senior-software-engineer-adimian|web development]],
 and [[#senior-software-developer-nipro-digital-technologies-europe|medical software development]].
 
-## [[ndte|Senior Software Developer]], [Nipro Digital Technologies Europe]{{ urls.work.ndte }}
+### [[ndte|Senior Software Developer]], [Nipro Digital Technologies Europe]{{ urls.work.ndte }}
 
 _September 2023 &ndash; June 2025, Brugge, Belgium (hybrid)_
 
