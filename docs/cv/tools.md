@@ -39,7 +39,7 @@ While the extent of my experience with each tool varies, they have all played a 
 - **Frameworks:** FastAPI, Flask, Django, Ruby on Rails, Vue
 - **Packages:** Pydantic, Jinja2, Bootstrap, Axios
 - **Authentication:** LDAP, OpenID Connect, JWT
-- **Databases:** SQLAlchemy, PostgreSQL, SQLite, redis
+- **Databases & Protocols:** SQLAlchemy, PostgreSQL, SQLite, redis, HL7
 - **Distributed systems:** Docker, Kafka, Kubernetes, Sidekiq, AWS
 
 ### General development

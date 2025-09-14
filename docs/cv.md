@@ -58,7 +58,7 @@ and [[#senior-software-developer-nipro-digital-technologies-europe|medical softw
 
 _September 2023 &ndash; June 2025, Brugge, Belgium (hybrid)_
 
-- Led the end-to-end design and implementation of multiple critical features for the [NephroFlow]{{ urls.work.nephroflow }} dialysis management application (Ruby on Rails, PostgreSQL), delivering complex modules such as a dynamic unit conversion system, and from-scratch OIDC/LDAP authentication integration.
+- Led the end-to-end design and implementation of multiple critical features for the [NephroFlow]{{ urls.work.nephroflow }} dialysis management application (Ruby on Rails, PostgreSQL), delivering complex modules such as a dynamic unit conversion system, automatic HL7 message ingestion and production, and from-scratch OIDC/LDAP authentication integration.
 - Engineered key data and reporting solutions, automating the generation of complex regulatory reports by handling numerous edge cases in production data, and implementing the foundational backend architecture for a new analytics dashboard which uses dbt and Cube.js.
 - Served as the company's subject matter expert on LLMs and their integration, advising colleagues across the company and leading a successful series of exploratory hackathons.
 
